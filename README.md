@@ -7,25 +7,26 @@
 **6+ years building production AI systems at enterprise scale — GenAI, LLMs, RAG, RLHF, Computer Vision, Voice AI, Cloud Architecture.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-malik-62b3301ab)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rehanmalik99)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanmalil99@gmail.com)
 
 ---
 
 ## About Me
 
-I'm a **Senior AI/ML Engineer** with 6+ years of hands-on experience shipping production AI systems across **healthcare, finance, retail, media, and enterprise operations**. I've worked with companies ranging from 10-person startups to 10,000+ employee enterprises like **MARS**, solving problems that move business metrics.
+I’m a **Senior AI/ML Engineer** with 6+ years of hands-on experience shipping production AI systems across **healthcare, finance, retail, media, and enterprise operations**. I’ve worked with companies ranging from 10-person startups to 10,000+ employee enterprises like **MARS**, solving problems that move business metrics.
 
-**What I do best:** Take AI from research to production. I've fine-tuned LLMs (LLaMA, Mistral) with LoRA/QLoRA, built RLHF pipelines with PPO, architected RAG systems over 2TB+ corpora, deployed real-time voice infrastructure handling 500+ concurrent calls, and shipped fraud detection models processing applications in real-time — all on AWS/GCP at scale.
+**What I do best:** Take AI from research to production. I’ve fine-tuned LLMs (LLaMA, Mistral) with LoRA/QLoRA, built RLHF pipelines with PPO, architected RAG systems over 2TB+ corpora, deployed real-time voice infrastructure handling 500+ concurrent calls, and shipped fraud detection models processing applications in real-time — all on AWS/GCP at scale.
 
-**What I'm looking for:** Senior AI/ML Engineer, Staff ML Engineer, or Lead AI Engineer roles where I can build and ship production AI systems.
+**What I’m looking for:** Senior AI/ML Engineer, Staff ML Engineer, or Lead AI Engineer roles where I can build and ship production AI systems.
 
 **M.S. Artificial Intelligence** (LUMS) · **B.S. Computer Science** (COMSATS)
 
 ---
 
-## What I've Built
+## What I’ve Built
 
-The work I'm most proud of — production systems processing real data, serving real users, driving real business impact.
+The work I’m most proud of — production systems processing real data, serving real users, driving real business impact.
 
 ### Voice AI Infrastructure
 > Real-time concurrent voice processing with zero-latency ingestion engines
@@ -39,7 +40,7 @@ The work I'm most proud of — production systems processing real data, serving 
 
 - Engineered **650+ predictive features** from raw application data — behavioral anomalies, timing patterns, identity verification signals
 - Built ensemble model (XGBoost + Isolation Forest) achieving **50% fraud detection** on holdout test sets
-- Discovered **3 applicant personas** via unsupervised clustering (UMAP + HDBSCAN) — "Digital Ghost" persona has 70% fraud concentration
+- Discovered **3 applicant personas** via unsupervised clustering (UMAP + HDBSCAN) — “Digital Ghost” persona has 70% fraud concentration
 - Implemented GenAI-powered explainable PDF reports via **Amazon Bedrock** translating SHAP values into plain English
 
 ### Enterprise RAG Pipelines
@@ -66,7 +67,7 @@ The work I'm most proud of — production systems processing real data, serving 
 ### Computer Vision at Scale
 > Object detection and digital avatar generation
 
-- **BiiView**: Real-time object detection using Meta AI's **Segment Anything Model (SAM)** — 90% accuracy across **11M+ images** and **1.1B+ masks**
+- **BiiView**: Real-time object detection using Meta AI’s **Segment Anything Model (SAM)** — 90% accuracy across **11M+ images** and **1.1B+ masks**
 - **Digital People Platform**: Hyper-realistic talking avatars with SadTalker + SpeechT5 TTS — **70% realism improvement**, 30% user satisfaction increase
 - **KYC Platform**: Identity verification with OpenCV + AI — **99.9% accuracy**, 50% faster document processing
 
@@ -167,6 +168,94 @@ Autonomous AI agents for enterprise automation with LangChain orchestration.
 
 ---
 
+## Kaggle — Research & Technical Notebooks
+
+Hands-on explorations, architecture deep-dives, and production-tested techniques — published on [Kaggle](https://www.kaggle.com/rehanmalik99/code).
+
+<table>
+<tr>
+<td width="50%">
+
+🤖 **[Agentic AI: Multi-Agent Orchestration from Scratch](https://www.kaggle.com/code/rehanmalik99/agentic-ai-multi-agent-orchestration-from-scratch)**
+Building a multi-agent system with tool registries, planning loops, and guardrails — framework-agnostic patterns from production.
+
+</td>
+<td width="50%">
+
+🔌 **[LLM Function Calling and Tool Use: Complete Guide](https://www.kaggle.com/code/rehanmalik99/llm-function-calling-and-tool-use-complete-guide)**
+End-to-end function calling — schema design, validation, chaining, error recovery, and production deployment patterns.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🔍 **[Advanced RAG: Production Retrieval Guide](https://www.kaggle.com/code/rehanmalik99/advanced-rag-production-retrieval-guide)**
+Multi-query RAG, hybrid search, cross-encoder re-ranking, hallucination detection — beyond basic retrieve-and-generate.
+
+</td>
+<td width="50%">
+
+🎯 **[Prompt Engineering That Actually Works (2026)](https://www.kaggle.com/code/rehanmalik99/prompt-engineering-that-actually-works-2026)**
+Chain-of-thought, few-shot, self-consistency, structured output — real techniques with measured results.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+👁️ **[Multimodal AI: Vision-Language Pipeline](https://www.kaggle.com/code/rehanmalik99/multimodal-ai-vision-language-pipeline)**
+Vision encoders, cross-attention fusion, image captioning, visual QA — building multimodal systems from components.
+
+</td>
+<td width="50%">
+
+💳 **[Fraud Detection: XGBoost + Isolation Forest Ensemble](https://www.kaggle.com/code/rehanmalik99/fraud-detection-ensemble-xgboost-isolation-forest)**
+Ensemble anomaly detection with SHAP explainability, t-SNE visualization, and DBSCAN clustering on imbalanced data.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+💬 **[Sentiment Analysis: NLP Pipeline Comparison](https://www.kaggle.com/code/rehanmalik99/sentiment-analysis-nlp-pipeline-comparison)**
+TF-IDF vs BERT vs DistilBERT — benchmarking classical and transformer approaches on real text data.
+
+</td>
+<td width="50%">
+
+📚 **[RAG Pipeline: LangChain + FAISS for Document QA](https://www.kaggle.com/code/rehanmalik99/rag-pipeline-langchain-faiss-for-document-qa)**
+End-to-end retrieval-augmented generation with chunk strategies, embedding models, and answer grounding.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🧬 **[LLM Fine-Tuning: LoRA and QLoRA Guide](https://www.kaggle.com/code/rehanmalik99/llm-fine-tuning-lora-and-qlora-guide)**
+Parameter-efficient fine-tuning walkthrough — LoRA, QLoRA, PEFT with memory profiling and serving benchmarks.
+
+</td>
+<td width="50%">
+
+📈 **[Time Series: XGBoost Forecasting](https://www.kaggle.com/code/rehanmalik99/time-series-xgboost-forecasting)**
+Feature engineering for temporal data — lag features, rolling stats, calendar effects, walk-forward validation.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+🚢 **[Titanic: Stacking Ensemble Pipeline](https://www.kaggle.com/code/rehanmalik99/titanic-stacking-ensemble-pipeline)** — Advanced stacking with cross-validated base learners, meta-learner optimization, and feature engineering.
+
+</td>
+</tr>
+</table>
+
+[👉 View all notebooks on Kaggle →](https://www.kaggle.com/rehanmalik99/code)
+
+---
+
 ## Tech Stack
 
 **Languages & Frameworks**
@@ -240,11 +329,12 @@ Autonomous AI agents for enterprise automation with LangChain orchestration.
 
 <p align="center">
 <b>Currently open to Senior AI/ML Engineer, Staff ML Engineer, or Lead AI Engineer roles.</b><br/>
-If you're building production AI systems and need someone who ships — let's talk.
+If you’re building production AI systems and need someone who ships — let’s talk.
 </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/rehan-malik-62b3301ab"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"/></a>
+<a href="https://www.kaggle.com/rehanmalik99"><img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat-square&logo=kaggle"/></a>
 <a href="mailto:rehanmalil99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail"/></a>
 </p>
 
@@ -260,5 +350,8 @@ AWS, SageMaker, Bedrock, Lambda, ECS, Azure, GCP, Docker, Kubernetes, Terraform,
 Python, C++, CUDA, gRPC, FastAPI, Flask, WebSockets,
 Kafka, PySpark, Airflow, PostgreSQL, MongoDB, Redis, DynamoDB,
 MLOps, CI/CD, microservices, data engineering, ETL, data pipelines,
-fraud detection, XGBoost, ensemble methods, explainable AI
+fraud detection, XGBoost, ensemble methods, explainable AI,
+Kaggle, kaggle notebooks, agentic AI, multi-agent systems, function calling, tool use,
+prompt engineering, multimodal AI, vision-language models, time series forecasting,
+data science portfolio, deep learning, NLP pipelines, BERT, transformers
 -->
