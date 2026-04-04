@@ -2,137 +2,108 @@
 
 # Rehan Malik
 
-### Senior AI/ML Engineer | Building Production AI Systems at Scale
+### Senior AI/ML Engineer · Open to Opportunities
 
-**6+ years architecting and deploying enterprise-grade AI systems — from real-time voice infrastructure handling 500+ concurrent calls to LLM-powered agents automating million-dollar workflows.**
-
-I build AI that ships. Not prototypes — production systems processing real data, serving real users, driving real revenue.
+**6+ years building production AI systems at enterprise scale — GenAI, LLMs, RAG, RLHF, Computer Vision, Voice AI, Cloud Architecture.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-malik-62b3301ab)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanmalil99@gmail.com)
-[![Reallytics.ai](https://img.shields.io/badge/Reallytics.ai-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://reallytics.ai)
 
 ---
 
-## Summary
+## About Me
 
-I'm a **Senior AI/ML Engineer** with 6+ years of progressive experience building production AI systems that operate at enterprise scale across the US, UK, Australia, and Pakistan.
+I'm a **Senior AI/ML Engineer** with 6+ years of hands-on experience shipping production AI systems across **healthcare, finance, retail, media, and enterprise operations**. I've worked with companies ranging from 10-person startups to 10,000+ employee enterprises like **MARS**, solving problems that move business metrics.
 
-My path: **Data Engineer** (MeryCure) → **AI Product Engineer** (Afiniti) → **Senior ML Engineer** (Afiniti — $1M+ accounts) → **Senior ML/AI Engineer** (Verticiti — RAG, LLM fine-tuning, agentic AI) → **Senior GenAI Engineer** (MARS — $1M+ enterprise transformation) → **Cloud Solution Architect** (Cloud Kinetics — multi-cloud AI) → **Senior AI Engineer** (Reallytics.ai — voice AI, GenAI, cloud infrastructure at scale).
+**What I do best:** Take AI from research to production. I've fine-tuned LLMs (LLaMA, Mistral) with LoRA/QLoRA, built RLHF pipelines with PPO, architected RAG systems over 2TB+ corpora, deployed real-time voice infrastructure handling 500+ concurrent calls, and shipped fraud detection models processing applications in real-time — all on AWS/GCP at scale.
 
-I've shipped AI across the full stack — from fine-tuning LLMs with LoRA/QLoRA and building RLHF pipelines with PPO, to architecting real-time voice systems on Kafka and deploying gRPC microservices with C++/CUDA for sub-200ms inference. At MARS, I led a **$1M+ GenAI initiative** for regulated industries. At Reallytics.ai, I'm the technical architect behind products serving clients across **healthcare, finance, media, retail, and education**.
+**What I'm looking for:** Senior AI/ML Engineer, Staff ML Engineer, or Lead AI Engineer roles where I can build and ship production AI systems.
 
 **M.S. Artificial Intelligence** (LUMS) · **B.S. Computer Science** (COMSATS)
 
 ---
 
-## Reallytics.ai — Products I've Built
+## What I've Built
 
-`Senior AI Engineer · Oct 2022 – Present`
+The work I'm most proud of — production systems processing real data, serving real users, driving real business impact.
 
-At **Reallytics.ai**, I architect and build production AI products deployed across multiple industries. Every product below — from concept to production — has my technical fingerprint.
+### Voice AI Infrastructure
+> Real-time concurrent voice processing with zero-latency ingestion engines
 
-| Product | What It Does | Live |
-| --- | --- | --- |
-| **Novalytics** | Context-aware voice AI assistants with sub-300ms latency and memory-persistent dialogue. Real-time voice-to-data ingestion processing 500+ concurrent calls via WebSockets and Kafka. | [Live](https://novalytics.reallytics.ai) |
-| **Sentinel AI** | AI fraud co-pilot for financial institutions. Ensemble XGBoost + Isolation Forest model generating 650+ features, real-time risk scoring (0.0–1.0), and GenAI-powered PDF explanations via Amazon Bedrock. 50% fraud detection on holdout test sets. | [Live](https://fraud-detection.reallytics.ai) |
-| **AI Agents Platform** | 8+ autonomous AI agents for healthcare, finance, media, retail, education, and marketing. Insurance underwriting (Riley), multilingual caregiving in 100+ languages (Carmen), admissions automation — 50% faster processing (Emma). | [Live](https://gen-ai.reallytics.ai) |
-| **LLM Chatbots** | RAG-powered chatbots for Finance, Retail, Healthcare, and HR using LangChain, FAISS, ChromaDB, OpenAI, Claude, and Mistral. | [Live](https://chatbots.reallytics.ai) |
-| **Data Analytics Platform** | Multi-platform BI hub (Power BI + Copilot, Tableau, QuickSight) with AI-powered insights and real-time streaming. | [Live](https://data-analytics-platform.reallytics.ai) |
-| **Real Talent** | AI talent platform connecting vetted Pakistani AI engineers to international clients across 4 continents. | [Live](https://real-talent.reallytics.ai) |
+- Built voice-to-data pipelines handling **500+ simultaneous calls** using WebSockets, Apache Kafka, and streaming architectures
+- Developed gRPC microservices with **C++ modules (CUDA, Eigen)**, reducing inference latency by **25%**
+- Designed speech-to-text, sentiment analysis, and sales insights extraction from live audio streams
 
-**Technical depth:** Fine-tuned LLaMA-2/Mistral using LoRA, QLoRA, PEFT via Hugging Face (40% API cost reduction). Served models via VLLM/CUDA. Built gRPC microservices with C++ modules (CUDA, Eigen) reducing inference latency by 25%. Cloud infra on AWS (ECS, Lambda, S3, SageMaker, RDS) and GCP. Full CI/CD with Docker and Kubernetes.
+### Fraud Detection AI Co-Pilot
+> Ensemble ML + GenAI explainability for financial services
+
+- Engineered **650+ predictive features** from raw application data — behavioral anomalies, timing patterns, identity verification signals
+- Built ensemble model (XGBoost + Isolation Forest) achieving **50% fraud detection** on holdout test sets
+- Discovered **3 applicant personas** via unsupervised clustering (UMAP + HDBSCAN) — "Digital Ghost" persona has 70% fraud concentration
+- Implemented GenAI-powered explainable PDF reports via **Amazon Bedrock** translating SHAP values into plain English
+
+### Enterprise RAG Pipelines
+> Knowledge retrieval across 2TB+ structured and unstructured data
+
+- Architected multi-index retrieval (FAISS + ChromaDB + PG-Vector) with cross-encoder re-ranking
+- Built hallucination detection and citation tracking for grounded LLM responses
+- Deployed on **AWS SageMaker** with auto-scaling — **40% cost reduction** vs hosted API models
+
+### LLM Fine-Tuning & RLHF
+> Parameter-efficient fine-tuning and human alignment for production LLMs
+
+- Fine-tuned **LLaMA-2, Mistral** with LoRA, QLoRA, PEFT — served via VLLM with CUDA optimization
+- Built full **RLHF pipeline**: SFT → Reward Modeling → PPO optimization with KL divergence constraints
+- Achieved **68% win rate** vs SFT baseline and **96% safety compliance**
+
+### Autonomous AI Agents
+> Multi-agent systems executing complex workflows without human intervention
+
+- Built **8+ specialized agents** for insurance underwriting, multilingual caregiving (100+ languages), content generation, and admissions automation
+- LangChain Agent orchestration connecting LLMs to databases, APIs, and messaging platforms
+- Reduced processing time by **50%** for student admissions workflows
+
+### Computer Vision at Scale
+> Object detection and digital avatar generation
+
+- **BiiView**: Real-time object detection using Meta AI's **Segment Anything Model (SAM)** — 90% accuracy across **11M+ images** and **1.1B+ masks**
+- **Digital People Platform**: Hyper-realistic talking avatars with SadTalker + SpeechT5 TTS — **70% realism improvement**, 30% user satisfaction increase
+- **KYC Platform**: Identity verification with OpenCV + AI — **99.9% accuracy**, 50% faster document processing
 
 ---
 
 ## Professional Experience
 
-### MARS — Senior Generative AI Engineer
-
-`Oct 2024 – Jan 2026 · Remote`
-
-Led a **$1M+ Generative AI enterprise transformation** initiative for one of the world's largest CPG companies.
-
-- Architected GenAI data pipelines ingesting, transforming, and grounding business documents into structured technical assets using LLM orchestration
-- Implemented GenAI orchestration patterns (LangChain, multi-agent frameworks) aligned with cloud architecture for regulated industries
-- Built knowledge grounding mechanisms using RAG architectures — ensuring LLM outputs are factual and domain-specific
-- Designed multi-stage delivery frameworks with audit-ready data lineage and governance standards
-- Led human-in-the-loop validation sessions, ensuring safe AI adoption in production workflows
-
-### Cloud Kinetics USA — Cloud Solution Architect
-
-`Aug 2024 – Dec 2025 · United States`
-
-- Translated complex business problems into scalable **cloud-native AI solutions on AWS, Azure, and GCP** for multiple enterprise clients
-- Designed and deployed internal AI automation tools and data pipelines integrated with enterprise data ecosystems
-- Built custom ETL/ELT workflows, cloud data migration, and real-time data processing pipelines
-- Managed weekly client reviews providing updates on cloud infrastructure and automation strategy alignment
-
-### Verticiti — Senior ML/AI Engineer
-
-`Dec 2023 – Jul 2024 · Remote`
-
-- Built scalable **RAG pipelines** using LangChain, FAISS, and ChromaDB for enterprise search across **2TB+ document repositories**
-- Deployed fine-tuned LLMs (LLaMA, Mistral) using LoRA, QLoRA, PEFT on **AWS SageMaker** — 40% API cost reduction
-- Served models at scale using **VLLM** with optimized GPU utilization via CUDA, containerized on AWS ECS/ECR
-- Built **agentic AI workflows** connecting LLMs to internal APIs, databases, and messaging platforms
-- Integrated **C++ modules** (CUDA, Eigen) into inference pipelines — 25% latency reduction
-- Led real-time **object detection** using OpenCV + Segment Anything Model (SAM) — 90% accuracy across 11M+ images
-- Developed **Digital People Platform** with SadTalker + SpeechT5 TTS — 70% improvement in avatar realism
-
-### Afiniti — Senior ML Engineer / AI Product Engineer
-
-`Apr 2021 – Nov 2023 · Lahore, PK`
-
-- Managed ETL pipelines processing production data at scale for accounts generating **$200K+ monthly revenue**
-- Built **churn risk models** integrated into call routing logic — optimized sales agent assignment, improving conversion rates
-- Evaluated data quality, pipeline performance, and model accuracy for **$1M+ accounts**
-- Production data analysis using SQL, PostgreSQL, Grafana, and Tableau for real-time monitoring
-
-### MeryCure — Data Engineer
-
-`Feb 2020 – Apr 2021 · United States`
-
-- Built data pipelines to ingest, transform, and analyze **IoT sensor data** from 1000+ connected devices
-- Applied ML (clustering, anomaly detection) to IoT time-series data for predictive maintenance
-- Created dashboards in Power BI Desktop for stakeholder reporting
+| Role | Company | Period | Highlights |
+|---|---|---|---|
+| **Senior Generative AI Engineer** | MARS (10K+ employees) | Oct 2024 – Jan 2026 | Led **$1M+ GenAI enterprise transformation**. RAG architectures, LLM orchestration, multi-agent frameworks for regulated industries. |
+| **Cloud Solution Architect** | Cloud Kinetics USA | Aug 2024 – Dec 2025 | Designed cloud-native AI solutions on **AWS, Azure, GCP** for enterprise clients. ETL/ELT, data migration, real-time pipelines. |
+| **Senior ML/AI Engineer** | Verticiti | Dec 2023 – Jul 2024 | RAG pipelines (2TB+), LLM fine-tuning (LoRA/QLoRA), agentic workflows, C++ inference optimization, SAM object detection. |
+| **Senior AI Engineer** | Reallytics.ai | Oct 2022 – Present | Voice AI infra (500+ calls), fraud detection, autonomous agents, RLHF frameworks, cloud architecture on AWS/GCP. |
+| **Senior ML Engineer** | Afiniti | Oct 2022 – Nov 2023 | Production ETL at scale for **$1M+ accounts**, churn modeling, call routing optimization. |
+| **AI Product Engineer** | Afiniti | Apr 2021 – Oct 2022 | ML pipelines for call-routing, feature engineering on millions of daily records, production monitoring. |
+| **Data Engineer** | MeryCure | Feb 2020 – Apr 2021 | IoT data pipelines (1000+ devices), anomaly detection, predictive maintenance, Power BI dashboards. |
 
 ---
 
-## Key Projects
-
-| Project | Description | Impact |
-| --- | --- | --- |
-| [**Sentinel AI — Fraud Detection**](https://github.com/rehan243/Sentinel-AI-Fraud-Detection) | AI fraud co-pilot with ensemble XGBoost + Isolation Forest, 650+ engineered features, GenAI-powered explainable PDF reports via Amazon Bedrock. Deployed on AWS Lambda/SageMaker. | 50% fraud detection rate, 3 behavioral personas discovered |
-| [**BiiView — Object Detection**](https://github.com/rehan243/BiiView-Object-Detection) | Real-time object detection in video using OpenCV and Meta AI's Segment Anything Model (SAM). Enables interactive shopping from video feeds. | 90% accuracy across 11M+ images and 1.1B+ masks |
-| [**Digital People Platform**](https://github.com/rehan243/Digital-People-Platform) | Hyper-realistic talking avatar generation integrating SadTalker for lip-sync and Microsoft SpeechT5 TTS for natural speech. OpenAI-powered conversational AI backend. | 70% realism improvement, 30% user satisfaction increase |
-| [**Voice-AI-Platform**](https://github.com/rehan243/Voice-AI-Platform) | Real-time concurrent voice infrastructure with WebSockets, Kafka, and gRPC/C++ for speech-to-text, sentiment analysis, and sales insights. | 500+ concurrent calls, <50ms ingestion latency |
-| [**RAG-Enterprise-Search**](https://github.com/rehan243/RAG-Enterprise-Search) | Enterprise knowledge retrieval with multi-index fusion (FAISS + ChromaDB + PG-Vector), cross-encoder re-ranking, and hallucination detection. | 2TB+ corpus, 92% retrieval recall |
-| [**LLM-Fine-Tuning-LoRA**](https://github.com/rehan243/LLM-Fine-Tuning-LoRA) | Fine-tuning LLaMA-2, Mistral with LoRA/QLoRA/PEFT. VLLM serving with CUDA optimization, deployed on SageMaker. | 40% cost reduction vs hosted APIs |
-| [**RLHF-LLM-Optimization**](https://github.com/rehan243/RLHF-LLM-Optimization) | Full RLHF pipeline — SFT, reward modeling, PPO optimization with KL divergence constraints. DeepSpeed ZeRO distributed training. | 68% win rate vs SFT baseline, 96% safety compliance |
-| [**Agentic-AI-Workflows**](https://github.com/rehan243/Agentic-AI-Workflows) | Autonomous AI agent framework for enterprise automation — SEO, content, data pipelines, research. Plugin architecture with 5+ agent types. | Production autonomous execution for enterprise clients |
-| [**Real-Time-Audio-Pipeline**](https://github.com/rehan243/Real-Time-Audio-Pipeline) | Speech-to-text, sentiment analysis, speaker diarization, and sales insight extraction from live audio streams. | <2s transcription latency, 200+ concurrent streams |
-
----
-
-## Featured Open Source
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 **[Sentinel AI — Fraud Detection](https://github.com/rehan243/Sentinel-AI-Fraud-Detection)**
-AI fraud co-pilot with explainable risk scoring. Ensemble ML + GenAI explanations via Amazon Bedrock.
+Ensemble XGBoost + Isolation Forest with 650+ features and GenAI explainability via Amazon Bedrock.
 
-`Python` `XGBoost` `Isolation Forest` `AWS` `Bedrock` `SageMaker`
+`Python` `XGBoost` `AWS` `Bedrock` `SageMaker`
 
 </td>
 <td width="50%">
 
 **[Voice-AI-Platform](https://github.com/rehan243/Voice-AI-Platform)**
-Real-time voice infrastructure processing 500+ simultaneous calls with zero-latency ingestion.
+Real-time voice processing — 500+ concurrent calls, WebSockets, Kafka, gRPC/C++.
 
-`Python` `WebSockets` `Kafka` `gRPC` `C++` `AWS`
+`Python` `Kafka` `gRPC` `C++` `AWS`
 
 </td>
 </tr>
@@ -140,17 +111,35 @@ Real-time voice infrastructure processing 500+ simultaneous calls with zero-late
 <td width="50%">
 
 **[BiiView — Object Detection](https://github.com/rehan243/BiiView-Object-Detection)**
-Real-time object detection with Meta AI SAM — 90% accuracy across 11M+ images for interactive shopping.
+Meta AI SAM for video object detection — 90% accuracy across 11M+ images.
 
-`Python` `OpenCV` `SAM` `PyTorch` `FastAPI`
+`Python` `SAM` `OpenCV` `PyTorch`
 
 </td>
 <td width="50%">
 
 **[RAG-Enterprise-Search](https://github.com/rehan243/RAG-Enterprise-Search)**
-Enterprise knowledge retrieval across 2TB+ data with multi-index fusion and re-ranking.
+Enterprise RAG with multi-index fusion, re-ranking, and hallucination detection.
 
-`Python` `LangChain` `FAISS` `ChromaDB` `SageMaker`
+`Python` `LangChain` `FAISS` `ChromaDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[LLM-Fine-Tuning-LoRA](https://github.com/rehan243/LLM-Fine-Tuning-LoRA)**
+Fine-tuning LLaMA/Mistral with LoRA, QLoRA, PEFT — 40% cost reduction vs hosted APIs.
+
+`Python` `HuggingFace` `VLLM` `CUDA`
+
+</td>
+<td width="50%">
+
+**[RLHF-LLM-Optimization](https://github.com/rehan243/RLHF-LLM-Optimization)**
+Full RLHF pipeline — SFT, reward modeling, PPO with KL constraints.
+
+`Python` `PyTorch` `HuggingFace` `TRL`
 
 </td>
 </tr>
@@ -158,17 +147,17 @@ Enterprise knowledge retrieval across 2TB+ data with multi-index fusion and re-r
 <td width="50%">
 
 **[Digital People Platform](https://github.com/rehan243/Digital-People-Platform)**
-Hyper-realistic talking avatars with SadTalker + SpeechT5 TTS and OpenAI conversational backend.
+Talking avatars with SadTalker + SpeechT5 TTS — 70% realism improvement.
 
-`Python` `SadTalker` `SpeechT5` `OpenAI` `FastAPI`
+`Python` `SadTalker` `OpenAI` `PyTorch`
 
 </td>
 <td width="50%">
 
-**[LLM-Fine-Tuning-LoRA](https://github.com/rehan243/LLM-Fine-Tuning-LoRA)**
-Fine-tuning LLaMA/Mistral with LoRA, QLoRA, PEFT — 40% cost reduction vs hosted APIs.
+**[Agentic-AI-Workflows](https://github.com/rehan243/Agentic-AI-Workflows)**
+Autonomous AI agents for enterprise automation with LangChain orchestration.
 
-`Python` `HuggingFace` `VLLM` `CUDA` `Docker`
+`Python` `LangChain` `OpenAI` `FastAPI`
 
 </td>
 </tr>
@@ -180,28 +169,29 @@ Fine-tuning LLaMA/Mistral with LoRA, QLoRA, PEFT — 40% cost reduction vs hoste
 
 ## Tech Stack
 
-**Core ML & AI**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**GenAI & LLMs**
+**Generative AI & LLMs**
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![VLLM](https://img.shields.io/badge/VLLM-FF4500?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![VLLM](https://img.shields.io/badge/VLLM-FF4500?style=flat-square)
 
-**AWS & Cloud**
+**Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square)
@@ -211,6 +201,7 @@ Fine-tuning LLaMA/Mistral with LoRA, QLoRA, PEFT — 40% cost reduction vs hoste
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 **Data Engineering**
 
@@ -221,43 +212,53 @@ Fine-tuning LLaMA/Mistral with LoRA, QLoRA, PEFT — 40% cost reduction vs hoste
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-
-**Web & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
 
 ---
 
-## Education
+## Education & Certifications
 
-| Degree | Institution | Year |
-| --- | --- | --- |
-| **M.S. Artificial Intelligence** | Lahore University of Management Sciences (LUMS) | 2018 – 2020 |
-| **B.S. Computer Science** | COMSATS University Islamabad | 2014 – 2018 |
-
-## Certifications
-
-- **AI Engineering Professional Certificate** — IBM
-- **Machine Learning Certification** — IBM
-- **Foundations: Data, Data, Everywhere** — Google
-- **PostgreSQL: Advanced Queries** — LinkedIn Learning
-- **SQL Essential Training** — LinkedIn Learning
+| | |
+|---|---|
+| **M.S. Artificial Intelligence** | Lahore University of Management Sciences (LUMS), 2018–2020 |
+| **B.S. Computer Science** | COMSATS University Islamabad, 2014–2018 |
+| **AI Engineering Professional Certificate** | IBM |
+| **Machine Learning Certification** | IBM |
+| **Foundations: Data, Data, Everywhere** | Google |
 
 ---
 
-## Companies I've Delivered For
+## GitHub Stats
 
-| | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **MARS** | **Cloud Kinetics** | **Verticiti** | **Afiniti** | **MeryCure** | **Reallytics.ai** |
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rehan243&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan243&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
-**Currently open to senior AI/ML engineering roles, consulting, and enterprise AI engagements.**
+<p align="center">
+<b>Currently open to Senior AI/ML Engineer, Staff ML Engineer, or Lead AI Engineer roles.</b><br/>
+If you're building production AI systems and need someone who ships — let's talk.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rehan-malik-62b3301ab)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:rehanmalil99@gmail.com)
-[![Reallytics.ai](https://img.shields.io/badge/Reallytics.ai-Visit-000000?style=flat-square&logo=rocket)](https://reallytics.ai)
+<p align="center">
+<a href="https://linkedin.com/in/rehan-malik-62b3301ab"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"/></a>
+<a href="mailto:rehanmalil99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail"/></a>
+</p>
+
+<!-- 
+Keywords: machine learning engineer, AI engineer, senior ML engineer, staff ML engineer, 
+generative AI, large language models, LLM, GPT, Claude, LLaMA, Mistral, RAG, retrieval augmented generation,
+RLHF, reinforcement learning from human feedback, PPO, fine-tuning, LoRA, QLoRA, PEFT,
+computer vision, object detection, NLP, natural language processing, sentiment analysis,
+voice AI, speech to text, real-time audio, streaming, 
+LangChain, FAISS, ChromaDB, Pinecone, vector database,
+PyTorch, TensorFlow, scikit-learn, HuggingFace, transformers, VLLM,
+AWS, SageMaker, Bedrock, Lambda, ECS, Azure, GCP, Docker, Kubernetes, Terraform,
+Python, C++, CUDA, gRPC, FastAPI, Flask, WebSockets,
+Kafka, PySpark, Airflow, PostgreSQL, MongoDB, Redis, DynamoDB,
+MLOps, CI/CD, microservices, data engineering, ETL, data pipelines,
+fraud detection, XGBoost, ensemble methods, explainable AI
+-->
