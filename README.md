@@ -351,19 +351,76 @@ If you’re building production AI systems and need someone who ships — let’
 </p>
 
 <!-- 
-Keywords: machine learning engineer, AI engineer, senior ML engineer, staff ML engineer, 
-generative AI, large language models, LLM, GPT, Claude, LLaMA, Mistral, RAG, retrieval augmented generation,
-RLHF, reinforcement learning from human feedback, PPO, fine-tuning, LoRA, QLoRA, PEFT,
-computer vision, object detection, NLP, natural language processing, sentiment analysis,
-voice AI, speech to text, real-time audio, streaming, 
-LangChain, FAISS, ChromaDB, Pinecone, vector database,
-PyTorch, TensorFlow, scikit-learn, HuggingFace, transformers, VLLM,
-AWS, SageMaker, Bedrock, Lambda, ECS, Azure, GCP, Docker, Kubernetes, Terraform,
-Python, C++, CUDA, gRPC, FastAPI, Flask, WebSockets,
-Kafka, PySpark, Airflow, PostgreSQL, MongoDB, Redis, DynamoDB,
-MLOps, CI/CD, microservices, data engineering, ETL, data pipelines,
-fraud detection, XGBoost, ensemble methods, explainable AI,
-Kaggle, kaggle notebooks, agentic AI, multi-agent systems, function calling, tool use,
-prompt engineering, multimodal AI, vision-language models, time series forecasting,
-data science portfolio, deep learning, NLP pipelines, BERT, transformers
+SEO Keywords — GitHub Profile Discovery (2026)
+
+Primary Role Keywords:
+senior AI engineer, senior ML engineer, staff ML engineer, lead AI engineer, AI/ML engineer,
+machine learning engineer, deep learning engineer, generative AI engineer, GenAI engineer,
+NLP engineer, computer vision engineer, MLOps engineer, data scientist, applied scientist
+
+Generative AI & LLMs:
+generative AI, GenAI, large language models, LLM, GPT, GPT-4, GPT-5, Claude, Claude 4,
+LLaMA, LLaMA 2, LLaMA 3, Mistral, Mixtral, Gemini, open source LLM,
+RAG, retrieval augmented generation, retrieval-augmented generation,
+RLHF, reinforcement learning from human feedback, DPO, direct preference optimization,
+PPO, proximal policy optimization, reward modeling, alignment, AI safety,
+fine-tuning, LoRA, QLoRA, PEFT, parameter efficient fine-tuning,
+prompt engineering, chain of thought, few-shot learning, in-context learning,
+function calling, tool use, structured output, JSON mode,
+LLM evaluation, LLM deployment, LLM serving, LLM inference optimization
+
+Agentic AI & Autonomous Systems:
+agentic AI, AI agents, autonomous agents, multi-agent systems, multi-agent orchestration,
+LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, agent frameworks,
+tool calling, planning, reasoning, ReAct, plan-and-execute, tree of thought
+
+RAG & Vector Databases:
+FAISS, ChromaDB, Pinecone, Weaviate, Milvus, PG-Vector, Qdrant, vector database,
+semantic search, hybrid search, dense retrieval, sparse retrieval, BM25,
+cross-encoder, re-ranking, embedding models, sentence-transformers,
+document chunking, knowledge retrieval, enterprise search
+
+Computer Vision & Multimodal:
+computer vision, object detection, image segmentation, Segment Anything Model, SAM,
+YOLO, YOLOv8, OpenCV, image classification, video analysis,
+multimodal AI, vision-language models, CLIP, image captioning, visual QA,
+digital avatars, face detection, OCR, document AI
+
+NLP & Text:
+natural language processing, NLP, sentiment analysis, text classification,
+named entity recognition, NER, BERT, DistilBERT, RoBERTa, transformers,
+text generation, summarization, translation, tokenization
+
+Deep Learning Frameworks:
+PyTorch, TensorFlow, JAX, Keras, HuggingFace, transformers library,
+VLLM, TorchServe, Triton Inference Server, ONNX, TensorRT
+
+Cloud & Infrastructure:
+AWS, Amazon Web Services, SageMaker, Bedrock, Lambda, ECS, S3,
+Azure, Azure ML, Google Cloud, GCP, Vertex AI,
+Docker, Kubernetes, K8s, Terraform, infrastructure as code,
+CUDA, GPU optimization, NVIDIA, distributed training, model parallelism
+
+MLOps & Production:
+MLOps, model deployment, model serving, model monitoring, model registry,
+CI/CD, continuous integration, continuous deployment, A/B testing,
+feature store, experiment tracking, MLflow, Weights and Biases, wandb,
+microservices, REST API, gRPC, FastAPI, Flask, WebSockets
+
+Data Engineering:
+Apache Kafka, PySpark, Apache Spark, Apache Airflow, data pipelines,
+ETL, ELT, data engineering, streaming, real-time processing,
+PostgreSQL, MongoDB, Redis, DynamoDB, Elasticsearch
+
+Domain Expertise:
+fraud detection, anomaly detection, XGBoost, ensemble methods, feature engineering,
+explainable AI, SHAP, LIME, interpretability,
+voice AI, speech to text, Whisper, speaker diarization, audio AI,
+time series forecasting, recommendation systems, search ranking,
+healthcare AI, fintech, enterprise AI, production ML systems
+
+Portfolio & Community:
+Kaggle, kaggle notebooks, kaggle datasets, open source, technical writing,
+data science portfolio, AI portfolio, GitHub portfolio,
+hiring, open to work, available for hire, seeking opportunities
 -->
