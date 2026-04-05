@@ -1,0 +1,51 @@
+# Rehan Malik — Senior AI/ML Engineer
+
+> 6+ years building production AI systems at enterprise scale.
+> Specializing in Generative AI, LLMs, RAG, RLHF, Agentic AI, Computer Vision, Voice AI, and Cloud Architecture.
+
+## About
+- Name: Rehan Malik
+- Role: Senior AI/ML Engineer
+- Experience: 6+ years
+- Education: M.S. Artificial Intelligence (LUMS), B.S. Computer Science (COMSATS)
+- Location: United States
+- Status: Open to Senior AI/ML Engineer, Staff ML Engineer, Lead AI Engineer opportunities
+- GitHub: https://github.com/rehan243
+- Kaggle: https://www.kaggle.com/rehanmalik99
+- LinkedIn: https://linkedin.com/in/rehan-malik-62b3301ab
+- Email: rehanmalil99@gmail.com
+
+## Core Competencies
+- Generative AI: LLM fine-tuning (LoRA, QLoRA, PEFT), RLHF (PPO, DPO), prompt engineering, function calling
+- Retrieval-Augmented Generation: FAISS, ChromaDB, PG-Vector, cross-encoder re-ranking, hybrid search
+- Agentic AI: Multi-agent orchestration, tool use, LangChain agents, autonomous workflows
+- Computer Vision: Object detection (SAM, YOLO), image segmentation, digital avatars, OCR
+- NLP: Sentiment analysis, text classification, named entity recognition, transformers (BERT, DistilBERT)
+- Voice AI: Real-time speech-to-text, speaker diarization, audio streaming (Kafka, WebSockets, gRPC)
+- MLOps: Model serving (VLLM, TorchServe), Docker, Kubernetes, CI/CD, monitoring, A/B testing
+- Cloud: AWS (SageMaker, Bedrock, Lambda, ECS), Azure, GCP, Terraform
+
+## Key Repositories
+- Agentic-AI-Workflows: Production AI agents for enterprise automation — 8+ specialized agents using LangChain and OpenAI function calling
+- RAG-Enterprise-Search: Enterprise RAG pipeline — knowledge retrieval across 2TB+ data with FAISS, ChromaDB, cross-encoder re-ranking
+- LLM-Fine-Tuning-LoRA: Fine-tuning LLaMA-2 and Mistral with LoRA, QLoRA, PEFT — 40% cost reduction vs hosted APIs
+- RLHF-LLM-Optimization: Full RLHF pipeline — SFT, reward modeling, PPO with KL divergence constraints
+- Sentinel-AI-Fraud-Detection: Ensemble XGBoost + Isolation Forest fraud detection with 650+ features and SHAP explainability
+- Voice-AI-Platform: Real-time voice processing — 500+ concurrent calls with Kafka, gRPC, C++/CUDA
+- BiiView-Object-Detection: Meta AI SAM for object detection — 90% accuracy across 11M+ images
+- Digital-People-Platform: Hyper-realistic talking avatars with SadTalker + SpeechT5 TTS
+- Real-Time-Audio-Pipeline: Speech-to-text, sentiment analysis, and sales insights from live audio streams
+
+## Professional Experience
+- Senior Generative AI Engineer at MARS (10K+ employees) — $1M+ GenAI transformation
+- Cloud Solution Architect at Cloud Kinetics USA — AWS, Azure, GCP enterprise solutions
+- Senior ML/AI Engineer at Verticiti — RAG pipelines (2TB+), LLM fine-tuning, SAM object detection
+- Senior AI Engineer at Reallytics.ai — Voice AI (500+ calls), fraud detection, autonomous agents
+- Senior ML Engineer at Afiniti — Production ETL at scale, churn modeling, call routing
+- AI Product Engineer at Afiniti — ML pipelines, feature engineering on millions of records
+- Data Engineer at MeryCure — IoT data pipelines (1000+ devices), anomaly detection
+
+## Kaggle Work
+- 11 public notebooks covering: Agentic AI, LLM function calling, RAG, prompt engineering, multimodal AI, fraud detection, NLP, time series, ensemble methods
+- 5 public datasets: tool schemas, RAG benchmarks, prompt templates, fraud features, ML design patterns
+- Profile: https://www.kaggle.com/rehanmalik99
