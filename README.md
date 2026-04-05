@@ -2,9 +2,9 @@
 
 # Rehan Malik
 
-### Senior AI/ML Engineer · Open to Opportunities
+### Senior AI/ML Engineer · Cloud Solution Architect (AWS) · Open to Opportunities
 
-**6+ years building production AI systems at enterprise scale — GenAI, LLMs, RAG, RLHF, Computer Vision, Voice AI, Cloud Architecture.**
+**5+ years building production AI systems at enterprise scale — GenAI, LLMs, RAG, RLHF, Computer Vision, Voice AI, Cloud Architecture.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-malik-62b3301ab)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rehanmalik99)
@@ -14,13 +14,13 @@
 
 ## About Me
 
-I’m a **Senior AI/ML Engineer** with 6+ years of hands-on experience shipping production AI systems across **healthcare, finance, retail, media, and enterprise operations**. I’ve worked with companies ranging from 10-person startups to 10,000+ employee enterprises like **MARS**, solving problems that move business metrics.
+I’m a **Senior AI/ML Engineer** with 5+ years of hands-on experience shipping production AI systems across **healthcare, finance, retail, media, and enterprise operations**. I’ve worked with companies ranging from 10-person startups to 10,000+ employee enterprises like **MARS**, solving problems that move business metrics.
 
 **What I do best:** Take AI from research to production. I’ve fine-tuned LLMs (LLaMA, Mistral) with LoRA/QLoRA, built RLHF pipelines with PPO, architected RAG systems over 2TB+ corpora, deployed real-time voice infrastructure handling 500+ concurrent calls, and shipped fraud detection models processing applications in real-time — all on AWS/GCP at scale.
 
 **What I’m looking for:** Senior AI/ML Engineer, Staff ML Engineer, or Lead AI Engineer roles where I can build and ship production AI systems.
 
-**M.S. Artificial Intelligence** (LUMS) · **B.S. Computer Science** (COMSATS)
+**B.S. Computer Science** (COMSATS University Islamabad, 2016–2020)
 
 ---
 
@@ -77,13 +77,13 @@ The work I’m most proud of — production systems processing real data, servin
 
 | Role | Company | Period | Highlights |
 |---|---|---|---|
+| **Senior ML/AI Engineer** | Verticiti | Mar 2024 – Present | RAG pipelines (2TB+), LLM fine-tuning (LoRA/QLoRA), agentic workflows, C++ inference optimization, SAM object detection at scale. |
 | **Senior Generative AI Engineer** | MARS (10K+ employees) | Oct 2024 – Jan 2026 | Led **$1M+ GenAI enterprise transformation**. RAG architectures, LLM orchestration, multi-agent frameworks for regulated industries. |
-| **Cloud Solution Architect** | Cloud Kinetics USA | Aug 2024 – Dec 2025 | Designed cloud-native AI solutions on **AWS, Azure, GCP** for enterprise clients. ETL/ELT, data migration, real-time pipelines. |
-| **Senior ML/AI Engineer** | Verticiti | Dec 2023 – Jul 2024 | RAG pipelines (2TB+), LLM fine-tuning (LoRA/QLoRA), agentic workflows, C++ inference optimization, SAM object detection. |
-| **Senior AI Engineer** | Reallytics.ai | Oct 2022 – Present | Voice AI infra (500+ calls), fraud detection, autonomous agents, RLHF frameworks, cloud architecture on AWS/GCP. |
+| **Cloud Solution Architect** | Cloud Kinetics USA | Aug 2024 – Jan 2026 | Designed cloud-native AI solutions on **AWS, Azure, GCP** for enterprise clients. ETL/ELT, data migration, real-time pipelines. |
+| **Senior AI Engineer** | Reallytics.ai | Oct 2022 – Jan 2026 | Voice AI infra (500+ calls), fraud detection, autonomous agents, RLHF frameworks, cloud architecture on AWS/GCP. |
 | **Senior ML Engineer** | Afiniti | Oct 2022 – Nov 2023 | Production ETL at scale for **$1M+ accounts**, churn modeling, call routing optimization. |
 | **AI Product Engineer** | Afiniti | Apr 2021 – Oct 2022 | ML pipelines for call-routing, feature engineering on millions of daily records, production monitoring. |
-| **Data Engineer** | MeryCure | Feb 2020 – Apr 2021 | IoT data pipelines (1000+ devices), anomaly detection, predictive maintenance, Power BI dashboards. |
+| **Python Engineer** | MeryCure | May 2020 – Apr 2021 | IoT data pipelines (1000+ devices), anomaly detection, predictive maintenance, Power BI dashboards. |
 
 ---
 
@@ -322,11 +322,10 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 
 | | |
 |---|---|
-| **M.S. Artificial Intelligence** | Lahore University of Management Sciences (LUMS), 2018–2020 |
-| **B.S. Computer Science** | COMSATS University Islamabad, 2014–2018 |
-| **AI Engineering Professional Certificate** | IBM |
-| **Machine Learning Certification** | IBM |
+| **B.S. Computer Science** | COMSATS University Islamabad, 2016–2020 |
 | **Foundations: Data, Data, Everywhere** | Google |
+| **PostgreSQL: Advanced Queries** | LinkedIn Learning |
+| **SQL Essential Training** | LinkedIn Learning |
 
 ---
 
