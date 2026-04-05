@@ -254,6 +254,18 @@ Feature engineering for temporal data — lag features, rolling stats, calendar 
 
 [👉 View all notebooks on Kaggle →](https://www.kaggle.com/rehanmalik99/code)
 
+### Featured Writeups & Datasets
+
+Technical writeups published as Kaggle Datasets — production insights, benchmarks, and reference architectures.
+
+| Writeup | What’s Inside |
+|---------|--------------|
+| **[Agentic AI Tool Schemas: Production Patterns](https://www.kaggle.com/datasets/rehanmalik99/agentic-ai-tool-schemas-production)** | 50+ tool/function schemas, 8 agent configs, benchmark data from 500 agent executions |
+| **[RAG Evaluation Benchmark 2026](https://www.kaggle.com/datasets/rehanmalik99/rag-evaluation-benchmark-2026)** | 1,000 QA pairs with human-annotated relevance scores across 50 retrieval configs |
+| **[LLM Prompt Engineering Templates](https://www.kaggle.com/datasets/rehanmalik99/llm-prompt-engineering-templates)** | 100+ prompt templates with A/B test results from 200 production experiments |
+| **[Fraud Detection: Feature Engineering Guide](https://www.kaggle.com/datasets/rehanmalik99/fraud-detection-feature-engineering-guide)** | 650+ feature catalog, interaction analysis, and 3 fraud persona profiles |
+| **[ML System Design Patterns: Production](https://www.kaggle.com/datasets/rehanmalik99/ml-system-design-patterns-production)** | 40+ patterns, 25+ anti-patterns, decision frameworks for production ML |
+
 ---
 
 ## Tech Stack
