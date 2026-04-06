@@ -329,6 +329,83 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 
 ---
 
+
+---
+
+## 📰 Latest AI Research Articles
+
+*Auto-generated articles with AI-crafted images — published daily to [AI-Engineering-Notes](https://github.com/rehan243/AI-Engineering-Notes)*
+
+<!-- ARTICLES_START -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-06-llm-fine-tuning-at-scale-with-lora.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
+</a>
+
+**[Llm Fine Tuning At Scale With Lora](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-06-llm-fine-tuning-at-scale-with-lora.md)**
+<br/><sub>2026-04-06</sub>
+
+</td>
+<td></td>
+</tr>
+</table>
+
+[📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
+<!-- ARTICLES_END -->
+
+---
+
+## ⚡ Recent Activity
+
+<!-- ACTIVITY_START -->
+💬 Commented on [Widen asset format supports](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-04-06)</sub>
+
+⭐ Starred `oceanbase/pyseekdb` <sub>(2026-04-06)</sub>
+
+⭐ Starred `AlayaDB-AI/AlayaLite` <sub>(2026-04-06)</sub>
+
+⭐ Starred `Pometry/Raphtory` <sub>(2026-04-06)</sub>
+
+⭐ Starred `unum-cloud/USearch` <sub>(2026-04-06)</sub>
+
+💬 Commented on [Token Safety Tool for DeFi Multi-Agent Workflows](https://github.com/FoundationAgents/MetaGPT) in `FoundationAgents/MetaGPT` <sub>(2026-04-06)</sub>
+
+📝 Opened issue [[Feature] Add real-time streaming evaluation for production ](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-06)</sub>
+
+💬 Commented on [[Feature Request] Saving GPU-Translated States for Fast CPU-](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-04-06)</sub>
+<!-- ACTIVITY_END -->
+
+---
+
+## 🔬 Currently Researching
+
+*Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
+
+<!-- RESEARCH_START -->
+*Research engine discovering trending topics...*
+<!-- RESEARCH_END -->
+
+---
+
+## 📌 Latest Code Snippets
+
+<!-- GISTS_START -->
+📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/rehan243/c28c157bab17d28b9490235ee193030d)** <sub>(2026-04-06)</sub>
+
+📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/rehan243/27b969a0ca45e2166ddf4880542c5b78)** <sub>(2026-04-06)</sub>
+
+📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/rehan243/0027b97bc09a3fa120af44a3c5c1f850)** <sub>(2026-04-06)</sub>
+<!-- GISTS_END -->
+
+<!-- DYNAMIC_SECTIONS_START -->
+
+<sub>🤖 Profile auto-updated on 2026-04-06 10:49 UTC</sub>
+
+<!-- DYNAMIC_SECTIONS_END -->
+
 ## GitHub Stats
 
 <p align="center">
