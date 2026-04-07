@@ -162,6 +162,24 @@ Autonomous AI agents for enterprise automation with LangChain orchestration.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[Sunshine Care — Daycare Management SaaS](https://github.com/rehan243/sunshine-care-daycare-saas)**
+Production-grade multi-center childcare SaaS — 13 modules, 28 REST APIs, real-time multi-site switching, notifications. Competes with Brightwheel, Tadpoles and Lillio.
+
+`Next.js` `TypeScript` `Prisma` `SQLite` `Tailwind CSS`
+
+</td>
+<td width="50%">
+
+**[IPM-Website-V2](https://github.com/rehan243/IPM-Website-V2)**
+Professional web platform with modern UI/UX, responsive design and production deployment.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+</td>
+</tr>
 </table>
 
 [View all repositories →](https://github.com/rehan243?tab=repositories)
