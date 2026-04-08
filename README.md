@@ -379,21 +379,21 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[BUG] crewai 1.12.2 uninstallable on Intel Macs: mandatory l](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-04-08)</sub>
+
+💬 Commented on [[Bug] Qwen3.5 MoE training issues](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-04-08)</sub>
+
+💬 Commented on [RFC: Signed receipts for Haystack pipeline component calls](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-08)</sub>
+
+⭐ Starred `PacificStudio/openase` <sub>(2026-04-08)</sub>
+
+⭐ Starred `ThinkInAIXYZ/deepchat` <sub>(2026-04-08)</sub>
+
+⭐ Starred `ValueCell-ai/ClawX` <sub>(2026-04-08)</sub>
+
 💬 Commented on [[Feature Request] Saving GPU-Translated States for Fast CPU-](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-04-07)</sub>
 
 ⭐ Starred `redis-developer/ArXivChatGuru` <sub>(2026-04-07)</sub>
-
-⭐ Starred `alibaba/zvec` <sub>(2026-04-07)</sub>
-
-💬 Commented on [Widen asset format supports](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-04-06)</sub>
-
-⭐ Starred `oceanbase/pyseekdb` <sub>(2026-04-06)</sub>
-
-⭐ Starred `AlayaDB-AI/AlayaLite` <sub>(2026-04-06)</sub>
-
-⭐ Starred `Pometry/Raphtory` <sub>(2026-04-06)</sub>
-
-⭐ Starred `unum-cloud/USearch` <sub>(2026-04-06)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -403,6 +403,10 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-time Data Quality Monitoring for ML Systems
+
+🔬 Explainability Techniques for Deep Learning Models
+
 🔬 Efficient Large Language Model Deployment
 <!-- RESEARCH_END -->
 
@@ -411,16 +415,16 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Embedding Cache with LRU + Disk Persistence — RAG Optimization (Python)](https://gist.github.com/rehan243/c8c559ce70cd14788bc9e1b9f6206a04)** <sub>(2026-04-08)</sub>
+
 📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/rehan243/c28c157bab17d28b9490235ee193030d)** <sub>(2026-04-06)</sub>
 
 📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/rehan243/27b969a0ca45e2166ddf4880542c5b78)** <sub>(2026-04-06)</sub>
-
-📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/rehan243/0027b97bc09a3fa120af44a3c5c1f850)** <sub>(2026-04-06)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-07 09:00 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-08 09:00 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
