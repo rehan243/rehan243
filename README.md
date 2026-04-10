@@ -379,21 +379,21 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[AMD] Multimodal Support ROCm FA2 in the new dispatch layer ](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-04-09)</sub>
+📝 Opened issue [[Feature] Native support for hybrid retrieval scoring fusion](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-10)</sub>
 
-💬 Commented on [[Bug]: Garbage output with modelopt FP8 checkpoint in 1.2.0:](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-04-09)</sub>
+💬 Commented on [[Bug]: healthcheck broken in v1.5.7 (latest) container](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-10)</sub>
 
-💬 Commented on [[Integration Proposal] WhichModel — real-time model pricing ](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-09)</sub>
+💬 Commented on [[Serve]App-level policy state loss and shared dict corruptio](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-04-10)</sub>
 
-⭐ Starred `jd-opensource/xllm` <sub>(2026-04-09)</sub>
+💬 Commented on [Allow more docstrings code snippets to run in the CI](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-10)</sub>
 
-💬 Commented on [[BUG] crewai 1.12.2 uninstallable on Intel Macs: mandatory l](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-04-08)</sub>
+⭐ Starred `milvus-io/pymilvus` <sub>(2026-04-10)</sub>
 
-💬 Commented on [[Bug] Qwen3.5 MoE training issues](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-04-08)</sub>
+⭐ Starred `objectbox/objectbox-python` <sub>(2026-04-10)</sub>
 
-💬 Commented on [RFC: Signed receipts for Haystack pipeline component calls](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-08)</sub>
+⭐ Starred `rocketride-org/rocketride-server` <sub>(2026-04-10)</sub>
 
-⭐ Starred `PacificStudio/openase` <sub>(2026-04-08)</sub>
+💬 Commented on [[Feature Request] Native support for multi-modal RAG (text +](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-09)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -403,6 +403,10 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Explainability and Fairness in Large Language Models
+
+🔬 Real-Time Model Serving with GPUs
+
 🔬 Real-time Data Quality Monitoring for ML Systems
 
 🔬 Explainability Techniques for Deep Learning Models
@@ -415,16 +419,16 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Structured Output Parser with JSON Schema Validation for LLMs (Python)](https://gist.github.com/rehan243/5f4de514867030a1c514c05f113dbb7c)** <sub>(2026-04-10)</sub>
+
 📌 **[Feature Store Client — Consistent Features for Training & Serving (Python)](https://gist.github.com/rehan243/30039988b38dbb955d8b2bc849b4cd48)** <sub>(2026-04-09)</sub>
 
 📌 **[Embedding Cache with LRU + Disk Persistence — RAG Optimization (Python)](https://gist.github.com/rehan243/c8c559ce70cd14788bc9e1b9f6206a04)** <sub>(2026-04-08)</sub>
-
-📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/rehan243/c28c157bab17d28b9490235ee193030d)** <sub>(2026-04-06)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-09 09:03 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-10 09:07 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
