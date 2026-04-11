@@ -359,6 +359,16 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-11-explainable-ai-for-model-debugging.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainable-ai-for-model-debugging.jpg" width="100%" alt="Explainable Ai For Model Debugging"/>
+</a>
+
+**[Explainable Ai For Model Debugging](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-11-explainable-ai-for-model-debugging.md)**
+<br/><sub>2026-04-11</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-06-llm-fine-tuning-at-scale-with-lora.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
 </a>
@@ -367,7 +377,6 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 <br/><sub>2026-04-06</sub>
 
 </td>
-<td></td>
 </tr>
 </table>
 
@@ -379,6 +388,14 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Streaming structured generation with partial valid](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-04-11)</sub>
+
+⭐ Starred `openlit/openlit` <sub>(2026-04-11)</sub>
+
+⭐ Starred `BoundaryML/baml` <sub>(2026-04-11)</sub>
+
+⭐ Starred `vasilyevdm/ai-agent-handbook` <sub>(2026-04-11)</sub>
+
 📝 Opened issue [[Feature] Native support for hybrid retrieval scoring fusion](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-10)</sub>
 
 💬 Commented on [[Bug]: healthcheck broken in v1.5.7 (latest) container](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-10)</sub>
@@ -386,14 +403,6 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 💬 Commented on [[Serve]App-level policy state loss and shared dict corruptio](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-04-10)</sub>
 
 💬 Commented on [Allow more docstrings code snippets to run in the CI](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-10)</sub>
-
-⭐ Starred `milvus-io/pymilvus` <sub>(2026-04-10)</sub>
-
-⭐ Starred `objectbox/objectbox-python` <sub>(2026-04-10)</sub>
-
-⭐ Starred `rocketride-org/rocketride-server` <sub>(2026-04-10)</sub>
-
-💬 Commented on [[Feature Request] Native support for multi-modal RAG (text +](https://github.com/deepset-ai/haystack) in `deepset-ai/haystack` <sub>(2026-04-09)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -403,6 +412,10 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Data Quality Monitoring for ML
+
+🔬 Explainable AI for Model Debugging
+
 🔬 Explainability and Fairness in Large Language Models
 
 🔬 Real-Time Model Serving with GPUs
@@ -410,8 +423,6 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 🔬 Real-time Data Quality Monitoring for ML Systems
 
 🔬 Explainability Techniques for Deep Learning Models
-
-🔬 Efficient Large Language Model Deployment
 <!-- RESEARCH_END -->
 
 ---
@@ -419,16 +430,16 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/rehan243/21bf8f884d0f48f8e324db7b1d3de77d)** <sub>(2026-04-11)</sub>
+
 📌 **[Structured Output Parser with JSON Schema Validation for LLMs (Python)](https://gist.github.com/rehan243/5f4de514867030a1c514c05f113dbb7c)** <sub>(2026-04-10)</sub>
 
 📌 **[Feature Store Client — Consistent Features for Training & Serving (Python)](https://gist.github.com/rehan243/30039988b38dbb955d8b2bc849b4cd48)** <sub>(2026-04-09)</sub>
-
-📌 **[Embedding Cache with LRU + Disk Persistence — RAG Optimization (Python)](https://gist.github.com/rehan243/c8c559ce70cd14788bc9e1b9f6206a04)** <sub>(2026-04-08)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-10 09:07 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-11 08:39 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
