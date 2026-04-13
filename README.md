@@ -359,6 +359,16 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-13-production-rag-pipelines-with-re-ranking.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
+</a>
+
+**[Production Rag Pipelines With Re Ranking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-13-production-rag-pipelines-with-re-ranking.md)**
+<br/><sub>2026-04-13</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-12-real-time-multimodal-llm-integration.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-multimodal-llm-integration.jpg" width="100%" alt="Real Time Multimodal Llm Integration"/>
 </a>
@@ -367,6 +377,8 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 <br/><sub>2026-04-12</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-11-explainable-ai-for-model-debugging.md">
@@ -377,8 +389,6 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 <br/><sub>2026-04-11</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-06-llm-fine-tuning-at-scale-with-lora.md">
@@ -389,7 +399,6 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 <br/><sub>2026-04-06</sub>
 
 </td>
-<td></td>
 </tr>
 </table>
 
@@ -401,21 +410,21 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
-📝 Opened issue [[Feature] Add real-time streaming evaluation for production ](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-12)</sub>
+📝 Opened issue [[Feature] Native ML experiment tracking integration](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-13)</sub>
 
-💬 Commented on [Non-LLM metrics (RougeScore, BleuScore, quoted_spans) have h](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-12)</sub>
+💬 Commented on [OnlineDPOTrainer._generate_vllm_server() flattens vllm-serve](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-04-13)</sub>
 
-💬 Commented on [GraLoRA merge_and_unload with modules_to_save error](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-12)</sub>
+💬 Commented on [[Bug] Failed to import ML libraries: Validation error for fi](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-04-13)</sub>
 
-⭐ Starred `microsoft/Machine-Learning-Patient-Risk-Analyzer-SA` <sub>(2026-04-12)</sub>
+💬 Commented on [Will fine-tuning training functionality for SAM3 be added?](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-04-13)</sub>
 
-⭐ Starred `awslabs/data-on-eks` <sub>(2026-04-12)</sub>
+⭐ Starred `clearml/clearml` <sub>(2026-04-13)</sub>
 
-⭐ Starred `Netflix/metaflow` <sub>(2026-04-12)</sub>
+⭐ Starred `marieai/marie-ai` <sub>(2026-04-13)</sub>
 
-📝 Opened issue [[Feature] Streaming structured generation with partial valid](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-04-11)</sub>
+⭐ Starred `bennyaustin/fabric-accelerator` <sub>(2026-04-13)</sub>
 
-⭐ Starred `openlit/openlit` <sub>(2026-04-11)</sub>
+⭐ Starred `clearml/clearml-server` <sub>(2026-04-13)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -425,6 +434,8 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Production RAG Pipelines with Re-ranking
+
 🔬 Real-Time Multimodal LLM Integration
 
 🔬 Real-Time Data Quality Monitoring for ML
@@ -434,8 +445,6 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 🔬 Explainability and Fairness in Large Language Models
 
 🔬 Real-Time Model Serving with GPUs
-
-🔬 Real-time Data Quality Monitoring for ML Systems
 <!-- RESEARCH_END -->
 
 ---
@@ -443,16 +452,16 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Async LLM Gateway with Circuit Breaker & Retry — Production Pattern (Python)](https://gist.github.com/rehan243/5eeb776a2e52662975b5ebf539b537a8)** <sub>(2026-04-13)</sub>
+
 📌 **[Cosine Similarity Search with Numpy — Lightweight Vector Matching (Python)](https://gist.github.com/rehan243/1fdd19504ed19ad34e3976d772580a1e)** <sub>(2026-04-12)</sub>
 
 📌 **[Webhook Event Processor for ML Model Alerts (Python)](https://gist.github.com/rehan243/21bf8f884d0f48f8e324db7b1d3de77d)** <sub>(2026-04-11)</sub>
-
-📌 **[Structured Output Parser with JSON Schema Validation for LLMs (Python)](https://gist.github.com/rehan243/5f4de514867030a1c514c05f113dbb7c)** <sub>(2026-04-10)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-12 08:44 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-13 09:34 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
