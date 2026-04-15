@@ -359,6 +359,16 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-15-model-context-protocol-and-tool-use.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use"/>
+</a>
+
+**[Model Context Protocol And Tool Use](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-15-model-context-protocol-and-tool-use.md)**
+<br/><sub>2026-04-15</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-14-llm-fine-tuning-at-scale-with-lora.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
 </a>
@@ -367,6 +377,8 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 <br/><sub>2026-04-14</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-13-production-rag-pipelines-with-re-ranking.md">
@@ -377,8 +389,6 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 <br/><sub>2026-04-13</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-12-real-time-multimodal-llm-integration.md">
@@ -387,16 +397,6 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 
 **[Real Time Multimodal Llm Integration](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-12-real-time-multimodal-llm-integration.md)**
 <br/><sub>2026-04-12</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-11-explainable-ai-for-model-debugging.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainable-ai-for-model-debugging.jpg" width="100%" alt="Explainable Ai For Model Debugging"/>
-</a>
-
-**[Explainable Ai For Model Debugging](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-11-explainable-ai-for-model-debugging.md)**
-<br/><sub>2026-04-11</sub>
 
 </td>
 </tr>
@@ -410,21 +410,21 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [[Feature] Built-in collection versioning for zero-downtime i](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-15)</sub>
+
+💬 Commented on [Qwen3.5 Image Lora post-training](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-15)</sub>
+
+💬 Commented on [[Bug] Responses API with code_interpreter file_ids does not ](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-15)</sub>
+
+⭐ Starred `mage-ai/mage-ai` <sub>(2026-04-15)</sub>
+
+⭐ Starred `Avaiga/taipy` <sub>(2026-04-15)</sub>
+
 💬 Commented on [Liger-Kernel is now supported on LLaMA-Factory + NPU](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-04-14)</sub>
 
 💬 Commented on [[BUG] convertSegmentMetadataToModel debug logs nil instead o](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-14)</sub>
 
 ⭐ Starred `umbertogriffo/rag-chatbot` <sub>(2026-04-14)</sub>
-
-⭐ Starred `Azure/GPT-RAG` <sub>(2026-04-14)</sub>
-
-⭐ Starred `GiovanniPasq/agentic-rag-for-dummies` <sub>(2026-04-14)</sub>
-
-⭐ Starred `henrydaum/second-brain` <sub>(2026-04-14)</sub>
-
-📝 Opened issue [[Feature] Native ML experiment tracking integration](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-13)</sub>
-
-💬 Commented on [OnlineDPOTrainer._generate_vllm_server() flattens vllm-serve](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-04-13)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -434,6 +434,8 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 *Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
 🔬 Agentic Coding Assistants Architecture
 
 🔬 LLM Fine-Tuning at Scale with LoRA
@@ -443,8 +445,6 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 🔬 Real-Time Multimodal LLM Integration
 
 🔬 Real-Time Data Quality Monitoring for ML
-
-🔬 Explainable AI for Model Debugging
 <!-- RESEARCH_END -->
 
 ---
@@ -452,16 +452,16 @@ Technical writeups published as Kaggle Datasets — production insights, benchma
 ## 📌 Latest Code Snippets
 
 <!-- GISTS_START -->
+📌 **[Token Budget Manager — LLM Context Window Optimization (Python)](https://gist.github.com/rehan243/e9e0db69f1a330f81494a2a0a827696b)** <sub>(2026-04-15)</sub>
+
 📌 **[Retry with Exponential Backoff & Jitter — Production HTTP Client (Python)](https://gist.github.com/rehan243/f97dea3b8957e49325d3a39007479bf1)** <sub>(2026-04-14)</sub>
 
 📌 **[Async LLM Gateway with Circuit Breaker & Retry — Production Pattern (Python)](https://gist.github.com/rehan243/5eeb776a2e52662975b5ebf539b537a8)** <sub>(2026-04-13)</sub>
-
-📌 **[Cosine Similarity Search with Numpy — Lightweight Vector Matching (Python)](https://gist.github.com/rehan243/1fdd19504ed19ad34e3976d772580a1e)** <sub>(2026-04-12)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-14 09:17 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-15 09:16 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
