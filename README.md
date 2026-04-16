@@ -1,561 +1,221 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=rehan243&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=hey,%20i'm%20rehan&fontSize=48&fontColor=e94560&animation=fadeIn&fontAlignY=34&desc=i%20build%20things%20that%20think&descSize=20&descAlignY=54&descColor=ffffff" width="100%"/>
 
-# Rehan Malik
+<p align="center">
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40" alt="waving hand animation"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rehan243">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E94560&center=true&vCenter=true&repeat=true&width=500&height=30&lines=building+ai+agents+that+actually+work;not+another+chatgpt+wrapper;i+write+about+what+i+learn+%E2%80%94+daily;rag+%7C+rlhf+%7C+multi-agent+systems;let's+build+something+together" alt="Typing SVG — AI Engineer, RAG, LLM, Agents" />
+  </a>
+</p>
 
-### Senior AI/ML Engineer · Cloud Solution Architect (AWS) · Open to Opportunities
+<p align="center">
+  <a href="https://github.com/rehan243"><img src="https://img.shields.io/github/followers/rehan243?label=follow&style=flat-square&logo=github&color=1a1a2e&labelColor=0f3460" alt="GitHub followers"/></a>&nbsp;
+  <a href="https://linkedin.com/in/rehan-malik-cto"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn — Rehan Malik AI Engineer"/></a>&nbsp;
+  <a href="https://www.kaggle.com/rehanmalik99"><img src="https://img.shields.io/badge/kaggle-profile-20BEFF?style=flat-square&logo=kaggle" alt="Kaggle — Machine Learning"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rehan243&color=e94560&style=flat-square&label=visitors" alt="profile visitors"/>
+</p>
 
-**5+ years building production AI systems at enterprise scale — GenAI, LLMs, RAG, RLHF, Computer Vision, Voice AI, Cloud Architecture.**
+<img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/wave-divider.gif" width="100%" alt="animated divider"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-malik-62b3301ab)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rehanmalik99)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanmalil99@gmail.com)
-
----
-
-## About Me
-
-I’m a **Senior AI/ML Engineer** with 5+ years of hands-on experience shipping production AI systems across **healthcare, finance, retail, media, and enterprise operations**. I’ve worked with companies ranging from 10-person startups to 10,000+ employee enterprises like **MARS**, solving problems that move business metrics.
-
-**What I do best:** Take AI from research to production. I’ve fine-tuned LLMs (LLaMA, Mistral) with LoRA/QLoRA, built RLHF pipelines with PPO, architected RAG systems over 2TB+ corpora, deployed real-time voice infrastructure handling 500+ concurrent calls, and shipped fraud detection models processing applications in real-time — all on AWS/GCP at scale.
-
-**What I’m looking for:** Senior AI/ML Engineer, Staff ML Engineer, or Lead AI Engineer roles where I can build and ship production AI systems.
-
-**B.S. Computer Science** (COMSATS University Islamabad, 2016–2020)
-
----
-
-## What I’ve Built
-
-The work I’m most proud of — production systems processing real data, serving real users, driving real business impact.
-
-### Voice AI Infrastructure
-> Real-time concurrent voice processing with zero-latency ingestion engines
-
-- Built voice-to-data pipelines handling **500+ simultaneous calls** using WebSockets, Apache Kafka, and streaming architectures
-- Developed gRPC microservices with **C++ modules (CUDA, Eigen)**, reducing inference latency by **25%**
-- Designed speech-to-text, sentiment analysis, and sales insights extraction from live audio streams
-
-### Fraud Detection AI Co-Pilot
-> Ensemble ML + GenAI explainability for financial services
-
-- Engineered **650+ predictive features** from raw application data — behavioral anomalies, timing patterns, identity verification signals
-- Built ensemble model (XGBoost + Isolation Forest) achieving **50% fraud detection** on holdout test sets
-- Discovered **3 applicant personas** via unsupervised clustering (UMAP + HDBSCAN) — “Digital Ghost” persona has 70% fraud concentration
-- Implemented GenAI-powered explainable PDF reports via **Amazon Bedrock** translating SHAP values into plain English
-
-### Enterprise RAG Pipelines
-> Knowledge retrieval across 2TB+ structured and unstructured data
-
-- Architected multi-index retrieval (FAISS + ChromaDB + PG-Vector) with cross-encoder re-ranking
-- Built hallucination detection and citation tracking for grounded LLM responses
-- Deployed on **AWS SageMaker** with auto-scaling — **40% cost reduction** vs hosted API models
-
-### LLM Fine-Tuning & RLHF
-> Parameter-efficient fine-tuning and human alignment for production LLMs
-
-- Fine-tuned **LLaMA-2, Mistral** with LoRA, QLoRA, PEFT — served via VLLM with CUDA optimization
-- Built full **RLHF pipeline**: SFT → Reward Modeling → PPO optimization with KL divergence constraints
-- Achieved **68% win rate** vs SFT baseline and **96% safety compliance**
-
-### Autonomous AI Agents
-> Multi-agent systems executing complex workflows without human intervention
-
-- Built **8+ specialized agents** for insurance underwriting, multilingual caregiving (100+ languages), content generation, and admissions automation
-- LangChain Agent orchestration connecting LLMs to databases, APIs, and messaging platforms
-- Reduced processing time by **50%** for student admissions workflows
-
-### Computer Vision at Scale
-> Object detection and digital avatar generation
-
-- **BiiView**: Real-time object detection using Meta AI’s **Segment Anything Model (SAM)** — 90% accuracy across **11M+ images** and **1.1B+ masks**
-- **Digital People Platform**: Hyper-realistic talking avatars with SadTalker + SpeechT5 TTS — **70% realism improvement**, 30% user satisfaction increase
-- **KYC Platform**: Identity verification with OpenCV + AI — **99.9% accuracy**, 50% faster document processing
-
----
-
-## Professional Experience
-
-| Role | Company | Period | Highlights |
-|---|---|---|---|
-| **Senior ML/AI Engineer** | Verticiti | Mar 2024 – Present | RAG pipelines (2TB+), LLM fine-tuning (LoRA/QLoRA), agentic workflows, C++ inference optimization, SAM object detection at scale. |
-| **Senior Generative AI Engineer** | MARS (10K+ employees) | Oct 2024 – Jan 2026 | Led **$1M+ GenAI enterprise transformation**. RAG architectures, LLM orchestration, multi-agent frameworks for regulated industries. |
-| **Cloud Solution Architect** | Cloud Kinetics USA | Aug 2024 – Jan 2026 | Designed cloud-native AI solutions on **AWS, Azure, GCP** for enterprise clients. ETL/ELT, data migration, real-time pipelines. |
-| **Senior AI Engineer** | Reallytics.ai | Oct 2022 – Jan 2026 | Voice AI infra (500+ calls), fraud detection, autonomous agents, RLHF frameworks, cloud architecture on AWS/GCP. |
-| **Senior ML Engineer** | Afiniti | Oct 2022 – Nov 2023 | Production ETL at scale for **$1M+ accounts**, churn modeling, call routing optimization. |
-| **AI Product Engineer** | Afiniti | Apr 2021 – Oct 2022 | ML pipelines for call-routing, feature engineering on millions of daily records, production monitoring. |
-| **Python Engineer** | MeryCure | May 2020 – Apr 2021 | IoT data pipelines (1000+ devices), anomaly detection, predictive maintenance, Power BI dashboards. |
-
----
-
-## Featured Projects
+## About Me — AI/ML Engineer | Generative AI | LLM Systems
 
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="top">
 
-**[Sentinel AI — Fraud Detection](https://github.com/rehan243/Sentinel-AI-Fraud-Detection)**
-Ensemble XGBoost + Isolation Forest with 650+ features and GenAI explainability via Amazon Bedrock.
+i'm an **AI/ML engineer** based in the US, currently building production AI systems at **Reallytics.ai** and **Verticiti**. most of my work revolves around getting **large language models** to do useful things in production — not toy demos, actual systems handling real traffic.
 
-`Python` `XGBoost` `AWS` `Bedrock` `SageMaker`
+before this, i spent years at **Afiniti** and **Cloud Kinetics** doing the grunt work of making ML models reliable at scale. **fraud detection**, **voice analytics**, **enterprise search** — the kind of stuff that breaks at 3am and you have to fix.
 
-</td>
-<td width="50%">
+what keeps me going: that moment when an **AI agent** you built actually solves a problem you didn't explicitly program it for. still hits different every time.
 
-**[Voice-AI-Platform](https://github.com/rehan243/Voice-AI-Platform)**
-Real-time voice processing — 500+ concurrent calls, WebSockets, Kafka, gRPC/C++.
-
-`Python` `Kafka` `gRPC` `C++` `AWS`
+**right now i'm deep into:**
+- **multi-agent systems** that coordinate without falling apart
+- **RAG pipelines** that actually find what you're looking for
+- writing daily about what i learn — [AI Engineering Notes](https://github.com/rehan243/AI-Engineering-Notes)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="42%" valign="top" align="center">
 
-**[BiiView — Object Detection](https://github.com/rehan243/BiiView-Object-Detection)**
-Meta AI SAM for video object detection — 90% accuracy across 11M+ images.
-
-`Python` `SAM` `OpenCV` `PyTorch`
-
-</td>
-<td width="50%">
-
-**[RAG-Enterprise-Search](https://github.com/rehan243/RAG-Enterprise-Search)**
-Enterprise RAG with multi-index fusion, re-ranking, and hallucination detection.
-
-`Python` `LangChain` `FAISS` `ChromaDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[LLM-Fine-Tuning-LoRA](https://github.com/rehan243/LLM-Fine-Tuning-LoRA)**
-Fine-tuning LLaMA/Mistral with LoRA, QLoRA, PEFT — 40% cost reduction vs hosted APIs.
-
-`Python` `HuggingFace` `VLLM` `CUDA`
-
-</td>
-<td width="50%">
-
-**[RLHF-LLM-Optimization](https://github.com/rehan243/RLHF-LLM-Optimization)**
-Full RLHF pipeline — SFT, reward modeling, PPO with KL constraints.
-
-`Python` `PyTorch` `HuggingFace` `TRL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Digital People Platform](https://github.com/rehan243/Digital-People-Platform)**
-Talking avatars with SadTalker + SpeechT5 TTS — 70% realism improvement.
-
-`Python` `SadTalker` `OpenAI` `PyTorch`
-
-</td>
-<td width="50%">
-
-**[Agentic-AI-Workflows](https://github.com/rehan243/Agentic-AI-Workflows)**
-Autonomous AI agents for enterprise automation with LangChain orchestration.
-
-`Python` `LangChain` `OpenAI` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Sunshine Care — Daycare Management SaaS](https://github.com/rehan243/sunshine-care-daycare-saas)**
-Production-grade multi-center childcare SaaS — 13 modules, 28 REST APIs, real-time multi-site switching, notifications. Competes with Brightwheel, Tadpoles and Lillio.
-
-`Next.js` `TypeScript` `Prisma` `SQLite` `Tailwind CSS`
-
-</td>
-<td width="50%">
-
-**[IPM-Website-V2](https://github.com/rehan243/IPM-Website-V2)**
-Professional web platform with modern UI/UX, responsive design and production deployment.
-
-`Next.js` `TypeScript` `Tailwind CSS`
+<img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/coding-vibes.gif" width="350" alt="developer coding animation — AI engineer at work"/>
 
 </td>
 </tr>
 </table>
 
-[View all repositories →](https://github.com/rehan243?tab=repositories)
+<img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/gradient-bar.gif" width="100%" alt="animated gradient divider"/>
 
----
-
-## Kaggle — Research & Technical Notebooks
-
-Hands-on explorations, architecture deep-dives, and production-tested techniques — published on [Kaggle](https://www.kaggle.com/rehanmalik99/code).
+## Featured Projects — AI Agents, RAG, LLM Fine-Tuning &nbsp;<img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/rocket.gif" width="22" alt="rocket"/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🤖 **[Agentic AI: Multi-Agent Orchestration from Scratch](https://www.kaggle.com/code/rehanmalik99/agentic-ai-multi-agent-orchestration-from-scratch)**
-Building a multi-agent system with tool registries, planning loops, and guardrails — framework-agnostic patterns from production.
-
-</td>
-<td width="50%">
-
-🔌 **[LLM Function Calling and Tool Use: Complete Guide](https://www.kaggle.com/code/rehanmalik99/llm-function-calling-and-tool-use-complete-guide)**
-End-to-end function calling — schema design, validation, chaining, error recovery, and production deployment patterns.
+**[Agentic AI Workflows](https://github.com/rehan243/Agentic-AI-Workflows)** — Production AI Agents<br/>
+8 specialized AI agents with LangChain + OpenAI function calling. multi-agent orchestration with planning loops and guardrails. the project i'm most excited about.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🔍 **[Advanced RAG: Production Retrieval Guide](https://www.kaggle.com/code/rehanmalik99/advanced-rag-production-retrieval-guide)**
-Multi-query RAG, hybrid search, cross-encoder re-ranking, hallucination detection — beyond basic retrieve-and-generate.
-
-</td>
-<td width="50%">
-
-🎯 **[Prompt Engineering That Actually Works (2026)](https://www.kaggle.com/code/rehanmalik99/prompt-engineering-that-actually-works-2026)**
-Chain-of-thought, few-shot, self-consistency, structured output — real techniques with measured results.
+**[RAG Enterprise Search](https://github.com/rehan243/RAG-Enterprise-Search)** — Retrieval-Augmented Generation<br/>
+production retrieval pipeline over 2TB+ data. LangChain, FAISS, ChromaDB, cross-encoder re-ranking. deployed on AWS SageMaker.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-👁️ **[Multimodal AI: Vision-Language Pipeline](https://www.kaggle.com/code/rehanmalik99/multimodal-ai-vision-language-pipeline)**
-Vision encoders, cross-attention fusion, image captioning, visual QA — building multimodal systems from components.
-
-</td>
-<td width="50%">
-
-💳 **[Fraud Detection: XGBoost + Isolation Forest Ensemble](https://www.kaggle.com/code/rehanmalik99/fraud-detection-ensemble-xgboost-isolation-forest)**
-Ensemble anomaly detection with SHAP explainability, t-SNE visualization, and DBSCAN clustering on imbalanced data.
+**[Voice AI Platform](https://github.com/rehan243/Voice-AI-Platform)** — Real-Time Speech AI<br/>
+real-time voice infrastructure handling 500+ concurrent calls. WebSockets, Apache Kafka, gRPC with CUDA. speech-to-text, sentiment analysis.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-💬 **[Sentiment Analysis: NLP Pipeline Comparison](https://www.kaggle.com/code/rehanmalik99/sentiment-analysis-nlp-pipeline-comparison)**
-TF-IDF vs BERT vs DistilBERT — benchmarking classical and transformer approaches on real text data.
-
-</td>
-<td width="50%">
-
-📚 **[RAG Pipeline: LangChain + FAISS for Document QA](https://www.kaggle.com/code/rehanmalik99/rag-pipeline-langchain-faiss-for-document-qa)**
-End-to-end retrieval-augmented generation with chunk strategies, embedding models, and answer grounding.
+**[LLM Fine-Tuning (LoRA/QLoRA)](https://github.com/rehan243/LLM-Fine-Tuning-LoRA)** — Parameter-Efficient Fine-Tuning<br/>
+fine-tuning LLaMA-2 and Mistral with LoRA/QLoRA/PEFT. 40% cost reduction vs hosted APIs. vLLM serving on SageMaker.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🧬 **[LLM Fine-Tuning: LoRA and QLoRA Guide](https://www.kaggle.com/code/rehanmalik99/llm-fine-tuning-lora-and-qlora-guide)**
-Parameter-efficient fine-tuning walkthrough — LoRA, QLoRA, PEFT with memory profiling and serving benchmarks.
-
-</td>
-<td width="50%">
-
-📈 **[Time Series: XGBoost Forecasting](https://www.kaggle.com/code/rehanmalik99/time-series-xgboost-forecasting)**
-Feature engineering for temporal data — lag features, rolling stats, calendar effects, walk-forward validation.
+**[RLHF LLM Optimization](https://github.com/rehan243/RLHF-LLM-Optimization)** — Reinforcement Learning from Human Feedback<br/>
+full RLHF pipeline — supervised fine-tuning, reward modeling, PPO with KL constraints. 68% win rate, 96% safety compliance.
 
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
-🚢 **[Titanic: Stacking Ensemble Pipeline](https://www.kaggle.com/code/rehanmalik99/titanic-stacking-ensemble-pipeline)** — Advanced stacking with cross-validated base learners, meta-learner optimization, and feature engineering.
+**[Sentinel Fraud Detection](https://github.com/rehan243/Sentinel-AI-Fraud-Detection)** — Explainable AI<br/>
+ensemble XGBoost + Isolation Forest with 650+ engineered features. SHAP explainability, UMAP clustering, GenAI reports via Amazon Bedrock.
 
 </td>
 </tr>
 </table>
 
-[👉 View all notebooks on Kaggle →](https://www.kaggle.com/rehanmalik99/code)
+<p align="center">
+  <a href="https://github.com/rehan243?tab=repositories"><img src="https://img.shields.io/badge/see_all_repos_%E2%86%92-1a1a2e?style=for-the-badge" alt="view all repositories"/></a>
+</p>
 
-### Featured Writeups & Datasets
+<img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/wave-divider.gif" width="100%" alt="animated divider"/>
 
-Technical writeups published as Kaggle Datasets — production insights, benchmarks, and reference architectures.
+## Tech Stack — Python, PyTorch, LangChain, AWS, Docker
 
-| Writeup | What’s Inside |
-|---------|--------------|
-| **[Agentic AI Tool Schemas: Production Patterns](https://www.kaggle.com/datasets/rehanmalik99/agentic-ai-tool-schemas-production)** | 50+ tool/function schemas, 8 agent configs, benchmark data from 500 agent executions |
-| **[RAG Evaluation Benchmark 2026](https://www.kaggle.com/datasets/rehanmalik99/rag-evaluation-benchmark-2026)** | 1,000 QA pairs with human-annotated relevance scores across 50 retrieval configs |
-| **[LLM Prompt Engineering Templates](https://www.kaggle.com/datasets/rehanmalik99/llm-prompt-engineering-templates)** | 100+ prompt templates with A/B test results from 200 production experiments |
-| **[Fraud Detection: Feature Engineering Guide](https://www.kaggle.com/datasets/rehanmalik99/fraud-detection-feature-engineering-guide)** | 650+ feature catalog, interaction analysis, and 3 fraud persona profiles |
-| **[ML System Design Patterns: Production](https://www.kaggle.com/datasets/rehanmalik99/ml-system-design-patterns-production)** | 40+ patterns, 25+ anti-patterns, decision frameworks for production ML |
+i'm not going to pretend i use everything equally. here's what i actually reach for day-to-day:
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,gcp,fastapi,kafka,redis,postgres,mongodb,git,linux,vscode&perline=7" alt="tech stack icons — Python PyTorch TensorFlow Docker AWS GCP FastAPI Kafka Redis PostgreSQL MongoDB Git Linux VS Code"/>
+</p>
 
-## Tech Stack
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Generative AI & LLMs**
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![VLLM](https://img.shields.io/badge/VLLM-FF4500?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square)
-![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-**Data Engineering**
-
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
-
----
-
-## Education & Certifications
+<details>
+<summary><b>the full picture (click to expand)</b></summary>
+<br/>
 
 | | |
 |---|---|
-| **B.S. Computer Science** | COMSATS University Islamabad, 2016–2020 |
-| **Foundations: Data, Data, Everywhere** | Google |
-| **PostgreSQL: Advanced Queries** | LinkedIn Learning |
-| **SQL Essential Training** | LinkedIn Learning |
+| **daily drivers** | Python, PyTorch, FastAPI, Docker, Git, VS Code |
+| **LLM & GenAI** | LangChain, LlamaIndex, HuggingFace Transformers, vLLM, PEFT/LoRA/QLoRA |
+| **vector & data** | FAISS, ChromaDB, Pinecone, PostgreSQL, MongoDB, Redis, Kafka, Elasticsearch |
+| **cloud & MLOps** | AWS (SageMaker, Bedrock, Lambda, ECS), GCP Vertex AI, Azure OpenAI |
+| **ML frameworks** | TensorFlow, scikit-learn, XGBoost, LightGBM, ONNX |
+| **infrastructure** | Kubernetes, Terraform, GitHub Actions, MLflow, Weights & Biases |
+
+</details>
+
+<img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/gradient-bar.gif" width="100%" alt="animated gradient divider"/>
+
+## GitHub Stats
+
+i commit a lot. sometimes it's good code, sometimes it's "fix: typo in typo fix".
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rehan243&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=eaeaea&hide_border=true&count_private=true" alt="Rehan Malik GitHub stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=rehan243&theme=dark&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan243&layout=compact&theme=dark&bg_color=1a1a2e&title_color=e94560&text_color=eaeaea&hide_border=true" alt="top programming languages — Python"/>
+</p>
 
 ---
 
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rehan243&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=8" alt="GitHub profile trophies"/>
+</p>
 
 ---
 
-## 📰 Latest AI Research Articles
+### Contribution Activity Graph
 
-*Auto-generated articles with AI-crafted images — published daily to [AI-Engineering-Notes](https://github.com/rehan243/AI-Engineering-Notes)*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan243&theme=react-dark&bg_color=1a1a2e&color=e94560&line=e94560&point=ffffff&area=true&hide_border=true&custom_title=what%20i%27ve%20been%20up%20to" width="100%" alt="GitHub contribution activity graph"/>
+
+---
+
+### Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehan243/rehan243/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehan243/rehan243/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rehan243/rehan243/output/github-snake.svg" width="100%"/>
+</picture>
+
+<img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/wave-divider.gif" width="100%" alt="animated divider"/>
+
+## Latest AI Research Articles
+
+i publish research notes daily — not polished papers, just honest writeups of what i'm learning and building. think of it as a public lab notebook for **generative AI**, **LLM fine-tuning**, **RAG**, and **agentic systems**.
 
 <!-- ARTICLES_START -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-15-model-context-protocol-and-tool-use.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use"/>
-</a>
-
-**[Model Context Protocol And Tool Use](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-15-model-context-protocol-and-tool-use.md)**
-<br/><sub>2026-04-15</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-14-llm-fine-tuning-at-scale-with-lora.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
-</a>
-
-**[Llm Fine Tuning At Scale With Lora](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-14-llm-fine-tuning-at-scale-with-lora.md)**
-<br/><sub>2026-04-14</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-13-production-rag-pipelines-with-re-ranking.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
-</a>
-
-**[Production Rag Pipelines With Re Ranking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-13-production-rag-pipelines-with-re-ranking.md)**
-<br/><sub>2026-04-13</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-12-real-time-multimodal-llm-integration.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-multimodal-llm-integration.jpg" width="100%" alt="Real Time Multimodal Llm Integration"/>
-</a>
-
-**[Real Time Multimodal Llm Integration](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-12-real-time-multimodal-llm-integration.md)**
-<br/><sub>2026-04-12</sub>
-
-</td>
-</tr>
-</table>
-
-[📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
+*new articles dropping soon — [browse AI Engineering Notes](https://github.com/rehan243/AI-Engineering-Notes)*
 <!-- ARTICLES_END -->
 
 ---
 
-## ⚡ Recent Activity
+## Recent Open-Source Activity
 
 <!-- ACTIVITY_START -->
-📝 Opened issue [[Feature] Built-in collection versioning for zero-downtime i](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-15)</sub>
-
-💬 Commented on [Qwen3.5 Image Lora post-training](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-15)</sub>
-
-💬 Commented on [[Bug] Responses API with code_interpreter file_ids does not ](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-15)</sub>
-
-⭐ Starred `mage-ai/mage-ai` <sub>(2026-04-15)</sub>
-
-⭐ Starred `Avaiga/taipy` <sub>(2026-04-15)</sub>
-
-💬 Commented on [Liger-Kernel is now supported on LLaMA-Factory + NPU](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-04-14)</sub>
-
-💬 Commented on [[BUG] convertSegmentMetadataToModel debug logs nil instead o](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-14)</sub>
-
-⭐ Starred `umbertogriffo/rag-chatbot` <sub>(2026-04-14)</sub>
+*loading...*
 <!-- ACTIVITY_END -->
 
 ---
 
-## 🔬 Currently Researching
+## Currently Researching &nbsp;<img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/tech-globe.gif" width="22" alt="globe animation"/>
 
-*Topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
+*topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
-🔬 Model Context Protocol and Tool Use
-
-🔬 Agentic Coding Assistants Architecture
-
-🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Production RAG Pipelines with Re-ranking
-
-🔬 Real-Time Multimodal LLM Integration
-
-🔬 Real-Time Data Quality Monitoring for ML
+*research engine warming up...*
 <!-- RESEARCH_END -->
 
 ---
 
-## 📌 Latest Code Snippets
+## Code Snippets & Gists
 
 <!-- GISTS_START -->
-📌 **[Token Budget Manager — LLM Context Window Optimization (Python)](https://gist.github.com/rehan243/e9e0db69f1a330f81494a2a0a827696b)** <sub>(2026-04-15)</sub>
-
-📌 **[Retry with Exponential Backoff & Jitter — Production HTTP Client (Python)](https://gist.github.com/rehan243/f97dea3b8957e49325d3a39007479bf1)** <sub>(2026-04-14)</sub>
-
-📌 **[Async LLM Gateway with Circuit Breaker & Retry — Production Pattern (Python)](https://gist.github.com/rehan243/5eeb776a2e52662975b5ebf539b537a8)** <sub>(2026-04-13)</sub>
+*gists incoming...*
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
-
-<sub>🤖 Profile auto-updated on 2026-04-15 09:16 UTC</sub>
-
 <!-- DYNAMIC_SECTIONS_END -->
 
-## GitHub Stats
+<img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/wave-divider.gif" width="100%" alt="animated divider"/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rehan243&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan243&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+  <sub>if you made it this far, you should probably just say hi</sub><br/><br/>
+  <a href="https://linkedin.com/in/rehan-malik-cto"><img src="https://img.shields.io/badge/let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="connect on LinkedIn"/></a>
+  &nbsp;
+  <a href="https://github.com/rehan243"><img src="https://img.shields.io/badge/follow_on_github-1a1a2e?style=for-the-badge&logo=github&logoColor=white" alt="follow on GitHub"/></a>
 </p>
 
----
-
-<p align="center">
-<b>Currently open to Senior AI/ML Engineer, Staff ML Engineer, or Lead AI Engineer roles.</b><br/>
-If you’re building production AI systems and need someone who ships — let’s talk.
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/rehan-malik-62b3301ab"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"/></a>
-<a href="https://www.kaggle.com/rehanmalik99"><img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat-square&logo=kaggle"/></a>
-<a href="mailto:rehanmalil99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail"/></a>
-</p>
-
-<!-- 
-SEO Keywords — GitHub Profile Discovery (2026)
-
-Primary Role Keywords:
-senior AI engineer, senior ML engineer, staff ML engineer, lead AI engineer, AI/ML engineer,
-machine learning engineer, deep learning engineer, generative AI engineer, GenAI engineer,
-NLP engineer, computer vision engineer, MLOps engineer, data scientist, applied scientist
-
-Generative AI & LLMs:
-generative AI, GenAI, large language models, LLM, GPT, GPT-4, GPT-5, Claude, Claude 4,
-LLaMA, LLaMA 2, LLaMA 3, Mistral, Mixtral, Gemini, open source LLM,
-RAG, retrieval augmented generation, retrieval-augmented generation,
-RLHF, reinforcement learning from human feedback, DPO, direct preference optimization,
-PPO, proximal policy optimization, reward modeling, alignment, AI safety,
-fine-tuning, LoRA, QLoRA, PEFT, parameter efficient fine-tuning,
-prompt engineering, chain of thought, few-shot learning, in-context learning,
-function calling, tool use, structured output, JSON mode,
-LLM evaluation, LLM deployment, LLM serving, LLM inference optimization
-
-Agentic AI & Autonomous Systems:
-agentic AI, AI agents, autonomous agents, multi-agent systems, multi-agent orchestration,
-LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, agent frameworks,
-tool calling, planning, reasoning, ReAct, plan-and-execute, tree of thought
-
-RAG & Vector Databases:
-FAISS, ChromaDB, Pinecone, Weaviate, Milvus, PG-Vector, Qdrant, vector database,
-semantic search, hybrid search, dense retrieval, sparse retrieval, BM25,
-cross-encoder, re-ranking, embedding models, sentence-transformers,
-document chunking, knowledge retrieval, enterprise search
-
-Computer Vision & Multimodal:
-computer vision, object detection, image segmentation, Segment Anything Model, SAM,
-YOLO, YOLOv8, OpenCV, image classification, video analysis,
-multimodal AI, vision-language models, CLIP, image captioning, visual QA,
-digital avatars, face detection, OCR, document AI
-
-NLP & Text:
-natural language processing, NLP, sentiment analysis, text classification,
-named entity recognition, NER, BERT, DistilBERT, RoBERTa, transformers,
-text generation, summarization, translation, tokenization
-
-Deep Learning Frameworks:
-PyTorch, TensorFlow, JAX, Keras, HuggingFace, transformers library,
-VLLM, TorchServe, Triton Inference Server, ONNX, TensorRT
-
-Cloud & Infrastructure:
-AWS, Amazon Web Services, SageMaker, Bedrock, Lambda, ECS, S3,
-Azure, Azure ML, Google Cloud, GCP, Vertex AI,
-Docker, Kubernetes, K8s, Terraform, infrastructure as code,
-CUDA, GPU optimization, NVIDIA, distributed training, model parallelism
-
-MLOps & Production:
-MLOps, model deployment, model serving, model monitoring, model registry,
-CI/CD, continuous integration, continuous deployment, A/B testing,
-feature store, experiment tracking, MLflow, Weights and Biases, wandb,
-microservices, REST API, gRPC, FastAPI, Flask, WebSockets
-
-Data Engineering:
-Apache Kafka, PySpark, Apache Spark, Apache Airflow, data pipelines,
-ETL, ELT, data engineering, streaming, real-time processing,
-PostgreSQL, MongoDB, Redis, DynamoDB, Elasticsearch
-
-Domain Expertise:
-fraud detection, anomaly detection, XGBoost, ensemble methods, feature engineering,
-explainable AI, SHAP, LIME, interpretability,
-voice AI, speech to text, Whisper, speaker diarization, audio AI,
-time series forecasting, recommendation systems, search ranking,
-healthcare AI, fintech, enterprise AI, production ML systems
-
-Portfolio & Community:
-Kaggle, kaggle notebooks, kaggle datasets, open source, technical writing,
-data science portfolio, AI portfolio, GitHub portfolio,
-hiring, open to work, available for hire, seeking opportunities
+<!--
+  SEO keywords (not visible on profile, indexed by search engines):
+  Rehan Malik AI Engineer, Senior ML Engineer, Generative AI Developer,
+  LLM Engineer, RAG Pipeline Developer, AI Agent Developer, LangChain Expert,
+  PyTorch Developer, AWS Machine Learning, Production AI Systems,
+  RLHF Fine-Tuning, LoRA QLoRA PEFT, Vector Database Engineer,
+  Multi-Agent AI Systems, NLP Engineer, MLOps Engineer, Deep Learning,
+  Open Source AI Contributor, AI Research Publisher, Agentic AI
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" alt="footer wave"/>
