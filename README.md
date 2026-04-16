@@ -167,7 +167,54 @@ i commit a lot. sometimes it's good code, sometimes it's "fix: typo in typo fix"
 i publish research notes daily — not polished papers, just honest writeups of what i'm learning and building. think of it as a public lab notebook for **generative AI**, **LLM fine-tuning**, **RAG**, and **agentic systems**.
 
 <!-- ARTICLES_START -->
-*new articles dropping soon — [browse AI Engineering Notes](https://github.com/rehan243/AI-Engineering-Notes)*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-16-retrieval-augmented-generation-rag-with-low-late.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-with-low-late.jpg" width="100%" alt="Retrieval Augmented Generation Rag With Low Late"/>
+</a>
+
+**[Retrieval Augmented Generation Rag With Low Late](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-16-retrieval-augmented-generation-rag-with-low-late.md)**
+<br/><sub>2026-04-16</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-16-fine-tuning-llms-with-synthetic-data-for-enterpris.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-llms-with-synthetic-data-for-enterpris.jpg" width="100%" alt="Fine Tuning Llms With Synthetic Data For Enterpris"/>
+</a>
+
+**[Fine Tuning Llms With Synthetic Data For Enterpris](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-16-fine-tuning-llms-with-synthetic-data-for-enterpris.md)**
+<br/><sub>2026-04-16</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-15-model-context-protocol-and-tool-use.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use"/>
+</a>
+
+**[Model Context Protocol And Tool Use](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-15-model-context-protocol-and-tool-use.md)**
+<br/><sub>2026-04-15</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-14-llm-fine-tuning-at-scale-with-lora.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
+</a>
+
+**[Llm Fine Tuning At Scale With Lora](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-14-llm-fine-tuning-at-scale-with-lora.md)**
+<br/><sub>2026-04-14</sub>
+
+</td>
+</tr>
+</table>
+
+[📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
 <!-- ARTICLES_END -->
 
 ---
@@ -175,7 +222,21 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Recent Open-Source Activity
 
 <!-- ACTIVITY_START -->
-*loading...*
+💬 Commented on [[Feature Request]: Enable parallel processing for SentenceTr](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-04-16)</sub>
+
+💬 Commented on [Liger-Kernel is now supported on LLaMA-Factory + NPU](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-04-16)</sub>
+
+💬 Commented on [Non-LLM metrics (RougeScore, BleuScore, quoted_spans) have h](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-04-16)</sub>
+
+💬 Commented on [Problem 23 (A=B): All test inputs are multiples of 100, caus](https://github.com/FrontierCS/Frontier-CS) in `FrontierCS/Frontier-CS` <sub>(2026-04-16)</sub>
+
+💬 Commented on [404 error when accessing MPT models on HuggingFace](https://github.com/mosaicml/llm-foundry) in `mosaicml/llm-foundry` <sub>(2026-04-16)</sub>
+
+💬 Commented on [the link to rust trunk is wrong](https://github.com/huggingface/candle) in `huggingface/candle` <sub>(2026-04-16)</sub>
+
+💬 Commented on [Typo/Inconsistency: "hiearchical" vs "Hierarchical" across c](https://github.com/kyegomez/swarms) in `kyegomez/swarms` <sub>(2026-04-16)</sub>
+
+💬 Commented on [[Bug]: Cosine similarity score strictly exceeds upper bound ](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-04-16)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -185,7 +246,17 @@ i publish research notes daily — not polished papers, just honest writeups of 
 *topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
-*research engine warming up...*
+🔬 Fine-Tuning LLMs with Synthetic Data for Enterprise Customization
+
+🔬 Retrieval-Augmented Generation (RAG) with Low-Latency Vector Databases
+
+🔬 Model Context Protocol and Tool Use
+
+🔬 Agentic Coding Assistants Architecture
+
+🔬 LLM Fine-Tuning at Scale with LoRA
+
+🔬 Production RAG Pipelines with Re-ranking
 <!-- RESEARCH_END -->
 
 ---
@@ -193,10 +264,17 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Code Snippets & Gists
 
 <!-- GISTS_START -->
-*gists incoming...*
+📌 **[Configuration-Driven ML Pipeline Runner with Validation (Python)](https://gist.github.com/rehan243/95fbba9bcc608dd46c514bda0c53d2d5)** <sub>(2026-04-16)</sub>
+
+📌 **[Token Budget Manager — LLM Context Window Optimization (Python)](https://gist.github.com/rehan243/e9e0db69f1a330f81494a2a0a827696b)** <sub>(2026-04-15)</sub>
+
+📌 **[Retry with Exponential Backoff & Jitter — Production HTTP Client (Python)](https://gist.github.com/rehan243/f97dea3b8957e49325d3a39007479bf1)** <sub>(2026-04-14)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
+
+<sub>🤖 Profile auto-updated on 2026-04-16 19:25 UTC</sub>
+
 <!-- DYNAMIC_SECTIONS_END -->
 
 <img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/wave-divider.gif" width="100%" alt="animated divider"/>
