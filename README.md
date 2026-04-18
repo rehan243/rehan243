@@ -171,6 +171,28 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-real-world-applications-of-reinforcement-learning.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-world-applications-of-reinforcement-learning.jpg" width="100%" alt="Real World Applications Of Reinforcement Learning"/>
+</a>
+
+**[Real World Applications Of Reinforcement Learning](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-real-world-applications-of-reinforcement-learning.md)**
+<br/><sub>2026-04-18</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-explainable-ai-for-deep-learning-models.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainable-ai-for-deep-learning-models.jpg" width="100%" alt="Explainable Ai For Deep Learning Models"/>
+</a>
+
+**[Explainable Ai For Deep Learning Models](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-explainable-ai-for-deep-learning-models.md)**
+<br/><sub>2026-04-18</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainable-ai-for-time-series-forecasting.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainable-ai-for-time-series-forecasting.jpg" width="100%" alt="Explainable Ai For Time Series Forecasting"/>
 </a>
@@ -190,28 +212,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-16-fine-tuning-llms-with-synthetic-data-for-enterpris.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-llms-with-synthetic-data-for-enterpris.jpg" width="100%" alt="Fine Tuning Llms With Synthetic Data For Enterpris"/>
-</a>
-
-**[Fine Tuning Llms With Synthetic Data For Enterpris](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-16-fine-tuning-llms-with-synthetic-data-for-enterpris.md)**
-<br/><sub>2026-04-16</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-15-model-context-protocol-and-tool-use.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use"/>
-</a>
-
-**[Model Context Protocol And Tool Use](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-15-model-context-protocol-and-tool-use.md)**
-<br/><sub>2026-04-15</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -222,21 +222,21 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Recent Open-Source Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Sparse cotangent decorator (short implementation example)](https://github.com/jax-ml/jax) in `jax-ml/jax` <sub>(2026-04-17)</sub>
+📝 Opened issue [[Feature] Token-level cost attribution for multi-model routi](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-18)</sub>
 
-💬 Commented on [Problem 23 (A=B): All test inputs are multiples of 100, caus](https://github.com/FrontierCS/Frontier-CS) in `FrontierCS/Frontier-CS` <sub>(2026-04-17)</sub>
+💬 Commented on [Integration proposal: Cryptographic audit trail validator wi](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-04-18)</sub>
 
-💬 Commented on [How to backfill offline store with UDF-transformed data for ](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-04-17)</sub>
+💬 Commented on [bug: cog build fails with externally-managed-environment err](https://github.com/replicate/cog) in `replicate/cog` <sub>(2026-04-18)</sub>
 
-💬 Commented on [very short answer bug](https://github.com/zai-org/CogVLM) in `zai-org/CogVLM` <sub>(2026-04-17)</sub>
+💬 Commented on [TypeError: The current model class (MiniMindForCausalLM) is ](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-04-18)</sub>
 
-💬 Commented on [[Feature][AutoDeploy]: Piecewise CUDA graph for MTP](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-04-17)</sub>
+💬 Commented on [Tool quality resource: Clarvia MCP for evaluating LLM tool i](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-04-18)</sub>
 
-💬 Commented on [Having a single baseline is kinda wrong?](https://github.com/lmarena/arena-hard-auto) in `lmarena/arena-hard-auto` <sub>(2026-04-17)</sub>
+💬 Commented on [qwen3.6模型在NPU上的支持](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-04-18)</sub>
 
-💬 Commented on [Automation rule filter: fields accepted by API are silently ](https://github.com/comet-ml/opik) in `comet-ml/opik` <sub>(2026-04-17)</sub>
+💬 Commented on [Error: Claude 3.5 Sonnet (внешняя) - 404](https://github.com/continuedev/continue) in `continuedev/continue` <sub>(2026-04-18)</sub>
 
-💬 Commented on [Skills + S3 filesystem Latency - Skills are SUPER slow (abou](https://github.com/mastra-ai/mastra) in `mastra-ai/mastra` <sub>(2026-04-17)</sub>
+💬 Commented on [KeyError in Dataset.list_datasets()](https://github.com/clearml/clearml) in `clearml/clearml` <sub>(2026-04-18)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -246,17 +246,17 @@ i publish research notes daily — not polished papers, just honest writeups of 
 *topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Federated Learning for Edge AI
+
+🔬 Real-World Applications of Reinforcement Learning
+
+🔬 Explainable AI for Deep Learning Models
+
 🔬 Graph Neural Networks for Recommendation Systems
 
 🔬 Real-time Data Quality Monitoring for ML Pipelines
 
 🔬 Explainable AI for Time Series Forecasting
-
-🔬 Fine-Tuning LLMs with Synthetic Data for Enterprise Customization
-
-🔬 Retrieval-Augmented Generation (RAG) with Low-Latency Vector Databases
-
-🔬 Model Context Protocol and Tool Use
 <!-- RESEARCH_END -->
 
 ---
@@ -273,7 +273,7 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-17 19:10 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-18 19:02 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
