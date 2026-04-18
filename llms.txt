@@ -1,42 +1,42 @@
-# Rehan Malik — AI/ML Engineer
+# Rehan Malik — Senior AI/ML Engineer
 
-> Senior AI/ML Engineer specializing in Generative AI, Large Language Models (LLMs),
-> Retrieval-Augmented Generation (RAG), AI Agents, and production ML systems.
+> 5+ years building production AI systems at enterprise scale.
+> Specializing in Generative AI, LLMs, RAG, RLHF, Agentic AI, Computer Vision, Voice AI, and Cloud Architecture.
 
-## Who is Rehan Malik?
-
-Rehan Malik is a Senior AI/ML Engineer with 5+ years of experience building
-production AI systems at enterprise scale. He currently works at Reallytics.ai
-and Verticiti, focusing on agentic AI, LLM fine-tuning, and real-time voice AI
-infrastructure.
-
-## Core Expertise
-
-- **AI Agents & Multi-Agent Systems**: LangChain, function calling, planning loops, guardrails
-- **RAG Pipelines**: FAISS, ChromaDB, Pinecone, cross-encoder re-ranking, 2TB+ enterprise search
-- **LLM Fine-Tuning**: LoRA, QLoRA, PEFT, RLHF, DPO, PPO — 40% cost reduction vs hosted APIs
-- **Voice AI**: Real-time speech-to-text, 500+ concurrent calls, Kafka, gRPC, CUDA
-- **MLOps**: AWS SageMaker, Bedrock, Docker, Kubernetes, CI/CD, model monitoring
-- **Explainable AI**: SHAP, UMAP, ensemble methods, fraud detection at scale
-
-## Key Projects
-
-- [Agentic AI Workflows](https://github.com/rehan243/Agentic-AI-Workflows) — 8 production AI agents
-- [RAG Enterprise Search](https://github.com/rehan243/RAG-Enterprise-Search) — 2TB+ retrieval pipeline
-- [Voice AI Platform](https://github.com/rehan243/Voice-AI-Platform) — Real-time voice infrastructure
-- [LLM Fine-Tuning LoRA](https://github.com/rehan243/LLM-Fine-Tuning-LoRA) — Parameter-efficient fine-tuning
-- [RLHF LLM Optimization](https://github.com/rehan243/RLHF-LLM-Optimization) — Full RLHF pipeline
-- [Sentinel Fraud Detection](https://github.com/rehan243/Sentinel-AI-Fraud-Detection) — Explainable ML
-- [AI Engineering Notes](https://github.com/rehan243/AI-Engineering-Notes) — Daily research articles
-
-## Tech Stack
-
-Python, PyTorch, TensorFlow, LangChain, LlamaIndex, HuggingFace, vLLM,
-FastAPI, Docker, Kubernetes, AWS, GCP, Azure, PostgreSQL, MongoDB, Redis,
-Kafka, FAISS, ChromaDB, Git, GitHub Actions, MLflow, Weights & Biases
-
-## Links
-
+## About
+- Name: Rehan Malik
+- Role: Senior AI/ML Engineer
+- Experience: 5+ years
+- Education: B.S. Computer Science (COMSATS, 2016-2020)
+- Location: United States
+- Status: Open to Senior AI/ML Engineer, Staff ML Engineer, Lead AI Engineer opportunities
 - GitHub: https://github.com/rehan243
+- Kaggle: https://www.kaggle.com/rehanmalik99
 - LinkedIn: https://linkedin.com/in/rehan-malik-cto
-- Kaggle: https://kaggle.com/rehanmalik99
+
+## Core Competencies
+- Generative AI: LLM fine-tuning (LoRA, QLoRA, PEFT), RLHF (PPO, DPO), prompt engineering, function calling
+- Retrieval-Augmented Generation: FAISS, ChromaDB, PG-Vector, cross-encoder re-ranking, hybrid search
+- Agentic AI: Multi-agent orchestration, tool use, LangChain agents, autonomous workflows
+- Computer Vision: Object detection (SAM, YOLO), image segmentation, digital avatars, OCR
+- NLP: Sentiment analysis, text classification, NER, transformers (BERT, DistilBERT)
+- Voice AI: Real-time speech-to-text, speaker diarization, audio streaming (Kafka, WebSockets, gRPC)
+- MLOps: Model serving (VLLM, TorchServe), Docker, Kubernetes, CI/CD, monitoring, A/B testing
+- Cloud: AWS (SageMaker, Bedrock, Lambda, ECS), Azure, GCP, Terraform
+
+## Key Repositories
+- Agentic-AI-Workflows: Production AI agents — 8+ specialized agents using LangChain and OpenAI function calling
+- RAG-Enterprise-Search: Enterprise RAG pipeline — 2TB+ data with FAISS, ChromaDB, cross-encoder re-ranking
+- LLM-Fine-Tuning-LoRA: Fine-tuning LLaMA-2/Mistral with LoRA, QLoRA, PEFT — 40% cost reduction
+- RLHF-LLM-Optimization: Full RLHF pipeline — SFT, reward modeling, PPO with KL divergence
+- Sentinel-AI-Fraud-Detection: Ensemble XGBoost + Isolation Forest fraud detection with 650+ features
+- Voice-AI-Platform: Real-time voice processing — 500+ concurrent calls with Kafka, gRPC, C++/CUDA
+
+## Professional Experience
+- Senior Generative AI Engineer at Reallytics.ai — Voice AI, fraud detection, autonomous agents
+- Cloud Solution Architect at Cloud Kinetics USA — AWS, Azure, GCP enterprise solutions
+- Senior ML/AI Engineer at Verticiti — RAG pipelines (2TB+), LLM fine-tuning, SAM object detection
+- Senior ML Engineer at Afiniti — Production ETL at scale, churn modeling, call routing
+
+## Last Updated
+- 2026-04-18
