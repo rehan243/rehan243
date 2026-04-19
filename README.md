@@ -171,6 +171,16 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-19-ai-safety-and-alignment-engineering.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
+</a>
+
+**[Ai Safety And Alignment Engineering](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-19-ai-safety-and-alignment-engineering.md)**
+<br/><sub>2026-04-19</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-real-world-applications-of-reinforcement-learning.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-world-applications-of-reinforcement-learning.jpg" width="100%" alt="Real World Applications Of Reinforcement Learning"/>
 </a>
@@ -179,6 +189,8 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <br/><sub>2026-04-18</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-explainable-ai-for-deep-learning-models.md">
@@ -189,8 +201,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <br/><sub>2026-04-18</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainable-ai-for-time-series-forecasting.md">
@@ -199,16 +209,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 **[Explainable Ai For Time Series Forecasting](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainable-ai-for-time-series-forecasting.md)**
 <br/><sub>2026-04-17</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-16-retrieval-augmented-generation-rag-with-low-late.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-with-low-late.jpg" width="100%" alt="Retrieval Augmented Generation Rag With Low Late"/>
-</a>
-
-**[Retrieval Augmented Generation Rag With Low Late](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-16-retrieval-augmented-generation-rag-with-low-late.md)**
-<br/><sub>2026-04-16</sub>
 
 </td>
 </tr>
@@ -222,21 +222,21 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Recent Open-Source Activity
 
 <!-- ACTIVITY_START -->
-📝 Opened issue [[Feature] Token-level cost attribution for multi-model routi](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-04-18)</sub>
+💬 Commented on [🧠 Yi Merchandise Design Brainstorming!!! 🚀](https://github.com/01-ai/Yi) in `01-ai/Yi` <sub>(2026-04-19)</sub>
 
-💬 Commented on [Integration proposal: Cryptographic audit trail validator wi](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-04-18)</sub>
+💬 Commented on [Integration proposal: Cryptographic audit trail validator wi](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-04-19)</sub>
 
-💬 Commented on [bug: cog build fails with externally-managed-environment err](https://github.com/replicate/cog) in `replicate/cog` <sub>(2026-04-18)</sub>
+💬 Commented on [K8sStepHandler should respect Job backoffLimit before declar](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-19)</sub>
 
-💬 Commented on [TypeError: The current model class (MiniMindForCausalLM) is ](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-04-18)</sub>
+💬 Commented on [JS SDK `wait()` resolves before async stdout/stderr/PTY call](https://github.com/e2b-dev/E2B) in `e2b-dev/E2B` <sub>(2026-04-19)</sub>
 
-💬 Commented on [Tool quality resource: Clarvia MCP for evaluating LLM tool i](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-04-18)</sub>
+💬 Commented on [Dead code in optimize_schema(): `'type'` key is unreachable ](https://github.com/browser-use/browser-use) in `browser-use/browser-use` <sub>(2026-04-19)</sub>
 
-💬 Commented on [qwen3.6模型在NPU上的支持](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-04-18)</sub>
+💬 Commented on [[Discussion] How to finetune_task_lora.sh in google collab p](https://github.com/haotian-liu/LLaVA) in `haotian-liu/LLaVA` <sub>(2026-04-19)</sub>
 
-💬 Commented on [Error: Claude 3.5 Sonnet (внешняя) - 404](https://github.com/continuedev/continue) in `continuedev/continue` <sub>(2026-04-18)</sub>
+⭐ Starred `LearningCircuit/local-deep-research` <sub>(2026-04-19)</sub>
 
-💬 Commented on [KeyError in Dataset.list_datasets()](https://github.com/clearml/clearml) in `clearml/clearml` <sub>(2026-04-18)</sub>
+⭐ Starred `eclaire-labs/eclaire` <sub>(2026-04-19)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -246,6 +246,8 @@ i publish research notes daily — not polished papers, just honest writeups of 
 *topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AI Safety and Alignment Engineering
+
 🔬 Federated Learning for Edge AI
 
 🔬 Real-World Applications of Reinforcement Learning
@@ -255,8 +257,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 🔬 Graph Neural Networks for Recommendation Systems
 
 🔬 Real-time Data Quality Monitoring for ML Pipelines
-
-🔬 Explainable AI for Time Series Forecasting
 <!-- RESEARCH_END -->
 
 ---
@@ -264,16 +264,16 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Code Snippets & Gists
 
 <!-- GISTS_START -->
+📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/47aca61e87ae16d39c4b45b7489a3069)** <sub>(2026-04-19)</sub>
+
 📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/rehan243/564f8763ab78f54183408bbf4362382e)** <sub>(2026-04-17)</sub>
 
 📌 **[Configuration-Driven ML Pipeline Runner with Validation (Python)](https://gist.github.com/rehan243/95fbba9bcc608dd46c514bda0c53d2d5)** <sub>(2026-04-16)</sub>
-
-📌 **[Token Budget Manager — LLM Context Window Optimization (Python)](https://gist.github.com/rehan243/e9e0db69f1a330f81494a2a0a827696b)** <sub>(2026-04-15)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-18 19:02 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-19 19:01 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
