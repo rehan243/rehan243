@@ -171,6 +171,16 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-20-explainability-techniques-for-computer-vision-mode.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainability-techniques-for-computer-vision-mode.jpg" width="100%" alt="Explainability Techniques For Computer Vision Mode"/>
+</a>
+
+**[Explainability Techniques For Computer Vision Mode](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-20-explainability-techniques-for-computer-vision-mode.md)**
+<br/><sub>2026-04-20</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-19-ai-safety-and-alignment-engineering.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
 </a>
@@ -179,6 +189,8 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <br/><sub>2026-04-19</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-real-world-applications-of-reinforcement-learning.md">
@@ -189,8 +201,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <br/><sub>2026-04-18</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-explainable-ai-for-deep-learning-models.md">
@@ -199,16 +209,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 **[Explainable Ai For Deep Learning Models](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-explainable-ai-for-deep-learning-models.md)**
 <br/><sub>2026-04-18</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainable-ai-for-time-series-forecasting.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainable-ai-for-time-series-forecasting.jpg" width="100%" alt="Explainable Ai For Time Series Forecasting"/>
-</a>
-
-**[Explainable Ai For Time Series Forecasting](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-17-explainable-ai-for-time-series-forecasting.md)**
-<br/><sub>2026-04-17</sub>
 
 </td>
 </tr>
@@ -222,21 +222,21 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Recent Open-Source Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [🧠 Yi Merchandise Design Brainstorming!!! 🚀](https://github.com/01-ai/Yi) in `01-ai/Yi` <sub>(2026-04-19)</sub>
+💬 Commented on [ComfyUI WAN performance degrades over time, link eventually ](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-04-20)</sub>
 
-💬 Commented on [Integration proposal: Cryptographic audit trail validator wi](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-04-19)</sub>
+💬 Commented on [Integration proposal: Cryptographic audit trail validator wi](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-04-20)</sub>
 
-💬 Commented on [K8sStepHandler should respect Job backoffLimit before declar](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-04-19)</sub>
+💬 Commented on [Online Demo Unavailable](https://github.com/facebookresearch/segment-anything) in `facebookresearch/segment-anything` <sub>(2026-04-20)</sub>
 
-💬 Commented on [JS SDK `wait()` resolves before async stdout/stderr/PTY call](https://github.com/e2b-dev/E2B) in `e2b-dev/E2B` <sub>(2026-04-19)</sub>
+💬 Commented on [[Feature Request] Any plans to integrate opendataloader-pdf?](https://github.com/agno-agi/agno) in `agno-agi/agno` <sub>(2026-04-20)</sub>
 
-💬 Commented on [Dead code in optimize_schema(): `'type'` key is unreachable ](https://github.com/browser-use/browser-use) in `browser-use/browser-use` <sub>(2026-04-19)</sub>
+💬 Commented on [Persistent Memory & Identity Continuity via MCP Protocol](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-04-20)</sub>
 
-💬 Commented on [[Discussion] How to finetune_task_lora.sh in google collab p](https://github.com/haotian-liu/LLaVA) in `haotian-liu/LLaVA` <sub>(2026-04-19)</sub>
+💬 Commented on [[Inspector] OAuth errors show raw error page instead of redi](https://github.com/mcp-use/mcp-use) in `mcp-use/mcp-use` <sub>(2026-04-20)</sub>
 
-⭐ Starred `LearningCircuit/local-deep-research` <sub>(2026-04-19)</sub>
+💬 Commented on [Improve `standalone test` debugging with helper command / sc](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-04-20)</sub>
 
-⭐ Starred `eclaire-labs/eclaire` <sub>(2026-04-19)</sub>
+⭐ Starred `tma1-ai/tma1` <sub>(2026-04-20)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -246,17 +246,17 @@ i publish research notes daily — not polished papers, just honest writeups of 
 *topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Reinforcement Learning for Robotics and Autonomous Systems
+
+🔬 Real-time Time Series Forecasting with Streaming Data
+
+🔬 Explainability Techniques for Computer Vision Models
+
 🔬 AI Safety and Alignment Engineering
 
 🔬 Federated Learning for Edge AI
 
 🔬 Real-World Applications of Reinforcement Learning
-
-🔬 Explainable AI for Deep Learning Models
-
-🔬 Graph Neural Networks for Recommendation Systems
-
-🔬 Real-time Data Quality Monitoring for ML Pipelines
 <!-- RESEARCH_END -->
 
 ---
@@ -273,7 +273,7 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-19 19:01 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-20 19:15 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
