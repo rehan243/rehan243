@@ -171,6 +171,16 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-22-automl-for-complex-workflows-and-pipelines.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-complex-workflows-and-pipelines.jpg" width="100%" alt="Automl For Complex Workflows And Pipelines"/>
+</a>
+
+**[Automl For Complex Workflows And Pipelines](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-22-automl-for-complex-workflows-and-pipelines.md)**
+<br/><sub>2026-04-22</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-21-retrieval-augmented-generation-rag-systems-at-sc.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-systems-at-sc.jpg" width="100%" alt="Retrieval Augmented Generation Rag Systems At Sc"/>
 </a>
@@ -179,6 +189,8 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <br/><sub>2026-04-21</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-20-explainability-techniques-for-computer-vision-mode.md">
@@ -189,8 +201,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <br/><sub>2026-04-20</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-19-ai-safety-and-alignment-engineering.md">
@@ -199,16 +209,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 **[Ai Safety And Alignment Engineering](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-19-ai-safety-and-alignment-engineering.md)**
 <br/><sub>2026-04-19</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-real-world-applications-of-reinforcement-learning.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-world-applications-of-reinforcement-learning.jpg" width="100%" alt="Real World Applications Of Reinforcement Learning"/>
-</a>
-
-**[Real World Applications Of Reinforcement Learning](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-18-real-world-applications-of-reinforcement-learning.md)**
-<br/><sub>2026-04-18</sub>
 
 </td>
 </tr>
@@ -222,21 +222,21 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Recent Open-Source Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Improve `standalone test` debugging with helper command / sc](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-04-21)</sub>
+⭐ Starred `wislertt/leetcode-py` <sub>(2026-04-22)</sub>
 
-💬 Commented on [ComfyUI WAN performance degrades over time, link eventually ](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-04-21)</sub>
+⭐ Starred `yeahhe365/Prisma` <sub>(2026-04-22)</sub>
 
-💬 Commented on [[inductor] CPP kernel fusion AssertionError ((8, 7, 7), (56,](https://github.com/pytorch/pytorch) in `pytorch/pytorch` <sub>(2026-04-21)</sub>
+⭐ Starred `worldbench/awesome-vla-for-ad` <sub>(2026-04-22)</sub>
 
-💬 Commented on [[Question] Showcase / question: a board-proven offline langu](https://github.com/mlc-ai/mlc-llm) in `mlc-ai/mlc-llm` <sub>(2026-04-21)</sub>
+⭐ Starred `ydyhello/Awesome-VLM-Streaming-Video` <sub>(2026-04-22)</sub>
 
-💬 Commented on [Upload failed  (https://playground.bfl.ai)](https://github.com/black-forest-labs/flux) in `black-forest-labs/flux` <sub>(2026-04-21)</sub>
+⭐ Starred `TIGER-AI-Lab/VLM2Vec` <sub>(2026-04-22)</sub>
 
-💬 Commented on [[BUG] OTel GenAI ingest drops gen_ai.usage.cache_read/cache_](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-04-21)</sub>
+⭐ Starred `berylliumsec/nebula` <sub>(2026-04-22)</sub>
 
-💬 Commented on [Add Agent Governance Toolkit MCP server for policy enforceme](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-04-21)</sub>
+⭐ Starred `thubZ09/vision-language-model-research` <sub>(2026-04-22)</sub>
 
-💬 Commented on [Token-efficient serialization to reduce structured output ov](https://github.com/567-labs/instructor) in `567-labs/instructor` <sub>(2026-04-21)</sub>
+⭐ Starred `starVLA/starVLA` <sub>(2026-04-22)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -246,6 +246,8 @@ i publish research notes daily — not polished papers, just honest writeups of 
 *topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AutoML for Complex Workflows and Pipelines
+
 🔬 Fine-Tuning and Customization of LLMs with Parameter-Efficient Techniques
 
 🔬 Retrieval-Augmented Generation (RAG) Systems at Scale
@@ -255,8 +257,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 🔬 Real-time Time Series Forecasting with Streaming Data
 
 🔬 Explainability Techniques for Computer Vision Models
-
-🔬 AI Safety and Alignment Engineering
 <!-- RESEARCH_END -->
 
 ---
@@ -264,16 +264,16 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Code Snippets & Gists
 
 <!-- GISTS_START -->
+📌 **[Prompt Template Engine with Variable Injection — Production Pattern (Python)](https://gist.github.com/rehan243/0b87815398ac78bf0d00cbb21068bd1d)** <sub>(2026-04-22)</sub>
+
 📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/017134a39b9d5715a0440762872f1615)** <sub>(2026-04-21)</sub>
 
 📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/47aca61e87ae16d39c4b45b7489a3069)** <sub>(2026-04-19)</sub>
-
-📌 **[Prompt Version Control & A/B Testing Registry (Python)](https://gist.github.com/rehan243/564f8763ab78f54183408bbf4362382e)** <sub>(2026-04-17)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-21 19:22 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-22 19:24 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
