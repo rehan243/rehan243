@@ -171,6 +171,28 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-23-explainable-ai-xai-for-trustworthy-models.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainable-ai-xai-for-trustworthy-models.jpg" width="100%" alt="Explainable Ai Xai For Trustworthy Models"/>
+</a>
+
+**[Explainable Ai Xai For Trustworthy Models](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-23-explainable-ai-xai-for-trustworthy-models.md)**
+<br/><sub>2026-04-23</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-23-edge-ai-for-real-time-inference.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/edge-ai-for-real-time-inference.jpg" width="100%" alt="Edge Ai For Real Time Inference"/>
+</a>
+
+**[Edge Ai For Real Time Inference](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-23-edge-ai-for-real-time-inference.md)**
+<br/><sub>2026-04-23</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-22-automl-for-complex-workflows-and-pipelines.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-complex-workflows-and-pipelines.jpg" width="100%" alt="Automl For Complex Workflows And Pipelines"/>
 </a>
@@ -190,28 +212,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-20-explainability-techniques-for-computer-vision-mode.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainability-techniques-for-computer-vision-mode.jpg" width="100%" alt="Explainability Techniques For Computer Vision Mode"/>
-</a>
-
-**[Explainability Techniques For Computer Vision Mode](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-20-explainability-techniques-for-computer-vision-mode.md)**
-<br/><sub>2026-04-20</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-19-ai-safety-and-alignment-engineering.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
-</a>
-
-**[Ai Safety And Alignment Engineering](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-19-ai-safety-and-alignment-engineering.md)**
-<br/><sub>2026-04-19</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -222,21 +222,21 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Recent Open-Source Activity
 
 <!-- ACTIVITY_START -->
-⭐ Starred `wislertt/leetcode-py` <sub>(2026-04-22)</sub>
+💬 Commented on [Feature request: Support Agent Discovery Protocol (/.well-kn](https://github.com/ScrapeGraphAI/Scrapegraph-ai) in `ScrapeGraphAI/Scrapegraph-ai` <sub>(2026-04-23)</sub>
 
-⭐ Starred `yeahhe365/Prisma` <sub>(2026-04-22)</sub>
+💬 Commented on [Error in loading flux2 klein lora adapter](https://github.com/huggingface/diffusers) in `huggingface/diffusers` <sub>(2026-04-23)</sub>
 
-⭐ Starred `worldbench/awesome-vla-for-ad` <sub>(2026-04-22)</sub>
+💬 Commented on [[Bug] [NPU] [Diffusion] CI takes too long time to install de](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-04-23)</sub>
 
-⭐ Starred `ydyhello/Awesome-VLM-Streaming-Video` <sub>(2026-04-22)</sub>
+💬 Commented on [Proposal: PromptDefenseAudit Hub validator — static system p](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-04-23)</sub>
 
-⭐ Starred `TIGER-AI-Lab/VLM2Vec` <sub>(2026-04-22)</sub>
+💬 Commented on [Sweep: sweep plugin overwrite the keymap](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-04-23)</sub>
 
-⭐ Starred `berylliumsec/nebula` <sub>(2026-04-22)</sub>
+💬 Commented on [Tool: Token Safety for DeFi Operations](https://github.com/openinterpreter/open-interpreter) in `openinterpreter/open-interpreter` <sub>(2026-04-23)</sub>
 
-⭐ Starred `thubZ09/vision-language-model-research` <sub>(2026-04-22)</sub>
+💬 Commented on [Integrate SAM3-LiteText to Ultralytics](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-04-23)</sub>
 
-⭐ Starred `starVLA/starVLA` <sub>(2026-04-22)</sub>
+💬 Commented on [[Bug]: claude review failed](https://github.com/ag2ai/ag2) in `ag2ai/ag2` <sub>(2026-04-23)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -246,17 +246,17 @@ i publish research notes daily — not polished papers, just honest writeups of 
 *topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Synthetic Data Generation for ML Training
+
+🔬 Explainable AI (XAI) for Trustworthy Models
+
+🔬 Edge AI for Real-Time Inference
+
 🔬 AutoML for Complex Workflows and Pipelines
 
 🔬 Fine-Tuning and Customization of LLMs with Parameter-Efficient Techniques
 
 🔬 Retrieval-Augmented Generation (RAG) Systems at Scale
-
-🔬 Reinforcement Learning for Robotics and Autonomous Systems
-
-🔬 Real-time Time Series Forecasting with Streaming Data
-
-🔬 Explainability Techniques for Computer Vision Models
 <!-- RESEARCH_END -->
 
 ---
@@ -264,16 +264,16 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Code Snippets & Gists
 
 <!-- GISTS_START -->
+📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/2a1c07efc212bd0e7fa0509b525c37ba)** <sub>(2026-04-23)</sub>
+
 📌 **[Prompt Template Engine with Variable Injection — Production Pattern (Python)](https://gist.github.com/rehan243/0b87815398ac78bf0d00cbb21068bd1d)** <sub>(2026-04-22)</sub>
 
 📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/017134a39b9d5715a0440762872f1615)** <sub>(2026-04-21)</sub>
-
-📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/47aca61e87ae16d39c4b45b7489a3069)** <sub>(2026-04-19)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-22 19:24 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-23 19:21 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
