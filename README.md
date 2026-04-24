@@ -171,6 +171,28 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-24-streaming-model-inference-for-real-time-applicatio.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/streaming-model-inference-for-real-time-applicatio.jpg" width="100%" alt="Streaming Model Inference For Real Time Applicatio"/>
+</a>
+
+**[Streaming Model Inference For Real Time Applicatio](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-24-streaming-model-inference-for-real-time-applicatio.md)**
+<br/><sub>2026-04-24</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-24-fine-tuned-llms-for-enterprise-retrieval-augmented.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuned-llms-for-enterprise-retrieval-augmented.jpg" width="100%" alt="Fine Tuned Llms For Enterprise Retrieval Augmented"/>
+</a>
+
+**[Fine Tuned Llms For Enterprise Retrieval Augmented](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-24-fine-tuned-llms-for-enterprise-retrieval-augmented.md)**
+<br/><sub>2026-04-24</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-23-explainable-ai-xai-for-trustworthy-models.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainable-ai-xai-for-trustworthy-models.jpg" width="100%" alt="Explainable Ai Xai For Trustworthy Models"/>
 </a>
@@ -190,28 +212,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-22-automl-for-complex-workflows-and-pipelines.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-complex-workflows-and-pipelines.jpg" width="100%" alt="Automl For Complex Workflows And Pipelines"/>
-</a>
-
-**[Automl For Complex Workflows And Pipelines](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-22-automl-for-complex-workflows-and-pipelines.md)**
-<br/><sub>2026-04-22</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-21-retrieval-augmented-generation-rag-systems-at-sc.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-systems-at-sc.jpg" width="100%" alt="Retrieval Augmented Generation Rag Systems At Sc"/>
-</a>
-
-**[Retrieval Augmented Generation Rag Systems At Sc](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-21-retrieval-augmented-generation-rag-systems-at-sc.md)**
-<br/><sub>2026-04-21</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -222,21 +222,21 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Recent Open-Source Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Feature request: Support Agent Discovery Protocol (/.well-kn](https://github.com/ScrapeGraphAI/Scrapegraph-ai) in `ScrapeGraphAI/Scrapegraph-ai` <sub>(2026-04-23)</sub>
+📝 Opened issue [[Feature] Automatic LoRA rank recommendation based on datase](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-04-24)</sub>
 
-💬 Commented on [Error in loading flux2 klein lora adapter](https://github.com/huggingface/diffusers) in `huggingface/diffusers` <sub>(2026-04-23)</sub>
+💬 Commented on [Integrate SAM3-LiteText to Ultralytics](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-04-24)</sub>
 
-💬 Commented on [[Bug] [NPU] [Diffusion] CI takes too long time to install de](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-04-23)</sub>
+💬 Commented on [Crazy Logging I want to shut it down](https://github.com/NVIDIA-NeMo/NeMo) in `NVIDIA-NeMo/NeMo` <sub>(2026-04-24)</sub>
 
-💬 Commented on [Proposal: PromptDefenseAudit Hub validator — static system p](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-04-23)</sub>
+💬 Commented on [Regression in 1.1.7 (#7498): Second regenerate from latest c](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-04-24)</sub>
 
-💬 Commented on [Sweep: sweep plugin overwrite the keymap](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-04-23)</sub>
+💬 Commented on [Issue with the custom nodes.](https://github.com/modal-labs/modal-examples) in `modal-labs/modal-examples` <sub>(2026-04-24)</sub>
 
-💬 Commented on [Tool: Token Safety for DeFi Operations](https://github.com/openinterpreter/open-interpreter) in `openinterpreter/open-interpreter` <sub>(2026-04-23)</sub>
+💬 Commented on [[Model Request] Support Gemma4](https://github.com/mlc-ai/mlc-llm) in `mlc-ai/mlc-llm` <sub>(2026-04-24)</sub>
 
-💬 Commented on [Integrate SAM3-LiteText to Ultralytics](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-04-23)</sub>
+💬 Commented on [AuxiliaryTrainingWrapper.forward requires positional `x`, br](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-24)</sub>
 
-💬 Commented on [[Bug]: claude review failed](https://github.com/ag2ai/ag2) in `ag2ai/ag2` <sub>(2026-04-23)</sub>
+💬 Commented on [Error: Gemini 3 Pro - Unknown error](https://github.com/continuedev/continue) in `continuedev/continue` <sub>(2026-04-24)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -246,17 +246,17 @@ i publish research notes daily — not polished papers, just honest writeups of 
 *topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 Efficient Model Serving with Quantization and Distillation
+
+🔬 Streaming Model Inference for Real-Time Applications
+
+🔬 Fine-Tuned LLMs for Enterprise Retrieval-Augmented Generation (RAG)
+
 🔬 Synthetic Data Generation for ML Training
 
 🔬 Explainable AI (XAI) for Trustworthy Models
 
 🔬 Edge AI for Real-Time Inference
-
-🔬 AutoML for Complex Workflows and Pipelines
-
-🔬 Fine-Tuning and Customization of LLMs with Parameter-Efficient Techniques
-
-🔬 Retrieval-Augmented Generation (RAG) Systems at Scale
 <!-- RESEARCH_END -->
 
 ---
@@ -264,16 +264,16 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Code Snippets & Gists
 
 <!-- GISTS_START -->
+📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/835e4cc55a3bf125f850e98a74a05e90)** <sub>(2026-04-24)</sub>
+
+📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/0152f12a46eb24c33dc1820379eff142)** <sub>(2026-04-24)</sub>
+
 📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/2a1c07efc212bd0e7fa0509b525c37ba)** <sub>(2026-04-23)</sub>
-
-📌 **[Prompt Template Engine with Variable Injection — Production Pattern (Python)](https://gist.github.com/rehan243/0b87815398ac78bf0d00cbb21068bd1d)** <sub>(2026-04-22)</sub>
-
-📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/017134a39b9d5715a0440762872f1615)** <sub>(2026-04-21)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-23 19:21 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-24 19:03 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
