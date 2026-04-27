@@ -171,6 +171,28 @@ i publish research notes daily — not polished papers, just honest writeups of 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-27-real-time-data-quality-monitoring-for-ml.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-data-quality-monitoring-for-ml.jpg" width="100%" alt="Real Time Data Quality Monitoring For Ml"/>
+</a>
+
+**[Real Time Data Quality Monitoring For Ml](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-27-real-time-data-quality-monitoring-for-ml.md)**
+<br/><sub>2026-04-27</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-27-automl-for-hyperparameter-tuning.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-hyperparameter-tuning.jpg" width="100%" alt="Automl For Hyperparameter Tuning"/>
+</a>
+
+**[Automl For Hyperparameter Tuning](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-27-automl-for-hyperparameter-tuning.md)**
+<br/><sub>2026-04-27</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-26-production-ready-retrieval-augmented-generation-r.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-ready-retrieval-augmented-generation-r.jpg" width="100%" alt="Production Ready Retrieval Augmented Generation R"/>
 </a>
@@ -190,28 +212,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-24-streaming-model-inference-for-real-time-applicatio.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/streaming-model-inference-for-real-time-applicatio.jpg" width="100%" alt="Streaming Model Inference For Real Time Applicatio"/>
-</a>
-
-**[Streaming Model Inference For Real Time Applicatio](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-24-streaming-model-inference-for-real-time-applicatio.md)**
-<br/><sub>2026-04-24</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-24-fine-tuned-llms-for-enterprise-retrieval-augmented.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuned-llms-for-enterprise-retrieval-augmented.jpg" width="100%" alt="Fine Tuned Llms For Enterprise Retrieval Augmented"/>
-</a>
-
-**[Fine Tuned Llms For Enterprise Retrieval Augmented](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-24-fine-tuned-llms-for-enterprise-retrieval-augmented.md)**
-<br/><sub>2026-04-24</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -222,21 +222,21 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Recent Open-Source Activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [AuxiliaryTrainingWrapper.forward requires positional `x`, br](https://github.com/huggingface/peft) in `huggingface/peft` <sub>(2026-04-26)</sub>
+📝 Opened issue [[Feature] Built-in feature drift detection with alerting](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-04-27)</sub>
 
-💬 Commented on [Third-party architecture audit notes from agchk](https://github.com/browser-use/browser-use) in `browser-use/browser-use` <sub>(2026-04-26)</sub>
+💬 Commented on [Third-party architecture audit notes from agchk](https://github.com/browser-use/browser-use) in `browser-use/browser-use` <sub>(2026-04-27)</sub>
 
-💬 Commented on [Is qkv clipping used in the final model versions?](https://github.com/allenai/OLMo) in `allenai/OLMo` <sub>(2026-04-26)</sub>
+💬 Commented on [[BUG] Unable to log models with requirements.txt in air gapp](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-04-27)</sub>
 
-💬 Commented on [Add docstrings to dspy/predict/react.py](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-04-26)</sub>
+💬 Commented on [Feature request for Ollama Desktop app just like Claude Desk](https://github.com/ollama/ollama) in `ollama/ollama` <sub>(2026-04-27)</sub>
 
-💬 Commented on [Cookbook idea: Singapore product price search agent using Bu](https://github.com/agno-agi/agno) in `agno-agi/agno` <sub>(2026-04-26)</sub>
+💬 Commented on [Title: stream=True only returns output from basemodel, LoRA ](https://github.com/predibase/lorax) in `predibase/lorax` <sub>(2026-04-27)</sub>
 
-💬 Commented on [[Bug] Heterogeneous TP PD disaggregation produces incorrect ](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-04-26)</sub>
+💬 Commented on [Broken link: https://aiwithapex.com)](https://github.com/moshehbenavraham/Ultimate-Agent-Directory) in `moshehbenavraham/Ultimate-Agent-Directory` <sub>(2026-04-27)</sub>
 
-💬 Commented on [Observed limitation: architecture drift in long-running GPT ](https://github.com/openai/openai-python) in `openai/openai-python` <sub>(2026-04-26)</sub>
+💬 Commented on [Sp4d single image input](https://github.com/Stability-AI/generative-models) in `Stability-AI/generative-models` <sub>(2026-04-27)</sub>
 
-💬 Commented on [[BUG] Unable to log models with requirements.txt in air gapp](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-04-26)</sub>
+💬 Commented on [Accessing a dataset from an environment that uses a differen](https://github.com/clearml/clearml) in `clearml/clearml` <sub>(2026-04-27)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -246,6 +246,10 @@ i publish research notes daily — not polished papers, just honest writeups of 
 *topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
 
 <!-- RESEARCH_START -->
+🔬 AutoML for Hyperparameter Tuning
+
+🔬 Real-time Data Quality Monitoring for ML
+
 🔬 Fine-Tuning and Serving Small Language Models for Edge and On-Device AI
 
 🔬 Production-Ready Retrieval-Augmented Generation (RAG) at Scale
@@ -253,10 +257,6 @@ i publish research notes daily — not polished papers, just honest writeups of 
 🔬 Efficient Model Serving with Quantization and Distillation
 
 🔬 Streaming Model Inference for Real-Time Applications
-
-🔬 Fine-Tuned LLMs for Enterprise Retrieval-Augmented Generation (RAG)
-
-🔬 Synthetic Data Generation for ML Training
 <!-- RESEARCH_END -->
 
 ---
@@ -273,7 +273,7 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-26 19:05 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-04-27 19:41 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
