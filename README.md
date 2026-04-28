@@ -133,7 +133,7 @@ i commit a lot. sometimes it's good code, sometimes it's "fix: typo in typo fix"
 </p>
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan243&layout=compact&theme=dark&bg_color=1a1a2e&title_color=e94560&text_color=eaeaea&hide_border=true&exclude_repo=sunshine-care-daycare-saas,Prompt-Engineering-Guide&hide=mdx,html,css,javascript&langs_count=8" alt="top programming languages — Python"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan243&layout=compact&theme=dark&bg_color=1a1a2e&title_color=e94560&text_color=eaeaea&hide_border=true&exclude_repo=sunshine-care-daycare-saas,Prompt-Engineering-Guide&hide=mdx,html,css,javascript,c%2B%2B,c,jupyter+notebook,shell&langs_count=8" alt="top programming languages — Python"/>
 </p>
 
 ---
