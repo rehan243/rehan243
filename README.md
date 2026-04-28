@@ -164,7 +164,7 @@ i commit a lot. sometimes it's good code, sometimes it's "fix: typo in typo fix"
 
 ## Latest AI Research Articles
 
-i publish research notes daily — not polished papers, just honest writeups of what i'm learning and building. think of it as a public lab notebook for **generative AI**, **LLM fine-tuning**, **RAG**, and **agentic systems**.
+i write about what i'm building and learning. not polished papers — more like notes to my future self that happen to be public.
 
 <!-- ARTICLES_START -->
 <table>
@@ -219,7 +219,7 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 ---
 
-## Recent Open-Source Activity
+## Recent Activity
 
 <!-- ACTIVITY_START -->
 📝 Opened issue [[Feature] Built-in feature drift detection with alerting](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-04-27)</sub>
@@ -241,22 +241,22 @@ i publish research notes daily — not polished papers, just honest writeups of 
 
 ---
 
-## Currently Researching &nbsp;<img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/tech-globe.gif" width="22" alt="globe animation"/>
+## What I'm Reading Lately
 
-*topics discovered daily by a multi-model AI research engine (GPT-4.1, Grok-3, DeepSeek R1, Llama-4)*
+stuff i've been digging into recently — mostly papers, blog posts, and rabbit holes that kept me up too late:
 
 <!-- RESEARCH_START -->
-🔬 AutoML for Hyperparameter Tuning
+- automl for hyperparameter tuning — tired of manual grid search
 
-🔬 Real-time Data Quality Monitoring for ML
+- real-time data quality monitoring — catching drift before it eats your model
 
-🔬 Fine-Tuning and Serving Small Language Models for Edge and On-Device AI
+- small language models on edge/device — not everything needs a datacenter
 
-🔬 Production-Ready Retrieval-Augmented Generation (RAG) at Scale
+- scaling RAG in production — the gap between demo and real is huge
 
-🔬 Efficient Model Serving with Quantization and Distillation
+- quantization + distillation for cheap inference
 
-🔬 Streaming Model Inference for Real-Time Applications
+- streaming inference — because nobody wants to wait 8 seconds for a response
 <!-- RESEARCH_END -->
 
 ---
@@ -264,17 +264,14 @@ i publish research notes daily — not polished papers, just honest writeups of 
 ## Code Snippets & Gists
 
 <!-- GISTS_START -->
-📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/9ba5a52672f60e88be425c76f4b2a847)** <sub>(2026-04-26)</sub>
+📌 **[k8s pod scaler for GPU workloads](https://gist.github.com/rehan243/9ba5a52672f60e88be425c76f4b2a847)** <sub>(2026-04-26)</sub>
 
-📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/4a53b971efdf4c7f4eda350186609ddf)** <sub>(2026-04-26)</sub>
+📌 **[data drift detector (KS-test)](https://gist.github.com/rehan243/4a53b971efdf4c7f4eda350186609ddf)** <sub>(2026-04-26)</sub>
 
-📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/835e4cc55a3bf125f850e98a74a05e90)** <sub>(2026-04-24)</sub>
+📌 **[async retry with exponential backoff](https://gist.github.com/rehan243/835e4cc55a3bf125f850e98a74a05e90)** <sub>(2026-04-24)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
-
-<sub>🤖 Profile auto-updated on 2026-04-27 19:41 UTC</sub>
-
 <!-- DYNAMIC_SECTIONS_END -->
 
 <img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/wave-divider.gif" width="100%" alt="animated divider"/>
