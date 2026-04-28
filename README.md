@@ -169,8 +169,30 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-scale-fine-tuning-of-proprietary-llms.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-scale-fine-tuning-of-proprietary-llms.jpg" width="100%" alt="Production Scale Fine Tuning Of Proprietary Llms"/>
+</a>
+
+**[Production Scale Fine Tuning Of Proprietary Llms](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-scale-fine-tuning-of-proprietary-llms.md)**
+<br/><sub>2026-04-28</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-28-automl-for-time-series-forecasting.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-time-series-forecasting.jpg" width="100%" alt="Automl For Time Series Forecasting"/>
+</a>
+
+**[Automl For Time Series Forecasting](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-28-automl-for-time-series-forecasting.md)**
+<br/><sub>2026-04-28</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-27-real-time-data-quality-monitoring-for-ml.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-data-quality-monitoring-for-ml.jpg" width="100%" alt="data quality monitoring for ML"/>
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-data-quality-monitoring-for-ml.jpg" width="100%" alt="Real Time Data Quality Monitoring For Ml"/>
 </a>
 
 **[Real Time Data Quality Monitoring For Ml](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-27-real-time-data-quality-monitoring-for-ml.md)**
@@ -180,7 +202,7 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-27-automl-for-hyperparameter-tuning.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-hyperparameter-tuning.jpg" width="100%" alt="automl hyperparameter tuning"/>
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-hyperparameter-tuning.jpg" width="100%" alt="Automl For Hyperparameter Tuning"/>
 </a>
 
 **[Automl For Hyperparameter Tuning](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-27-automl-for-hyperparameter-tuning.md)**
@@ -188,31 +210,9 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-26-production-ready-retrieval-augmented-generation-r.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-ready-retrieval-augmented-generation-r.jpg" width="100%" alt="production RAG at scale"/>
-</a>
-
-**[Production Ready Retrieval Augmented Generation R](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-26-production-ready-retrieval-augmented-generation-r.md)**
-<br/><sub>2026-04-26</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-26-fine-tuning-and-serving-small-language-models-for-.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-and-serving-small-language-models-for-.jpg" width="100%" alt="small language models on device"/>
-</a>
-
-**[Fine Tuning And Serving Small Language Models For ](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-26-fine-tuning-and-serving-small-language-models-for-.md)**
-<br/><sub>2026-04-26</sub>
-
-</td>
-</tr>
 </table>
 
-[see all articles](https://github.com/rehan243/AI-Engineering-Notes)
+[📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
 <!-- ARTICLES_END -->
 
 ---
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-opened issue [[Feature] Built-in feature drift detection with alerting](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-04-27)</sub>
+💬 Commented on [TypeError collecting serde allowlist for collections.abc gen](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-04-28)</sub>
 
-commented on [Third-party architecture audit notes from agchk](https://github.com/browser-use/browser-use) in `browser-use/browser-use` <sub>(2026-04-27)</sub>
+💬 Commented on [RuntimeError: Cannot create non-dynamic delegate: cached_pat](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-04-28)</sub>
 
-commented on [[BUG] Unable to log models with requirements.txt in air gapp](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-04-27)</sub>
+💬 Commented on [Qodo AntiSlop scan found 46 issues across 10 recent PRs](https://github.com/openinterpreter/open-interpreter) in `openinterpreter/open-interpreter` <sub>(2026-04-28)</sub>
 
-commented on [Feature request for Ollama Desktop app just like Claude Desk](https://github.com/ollama/ollama) in `ollama/ollama` <sub>(2026-04-27)</sub>
+💬 Commented on [Faster CI suite - sub 10min](https://github.com/zenml-io/zenml) in `zenml-io/zenml` <sub>(2026-04-28)</sub>
 
-commented on [Title: stream=True only returns output from basemodel, LoRA ](https://github.com/predibase/lorax) in `predibase/lorax` <sub>(2026-04-27)</sub>
+💬 Commented on [Add AEO quality badge to README (score: 45/100)](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-04-28)</sub>
 
-commented on [Broken link: https://aiwithapex.com)](https://github.com/moshehbenavraham/Ultimate-Agent-Directory) in `moshehbenavraham/Ultimate-Agent-Directory` <sub>(2026-04-27)</sub>
+💬 Commented on [[Feature] Built-in feature drift detection with alerting](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-04-28)</sub>
 
-commented on [Sp4d single image input](https://github.com/Stability-AI/generative-models) in `Stability-AI/generative-models` <sub>(2026-04-27)</sub>
+⭐ Starred `tinyfish-io/agentql-mcp` <sub>(2026-04-28)</sub>
 
-commented on [Accessing a dataset from an environment that uses a differen](https://github.com/clearml/clearml) in `clearml/clearml` <sub>(2026-04-27)</sub>
+⭐ Starred `qiantongtech/qKnow` <sub>(2026-04-28)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,12 +244,17 @@ commented on [Accessing a dataset from an environment that uses a differen](http
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
-- automl for hyperparameter tuning, tired of manual grid search
-- real-time data quality monitoring, catching drift before it eats your model
-- small language models on edge/device, not everything needs a datacenter
-- scaling RAG in production, the gap between demo and real is huge
-- quantization + distillation for cheap inference
-- streaming inference, because nobody wants to wait 8 seconds
+🔬 Retrieval-Augmented Generation (RAG) with Streaming and Real-Time Data
+
+🔬 Production-Scale Fine-Tuning of Proprietary LLMs
+
+🔬 AutoML for Hyperparameter Tuning
+
+🔬 Real-time Data Quality Monitoring for ML
+
+🔬 Fine-Tuning and Serving Small Language Models for Edge and On-Device AI
+
+🔬 Production-Ready Retrieval-Augmented Generation (RAG) at Scale
 <!-- RESEARCH_END -->
 
 ---
@@ -257,14 +262,17 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
-**[k8s pod scaler for GPU workloads](https://gist.github.com/rehan243/9ba5a52672f60e88be425c76f4b2a847)** <sub>(2026-04-26)</sub>
+📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/62368abdbd25c8245f646e067a917390)** <sub>(2026-04-28)</sub>
 
-**[data drift detector (KS-test)](https://gist.github.com/rehan243/4a53b971efdf4c7f4eda350186609ddf)** <sub>(2026-04-26)</sub>
+📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/fb884027ab042c904b1d56db494e8f9e)** <sub>(2026-04-28)</sub>
 
-**[async retry with exponential backoff](https://gist.github.com/rehan243/835e4cc55a3bf125f850e98a74a05e90)** <sub>(2026-04-24)</sub>
+📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/9ba5a52672f60e88be425c76f4b2a847)** <sub>(2026-04-26)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
+
+<sub>🤖 Profile auto-updated on 2026-04-28 19:49 UTC</sub>
+
 <!-- DYNAMIC_SECTIONS_END -->
 
 <img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/wave-divider.gif" width="100%" alt="divider"/>
