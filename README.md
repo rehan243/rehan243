@@ -150,7 +150,7 @@ not going to pretend i use everything equally. here's what i actually reach for:
 
 ---
 
-### contribution snake
+### my github contributions eating themselves
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehan243/rehan243/output/github-snake-dark.svg" />
