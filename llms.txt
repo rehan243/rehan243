@@ -43,4 +43,4 @@ Kafka, FAISS, ChromaDB, Git, GitHub Actions, MLflow, Weights & Biases
 
 ## Last Updated
 
-- 2026-04-30
+- 2026-05-01
