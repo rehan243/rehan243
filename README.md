@@ -169,6 +169,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-real-world-applications-of-graph-neural-networks.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-world-applications-of-graph-neural-networks.jpg" width="100%" alt="Real World Applications Of Graph Neural Networks"/>
+</a>
+
+**[Real World Applications Of Graph Neural Networks](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-real-world-applications-of-graph-neural-networks.md)**
+<br/><sub>2026-05-01</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-continual-learning-for-production-ml-systems.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/continual-learning-for-production-ml-systems.jpg" width="100%" alt="Continual Learning For Production Ml Systems"/>
+</a>
+
+**[Continual Learning For Production Ml Systems](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-continual-learning-for-production-ml-systems.md)**
+<br/><sub>2026-05-01</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-30-efficient-large-language-model-deployment.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-large-language-model-deployment.jpg" width="100%" alt="Efficient Large Language Model Deployment"/>
 </a>
@@ -188,28 +210,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-28-automl-for-time-series-forecasting.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-time-series-forecasting.jpg" width="100%" alt="Automl For Time Series Forecasting"/>
-</a>
-
-**[Automl For Time Series Forecasting](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-28-automl-for-time-series-forecasting.md)**
-<br/><sub>2026-04-28</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-27-real-time-data-quality-monitoring-for-ml.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-data-quality-monitoring-for-ml.jpg" width="100%" alt="Real Time Data Quality Monitoring For Ml"/>
-</a>
-
-**[Real Time Data Quality Monitoring For Ml](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-27-real-time-data-quality-monitoring-for-ml.md)**
-<br/><sub>2026-04-27</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-📝 Opened issue [[Feature] Native support for ColBERT-style late interaction ](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-04-30)</sub>
+💬 Commented on [RuntimeError: Cannot create non-dynamic delegate: cached_pat](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-05-01)</sub>
 
-💬 Commented on [CUDA 13 compilation failure (MSVC / NVCC): invalid identifie](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-04-30)</sub>
+💬 Commented on [Install section doesn't work as expected.](https://github.com/nicobailon/pi-boomerang) in `nicobailon/pi-boomerang` <sub>(2026-05-01)</sub>
 
-💬 Commented on [RuntimeError: Cannot create non-dynamic delegate: cached_pat](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-04-30)</sub>
+💬 Commented on [Broken link: https://github.com/owner/repo](https://github.com/moshehbenavraham/Ultimate-Agent-Directory) in `moshehbenavraham/Ultimate-Agent-Directory` <sub>(2026-05-01)</sub>
 
-💬 Commented on [Llma4](https://github.com/meta-llama/llama-models) in `meta-llama/llama-models` <sub>(2026-04-30)</sub>
+💬 Commented on [feat: lighter "connection lost" warning](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-05-01)</sub>
 
-💬 Commented on [Flaky test `hnsw_quantized_search_test::hnsw_turbo_quantizat](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-04-30)</sub>
+💬 Commented on [FactualCorrectness(mode="recall") returns precision score in](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-05-01)</sub>
 
-💬 Commented on [tests/conftest.py, tests/_test_patching.py, tests/fixtures/f](https://github.com/huggingface/datasets) in `huggingface/datasets` <sub>(2026-04-30)</sub>
+💬 Commented on [[Feature] Streaming structured generation with partial valid](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-05-01)</sub>
 
-💬 Commented on [[Security] AgentOS exposes sensitive agent internals to API ](https://github.com/agno-agi/agno) in `agno-agi/agno` <sub>(2026-04-30)</sub>
+⭐ Starred `JacobLinCool/d1-manager` <sub>(2026-05-01)</sub>
 
-💬 Commented on [Integration proposal: styxx hallucination validator (8-bench](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-04-30)</sub>
+⭐ Starred `skanga/DBchat` <sub>(2026-05-01)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Continual Learning for Production ML Systems
+
+🔬 Real-World Applications of Graph Neural Networks
+
 🔬 Explainable AI for Model Debugging
 
 🔬 Efficient Large Language Model Deployment
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Retrieval-Augmented Generation (RAG) with Streaming and Real-Time Data
 
 🔬 Production-Scale Fine-Tuning of Proprietary LLMs
-
-🔬 AutoML for Hyperparameter Tuning
-
-🔬 Real-time Data Quality Monitoring for ML
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/f76fd84da78666eb00f68ee5248dd9a2)** <sub>(2026-05-01)</sub>
+
 📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/27e3a5c81a82e234d89f55d7bd581d95)** <sub>(2026-04-30)</sub>
 
 📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/62368abdbd25c8245f646e067a917390)** <sub>(2026-04-28)</sub>
-
-📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/fb884027ab042c904b1d56db494e8f9e)** <sub>(2026-04-28)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-04-30 19:42 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-01 19:21 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
