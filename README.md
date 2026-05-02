@@ -169,6 +169,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-02-retrieval-augmented-generation-rag-at-scale.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-scale.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale"/>
+</a>
+
+**[Retrieval Augmented Generation Rag At Scale](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-02-retrieval-augmented-generation-rag-at-scale.md)**
+<br/><sub>2026-05-02</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-02-fine-tuning-and-deployment-of-open-source-llms-e.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-and-deployment-of-open-source-llms-e.jpg" width="100%" alt="Fine Tuning And Deployment Of Open Source Llms E"/>
+</a>
+
+**[Fine Tuning And Deployment Of Open Source Llms E](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-02-fine-tuning-and-deployment-of-open-source-llms-e.md)**
+<br/><sub>2026-05-02</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-real-world-applications-of-graph-neural-networks.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-world-applications-of-graph-neural-networks.jpg" width="100%" alt="Real World Applications Of Graph Neural Networks"/>
 </a>
@@ -188,28 +210,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-30-efficient-large-language-model-deployment.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-large-language-model-deployment.jpg" width="100%" alt="Efficient Large Language Model Deployment"/>
-</a>
-
-**[Efficient Large Language Model Deployment](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-30-efficient-large-language-model-deployment.md)**
-<br/><sub>2026-04-30</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-scale-fine-tuning-of-proprietary-llms.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-scale-fine-tuning-of-proprietary-llms.jpg" width="100%" alt="Production Scale Fine Tuning Of Proprietary Llms"/>
-</a>
-
-**[Production Scale Fine Tuning Of Proprietary Llms](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-04-28-production-scale-fine-tuning-of-proprietary-llms.md)**
-<br/><sub>2026-04-28</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [RuntimeError: Cannot create non-dynamic delegate: cached_pat](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-05-01)</sub>
+💬 Commented on [我改造了注意力机制, 注意力或许还可破解.](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-05-02)</sub>
 
-💬 Commented on [Install section doesn't work as expected.](https://github.com/nicobailon/pi-boomerang) in `nicobailon/pi-boomerang` <sub>(2026-05-01)</sub>
+💬 Commented on [feat: lighter "connection lost" warning](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-05-02)</sub>
 
-💬 Commented on [Broken link: https://github.com/owner/repo](https://github.com/moshehbenavraham/Ultimate-Agent-Directory) in `moshehbenavraham/Ultimate-Agent-Directory` <sub>(2026-05-01)</sub>
+💬 Commented on [[Feature]: seedweedfs as a storage backend](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-05-02)</sub>
 
-💬 Commented on [feat: lighter "connection lost" warning](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-05-01)</sub>
+💬 Commented on [JSONAdapter leaks Pydantic `x-*` vendor extensions to LM pro](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-05-02)</sub>
 
-💬 Commented on [FactualCorrectness(mode="recall") returns precision score in](https://github.com/vibrantlabsai/ragas) in `vibrantlabsai/ragas` <sub>(2026-05-01)</sub>
+💬 Commented on [After editing a workflow it saves it as the old workflow or ](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-05-02)</sub>
 
-💬 Commented on [[Feature] Streaming structured generation with partial valid](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-05-01)</sub>
+💬 Commented on [Add SwarmScore — Portable Trust Rating for AI Agents](https://github.com/assafelovic/gpt-researcher) in `assafelovic/gpt-researcher` <sub>(2026-05-02)</sub>
 
-⭐ Starred `JacobLinCool/d1-manager` <sub>(2026-05-01)</sub>
+💬 Commented on [[Feature] Puyu API Support usage](https://github.com/InternLM/InternLM) in `InternLM/InternLM` <sub>(2026-05-02)</sub>
 
-⭐ Starred `skanga/DBchat` <sub>(2026-05-01)</sub>
+💬 Commented on [Incorrect import path for DeepAcyclicGraph in DAG documentat](https://github.com/confident-ai/deepeval) in `confident-ai/deepeval` <sub>(2026-05-02)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning and Deployment of Open-Source LLMs (e.g., Llama 3, Mixtral)
+
+🔬 Retrieval-Augmented Generation (RAG) at Scale
+
 🔬 Continual Learning for Production ML Systems
 
 🔬 Real-World Applications of Graph Neural Networks
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Explainable AI for Model Debugging
 
 🔬 Efficient Large Language Model Deployment
-
-🔬 Retrieval-Augmented Generation (RAG) with Streaming and Real-Time Data
-
-🔬 Production-Scale Fine-Tuning of Proprietary LLMs
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/d8c67fc85b2e40879b8013c42ebf4c37)** <sub>(2026-05-02)</sub>
+
+📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/8a343e2b8a0d9d13ae268647d8806bb5)** <sub>(2026-05-02)</sub>
+
 📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/f76fd84da78666eb00f68ee5248dd9a2)** <sub>(2026-05-01)</sub>
-
-📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/27e3a5c81a82e234d89f55d7bd581d95)** <sub>(2026-04-30)</sub>
-
-📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/62368abdbd25c8245f646e067a917390)** <sub>(2026-04-28)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-01 19:21 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-02 19:11 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
