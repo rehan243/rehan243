@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-03-retrieval-augmented-generation-rag-for-enterpris.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for-enterpris.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Enterpris"/>
+</a>
+
+**[Retrieval Augmented Generation Rag For Enterpris](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-03-retrieval-augmented-generation-rag-for-enterpris.md)**
+<br/><sub>2026-05-03</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-02-retrieval-augmented-generation-rag-at-scale.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-scale.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-02</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-02-fine-tuning-and-deployment-of-open-source-llms-e.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-02</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-real-world-applications-of-graph-neural-networks.md">
@@ -196,16 +206,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 </a>
 
 **[Real World Applications Of Graph Neural Networks](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-real-world-applications-of-graph-neural-networks.md)**
-<br/><sub>2026-05-01</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-continual-learning-for-production-ml-systems.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/continual-learning-for-production-ml-systems.jpg" width="100%" alt="Continual Learning For Production Ml Systems"/>
-</a>
-
-**[Continual Learning For Production Ml Systems](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-continual-learning-for-production-ml-systems.md)**
 <br/><sub>2026-05-01</sub>
 
 </td>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [我改造了注意力机制, 注意力或许还可破解.](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-05-02)</sub>
+💬 Commented on [我改造了注意力机制, 注意力或许还可破解.](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-05-03)</sub>
 
-💬 Commented on [feat: lighter "connection lost" warning](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-05-02)</sub>
+💬 Commented on [✨ Allow overriding `StatefulSet.spec.replicas` in the Helm c](https://github.com/dagger/dagger) in `dagger/dagger` <sub>(2026-05-03)</sub>
 
-💬 Commented on [[Feature]: seedweedfs as a storage backend](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-05-02)</sub>
+💬 Commented on [feature: uv Workspace Support](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-05-03)</sub>
 
-💬 Commented on [JSONAdapter leaks Pydantic `x-*` vendor extensions to LM pro](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-05-02)</sub>
+💬 Commented on ['RuntimeError: asyncio.run() cannot be called from a running](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-05-03)</sub>
 
-💬 Commented on [After editing a workflow it saves it as the old workflow or ](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-05-02)</sub>
+💬 Commented on [Should the results after integrating svelte mcp be included ](https://github.com/khromov/svelte-bench) in `khromov/svelte-bench` <sub>(2026-05-03)</sub>
 
-💬 Commented on [Add SwarmScore — Portable Trust Rating for AI Agents](https://github.com/assafelovic/gpt-researcher) in `assafelovic/gpt-researcher` <sub>(2026-05-02)</sub>
+💬 Commented on [Tensorflow is installed on a virtual Ubuntu environment on a](https://github.com/tensorflow/tensorflow) in `tensorflow/tensorflow` <sub>(2026-05-03)</sub>
 
-💬 Commented on [[Feature] Puyu API Support usage](https://github.com/InternLM/InternLM) in `InternLM/InternLM` <sub>(2026-05-02)</sub>
+💬 Commented on [RuntimeError: from_dlpack received an invalid capsule.](https://github.com/explosion/spaCy) in `explosion/spaCy` <sub>(2026-05-03)</sub>
 
-💬 Commented on [Incorrect import path for DeepAcyclicGraph in DAG documentat](https://github.com/confident-ai/deepeval) in `confident-ai/deepeval` <sub>(2026-05-02)</sub>
+💬 Commented on [Multi-agent coordination with Guidance programs — orchestrat](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-05-03)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning Large Language Models with Parameter-Efficient Methods
+
+🔬 Retrieval-Augmented Generation (RAG) for Enterprise Search
+
 🔬 Fine-Tuning and Deployment of Open-Source LLMs (e.g., Llama 3, Mixtral)
 
 🔬 Retrieval-Augmented Generation (RAG) at Scale
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Continual Learning for Production ML Systems
 
 🔬 Real-World Applications of Graph Neural Networks
-
-🔬 Explainable AI for Model Debugging
-
-🔬 Efficient Large Language Model Deployment
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Token Counter for Multi-Model Cost Estimation — Production Pattern (Python)](https://gist.github.com/rehan243/bda41673ae4a225cf6ba133fa26b2d0b)** <sub>(2026-05-03)</sub>
+
 📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/d8c67fc85b2e40879b8013c42ebf4c37)** <sub>(2026-05-02)</sub>
 
 📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/8a343e2b8a0d9d13ae268647d8806bb5)** <sub>(2026-05-02)</sub>
-
-📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/f76fd84da78666eb00f68ee5248dd9a2)** <sub>(2026-05-01)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-02 19:11 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-03 19:10 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
