@@ -169,6 +169,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-04-llm-fine-tuning-at-scale-with-lora.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
+</a>
+
+**[Llm Fine Tuning At Scale With Lora](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-04-llm-fine-tuning-at-scale-with-lora.md)**
+<br/><sub>2026-05-04</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-04-ai-safety-and-alignment-engineering.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
+</a>
+
+**[Ai Safety And Alignment Engineering](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-04-ai-safety-and-alignment-engineering.md)**
+<br/><sub>2026-05-04</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-03-retrieval-augmented-generation-rag-for-enterpris.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for-enterpris.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Enterpris"/>
 </a>
@@ -188,28 +210,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-02-fine-tuning-and-deployment-of-open-source-llms-e.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-and-deployment-of-open-source-llms-e.jpg" width="100%" alt="Fine Tuning And Deployment Of Open Source Llms E"/>
-</a>
-
-**[Fine Tuning And Deployment Of Open Source Llms E](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-02-fine-tuning-and-deployment-of-open-source-llms-e.md)**
-<br/><sub>2026-05-02</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-real-world-applications-of-graph-neural-networks.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-world-applications-of-graph-neural-networks.jpg" width="100%" alt="Real World Applications Of Graph Neural Networks"/>
-</a>
-
-**[Real World Applications Of Graph Neural Networks](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-01-real-world-applications-of-graph-neural-networks.md)**
-<br/><sub>2026-05-01</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [我改造了注意力机制, 注意力或许还可破解.](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-05-03)</sub>
+💬 Commented on [[feat][hiearchical_swarm][heartbeat and worker timeout with ](https://github.com/kyegomez/swarms) in `kyegomez/swarms` <sub>(2026-05-04)</sub>
 
-💬 Commented on [✨ Allow overriding `StatefulSet.spec.replicas` in the Helm c](https://github.com/dagger/dagger) in `dagger/dagger` <sub>(2026-05-03)</sub>
+💬 Commented on [Tool: DeFi Token Safety Check for Agent Tasks](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-05-04)</sub>
 
-💬 Commented on [feature: uv Workspace Support](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-05-03)</sub>
+💬 Commented on [bug: Azure AD SSO fails for new users with OAuthCreateAccoun](https://github.com/langfuse/langfuse) in `langfuse/langfuse` <sub>(2026-05-04)</sub>
 
-💬 Commented on ['RuntimeError: asyncio.run() cannot be called from a running](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-05-03)</sub>
+💬 Commented on [yolo26 opencv seg](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-04)</sub>
 
-💬 Commented on [Should the results after integrating svelte mcp be included ](https://github.com/khromov/svelte-bench) in `khromov/svelte-bench` <sub>(2026-05-03)</sub>
+💬 Commented on [jsonref package missing in required dependencies](https://github.com/567-labs/instructor) in `567-labs/instructor` <sub>(2026-05-04)</sub>
 
-💬 Commented on [Tensorflow is installed on a virtual Ubuntu environment on a](https://github.com/tensorflow/tensorflow) in `tensorflow/tensorflow` <sub>(2026-05-03)</sub>
+💬 Commented on [[Usage] EvalAI challenge server for vizwiz is no longer open](https://github.com/haotian-liu/LLaVA) in `haotian-liu/LLaVA` <sub>(2026-05-04)</sub>
 
-💬 Commented on [RuntimeError: from_dlpack received an invalid capsule.](https://github.com/explosion/spaCy) in `explosion/spaCy` <sub>(2026-05-03)</sub>
+💬 Commented on [Security Advisory Advisory](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-05-04)</sub>
 
-💬 Commented on [Multi-agent coordination with Guidance programs — orchestrat](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-05-03)</sub>
+💬 Commented on [Bug: Claude code "API Error: Content block not found" kimi-k](https://github.com/ollama/ollama) in `ollama/ollama` <sub>(2026-05-04)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 LLM Fine-Tuning at Scale with LoRA
+
+🔬 AI Safety and Alignment Engineering
+
 🔬 Fine-Tuning Large Language Models with Parameter-Efficient Methods
 
 🔬 Retrieval-Augmented Generation (RAG) for Enterprise Search
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Fine-Tuning and Deployment of Open-Source LLMs (e.g., Llama 3, Mixtral)
 
 🔬 Retrieval-Augmented Generation (RAG) at Scale
-
-🔬 Continual Learning for Production ML Systems
-
-🔬 Real-World Applications of Graph Neural Networks
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/9beec224c014bb97d8d879c6cc5b0d52)** <sub>(2026-05-04)</sub>
+
 📌 **[Token Counter for Multi-Model Cost Estimation — Production Pattern (Python)](https://gist.github.com/rehan243/bda41673ae4a225cf6ba133fa26b2d0b)** <sub>(2026-05-03)</sub>
 
 📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/d8c67fc85b2e40879b8013c42ebf4c37)** <sub>(2026-05-02)</sub>
-
-📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/8a343e2b8a0d9d13ae268647d8806bb5)** <sub>(2026-05-02)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-03 19:10 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-04 19:47 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
