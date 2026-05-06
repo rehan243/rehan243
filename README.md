@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Tensorflow is installed on a virtual Ubuntu environment on a](https://github.com/tensorflow/tensorflow) in `tensorflow/tensorflow` <sub>(2026-05-05)</sub>
+💬 Commented on [Private security contact request](https://github.com/state-spaces/mamba) in `state-spaces/mamba` <sub>(2026-05-06)</sub>
 
-💬 Commented on [bug: Azure AD SSO fails for new users with OAuthCreateAccoun](https://github.com/langfuse/langfuse) in `langfuse/langfuse` <sub>(2026-05-05)</sub>
+💬 Commented on [jsonref package missing in required dependencies](https://github.com/567-labs/instructor) in `567-labs/instructor` <sub>(2026-05-06)</sub>
 
-💬 Commented on [✨ Allow overriding `StatefulSet.spec.replicas` in the Helm c](https://github.com/dagger/dagger) in `dagger/dagger` <sub>(2026-05-05)</sub>
+💬 Commented on [Apply dedent when docstring is passed as task doc](https://github.com/apache/airflow) in `apache/airflow` <sub>(2026-05-06)</sub>
 
-💬 Commented on [[feat][hiearchical_swarm][heartbeat and worker timeout with ](https://github.com/kyegomez/swarms) in `kyegomez/swarms` <sub>(2026-05-04)</sub>
+💬 Commented on [Add support for models using final_logits_softcapping to Asy](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-05-06)</sub>
 
-💬 Commented on [Tool: DeFi Token Safety Check for Agent Tasks](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-05-04)</sub>
+💬 Commented on [Configurable toolbar in iframe](https://github.com/marimo-team/marimo) in `marimo-team/marimo` <sub>(2026-05-06)</sub>
 
-💬 Commented on [bug: Azure AD SSO fails for new users with OAuthCreateAccoun](https://github.com/langfuse/langfuse) in `langfuse/langfuse` <sub>(2026-05-04)</sub>
+💬 Commented on [Release 2.6.2 is missing on PyPI](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-05-06)</sub>
 
-💬 Commented on [yolo26 opencv seg](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-04)</sub>
+⭐ Starred `joshawome/chainreason` <sub>(2026-05-06)</sub>
 
-💬 Commented on [jsonref package missing in required dependencies](https://github.com/567-labs/instructor) in `567-labs/instructor` <sub>(2026-05-04)</sub>
+⭐ Starred `modelscope/evalscope` <sub>(2026-05-06)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/37db70023a124210a6c20bcfae4085ab)** <sub>(2026-05-06)</sub>
+
 📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/9beec224c014bb97d8d879c6cc5b0d52)** <sub>(2026-05-04)</sub>
 
 📌 **[Token Counter for Multi-Model Cost Estimation — Production Pattern (Python)](https://gist.github.com/rehan243/bda41673ae4a225cf6ba133fa26b2d0b)** <sub>(2026-05-03)</sub>
-
-📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/d8c67fc85b2e40879b8013c42ebf4c37)** <sub>(2026-05-02)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-05 19:31 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-06 19:55 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
