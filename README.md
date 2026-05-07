@@ -169,6 +169,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-production-scale-retrieval-augmented-generation-r.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-scale-retrieval-augmented-generation-r.jpg" width="100%" alt="Production Scale Retrieval Augmented Generation R"/>
+</a>
+
+**[Production Scale Retrieval Augmented Generation R](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-production-scale-retrieval-augmented-generation-r.md)**
+<br/><sub>2026-05-07</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-fine-tuning-large-language-models-with-parameter-e.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-large-language-models-with-parameter-e.jpg" width="100%" alt="Fine Tuning Large Language Models With Parameter E"/>
+</a>
+
+**[Fine Tuning Large Language Models With Parameter E](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-fine-tuning-large-language-models-with-parameter-e.md)**
+<br/><sub>2026-05-07</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-05-foundation-models-for-domain-specific-applications.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/foundation-models-for-domain-specific-applications.jpg" width="100%" alt="Foundation Models For Domain Specific Applications"/>
 </a>
@@ -188,28 +210,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-04-ai-safety-and-alignment-engineering.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
-</a>
-
-**[Ai Safety And Alignment Engineering](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-04-ai-safety-and-alignment-engineering.md)**
-<br/><sub>2026-05-04</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-03-retrieval-augmented-generation-rag-for-enterpris.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for-enterpris.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Enterpris"/>
-</a>
-
-**[Retrieval Augmented Generation Rag For Enterpris](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-03-retrieval-augmented-generation-rag-for-enterpris.md)**
-<br/><sub>2026-05-03</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Private security contact request](https://github.com/state-spaces/mamba) in `state-spaces/mamba` <sub>(2026-05-06)</sub>
+💬 Commented on [bug: Azure AD SSO fails for new users with OAuthCreateAccoun](https://github.com/langfuse/langfuse) in `langfuse/langfuse` <sub>(2026-05-07)</sub>
 
-💬 Commented on [jsonref package missing in required dependencies](https://github.com/567-labs/instructor) in `567-labs/instructor` <sub>(2026-05-06)</sub>
+💬 Commented on [yolo26 opencv seg](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-07)</sub>
 
-💬 Commented on [Apply dedent when docstring is passed as task doc](https://github.com/apache/airflow) in `apache/airflow` <sub>(2026-05-06)</sub>
+💬 Commented on [Tool: DeFi Token Safety Check for Agent Tasks](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-05-07)</sub>
 
-💬 Commented on [Add support for models using final_logits_softcapping to Asy](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-05-06)</sub>
+💬 Commented on [📝 Integration Proposal: CAJAL — Controlled Scientific Paper ](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-05-07)</sub>
 
-💬 Commented on [Configurable toolbar in iframe](https://github.com/marimo-team/marimo) in `marimo-team/marimo` <sub>(2026-05-06)</sub>
+💬 Commented on [[Bug]: Bedrock Converse streaming produces string `tool_kwar](https://github.com/run-llama/llama_index) in `run-llama/llama_index` <sub>(2026-05-07)</sub>
 
-💬 Commented on [Release 2.6.2 is missing on PyPI](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-05-06)</sub>
+💬 Commented on [[Question] Changing the vision tower.](https://github.com/haotian-liu/LLaVA) in `haotian-liu/LLaVA` <sub>(2026-05-07)</sub>
 
-⭐ Starred `joshawome/chainreason` <sub>(2026-05-06)</sub>
+💬 Commented on [[Feature] <title>如何让llm模型更好的提问？感觉现在训练模型都是让模型如何思考，去有效的pass@1，](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-05-07)</sub>
 
-⭐ Starred `modelscope/evalscope` <sub>(2026-05-06)</sub>
+⭐ Starred `suyoumo/ClawProBench` <sub>(2026-05-07)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,17 +244,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Multimodal AI Applications (Vision + Language)
+
+🔬 Fine-Tuning Large Language Models with Parameter-Efficient Techniques (LoRA/QLoRA)
+
+🔬 Production-Scale Retrieval-Augmented Generation (RAG) for Enterprise Search
+
 🔬 Generative Agents in Production Systems
 
 🔬 AI-Native Databases for Real-Time ML Inference
 
 🔬 Foundation Models for Domain-Specific Applications
-
-🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 AI Safety and Alignment Engineering
-
-🔬 Fine-Tuning Large Language Models with Parameter-Efficient Methods
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/41f7247154aae90cc866bfe0d5b6e872)** <sub>(2026-05-07)</sub>
+
 📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/37db70023a124210a6c20bcfae4085ab)** <sub>(2026-05-06)</sub>
 
 📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/9beec224c014bb97d8d879c6cc5b0d52)** <sub>(2026-05-04)</sub>
-
-📌 **[Token Counter for Multi-Model Cost Estimation — Production Pattern (Python)](https://gist.github.com/rehan243/bda41673ae4a225cf6ba133fa26b2d0b)** <sub>(2026-05-03)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-06 19:55 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-07 19:50 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
