@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-09-automated-machine-learning-for-time-series-forecas.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automated-machine-learning-for-time-series-forecas.jpg" width="100%" alt="Automated Machine Learning For Time Series Forecas"/>
+</a>
+
+**[Automated Machine Learning For Time Series Forecas](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-09-automated-machine-learning-for-time-series-forecas.md)**
+<br/><sub>2026-05-09</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-production-scale-retrieval-augmented-generation-r.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-scale-retrieval-augmented-generation-r.jpg" width="100%" alt="Production Scale Retrieval Augmented Generation R"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-07</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-fine-tuning-large-language-models-with-parameter-e.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-07</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-05-foundation-models-for-domain-specific-applications.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Foundation Models For Domain Specific Applications](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-05-foundation-models-for-domain-specific-applications.md)**
 <br/><sub>2026-05-05</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-04-llm-fine-tuning-at-scale-with-lora.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
-</a>
-
-**[Llm Fine Tuning At Scale With Lora](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-04-llm-fine-tuning-at-scale-with-lora.md)**
-<br/><sub>2026-05-04</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [bug: Azure AD SSO fails for new users with OAuthCreateAccoun](https://github.com/langfuse/langfuse) in `langfuse/langfuse` <sub>(2026-05-07)</sub>
+💬 Commented on [[Bug]: Bedrock Converse streaming produces string `tool_kwar](https://github.com/run-llama/llama_index) in `run-llama/llama_index` <sub>(2026-05-09)</sub>
 
-💬 Commented on [yolo26 opencv seg](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-05-07)</sub>
+💬 Commented on [📝 Integration Proposal: CAJAL — Scientific Paper Agent](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-05-09)</sub>
 
-💬 Commented on [Tool: DeFi Token Safety Check for Agent Tasks](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-05-07)</sub>
+💬 Commented on [📝 Integration Proposal: CAJAL — Controlled Scientific Paper ](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-05-09)</sub>
 
-💬 Commented on [📝 Integration Proposal: CAJAL — Controlled Scientific Paper ](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-05-07)</sub>
+💬 Commented on [Add `multipart_chunksize` / `multipart_threshold` to the `s3](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-05-09)</sub>
 
-💬 Commented on [[Bug]: Bedrock Converse streaming produces string `tool_kwar](https://github.com/run-llama/llama_index) in `run-llama/llama_index` <sub>(2026-05-07)</sub>
+💬 Commented on [When will SAM3 be open source?](https://github.com/facebookresearch/segment-anything) in `facebookresearch/segment-anything` <sub>(2026-05-09)</sub>
 
-💬 Commented on [[Question] Changing the vision tower.](https://github.com/haotian-liu/LLaVA) in `haotian-liu/LLaVA` <sub>(2026-05-07)</sub>
+💬 Commented on [[Feature]: make slack agent response more concise](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-05-09)</sub>
 
-💬 Commented on [[Feature] <title>如何让llm模型更好的提问？感觉现在训练模型都是让模型如何思考，去有效的pass@1，](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-05-07)</sub>
+💬 Commented on [LangGraph wierd add_edge behaviours between the list additio](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-05-09)</sub>
 
-⭐ Starred `suyoumo/ClawProBench` <sub>(2026-05-07)</sub>
+💬 Commented on [搭建web端示例时报错了](https://github.com/zai-org/CogVLM) in `zai-org/CogVLM` <sub>(2026-05-09)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Edge AI for Real-Time Computer Vision
+
+🔬 Automated Machine Learning for Time Series Forecasting
+
 🔬 Real-Time Multimodal AI Applications (Vision + Language)
 
 🔬 Fine-Tuning Large Language Models with Parameter-Efficient Techniques (LoRA/QLoRA)
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Production-Scale Retrieval-Augmented Generation (RAG) for Enterprise Search
 
 🔬 Generative Agents in Production Systems
-
-🔬 AI-Native Databases for Real-Time ML Inference
-
-🔬 Foundation Models for Domain-Specific Applications
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/24c53433826754a12bca25aee5464410)** <sub>(2026-05-09)</sub>
+
 📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/41f7247154aae90cc866bfe0d5b6e872)** <sub>(2026-05-07)</sub>
 
 📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/37db70023a124210a6c20bcfae4085ab)** <sub>(2026-05-06)</sub>
-
-📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/9beec224c014bb97d8d879c6cc5b0d52)** <sub>(2026-05-04)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-07 19:50 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-09 19:12 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
