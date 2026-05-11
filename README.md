@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-11-automl-for-time-series-forecasting.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-time-series-forecasting.jpg" width="100%" alt="Automl For Time Series Forecasting"/>
+</a>
+
+**[Automl For Time Series Forecasting](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-11-automl-for-time-series-forecasting.md)**
+<br/><sub>2026-05-11</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-09-automated-machine-learning-for-time-series-forecas.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automated-machine-learning-for-time-series-forecas.jpg" width="100%" alt="Automated Machine Learning For Time Series Forecas"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-09</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-production-scale-retrieval-augmented-generation-r.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-07</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-fine-tuning-large-language-models-with-parameter-e.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Fine Tuning Large Language Models With Parameter E](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-fine-tuning-large-language-models-with-parameter-e.md)**
 <br/><sub>2026-05-07</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-05-foundation-models-for-domain-specific-applications.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/foundation-models-for-domain-specific-applications.jpg" width="100%" alt="Foundation Models For Domain Specific Applications"/>
-</a>
-
-**[Foundation Models For Domain Specific Applications](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-05-foundation-models-for-domain-specific-applications.md)**
-<br/><sub>2026-05-05</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[Bug]: Bedrock Converse streaming produces string `tool_kwar](https://github.com/run-llama/llama_index) in `run-llama/llama_index` <sub>(2026-05-09)</sub>
+💬 Commented on [Streaming tool_call deltas with duplicate indexes in first c](https://github.com/openai/openai-python) in `openai/openai-python` <sub>(2026-05-11)</sub>
 
-💬 Commented on [📝 Integration Proposal: CAJAL — Scientific Paper Agent](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-05-09)</sub>
+💬 Commented on [Gemma4-E2B/E4B: passing `inputs_embeds` triggers an extremel](https://github.com/huggingface/transformers) in `huggingface/transformers` <sub>(2026-05-11)</sub>
 
-💬 Commented on [📝 Integration Proposal: CAJAL — Controlled Scientific Paper ](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-05-09)</sub>
+💬 Commented on [OpenReward binding only discovers shared `/tools`, misses ta](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-05-11)</sub>
 
-💬 Commented on [Add `multipart_chunksize` / `multipart_threshold` to the `s3](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-05-09)</sub>
+💬 Commented on [Documentation (at least Google-related) is an outdated mess.](https://github.com/567-labs/instructor) in `567-labs/instructor` <sub>(2026-05-11)</sub>
 
-💬 Commented on [When will SAM3 be open source?](https://github.com/facebookresearch/segment-anything) in `facebookresearch/segment-anything` <sub>(2026-05-09)</sub>
+💬 Commented on [YI:9b在长上下下回答异常](https://github.com/01-ai/Yi) in `01-ai/Yi` <sub>(2026-05-11)</sub>
 
-💬 Commented on [[Feature]: make slack agent response more concise](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-05-09)</sub>
+💬 Commented on [Привет, ребят. Очень прошу добавить долговременную память ме](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-05-11)</sub>
 
-💬 Commented on [LangGraph wierd add_edge behaviours between the list additio](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-05-09)</sub>
+💬 Commented on [The full dataset viewer is not available (click to read why)](https://github.com/huggingface/datasets) in `huggingface/datasets` <sub>(2026-05-11)</sub>
 
-💬 Commented on [搭建web端示例时报错了](https://github.com/zai-org/CogVLM) in `zai-org/CogVLM` <sub>(2026-05-09)</sub>
+⭐ Starred `XGenerationLab/XiYan-SQL` <sub>(2026-05-11)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 AutoML for Time Series Forecasting
+
 🔬 Edge AI for Real-Time Computer Vision
 
 🔬 Automated Machine Learning for Time Series Forecasting
@@ -253,8 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Fine-Tuning Large Language Models with Parameter-Efficient Techniques (LoRA/QLoRA)
 
 🔬 Production-Scale Retrieval-Augmented Generation (RAG) for Enterprise Search
-
-🔬 Generative Agents in Production Systems
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/39e412ad35e152d5dba2901a3bc935c6)** <sub>(2026-05-11)</sub>
+
+📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/28cf5f0325f21caef915872b667e2992)** <sub>(2026-05-11)</sub>
+
 📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/24c53433826754a12bca25aee5464410)** <sub>(2026-05-09)</sub>
-
-📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/41f7247154aae90cc866bfe0d5b6e872)** <sub>(2026-05-07)</sub>
-
-📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/37db70023a124210a6c20bcfae4085ab)** <sub>(2026-05-06)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-09 19:12 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-11 19:57 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
