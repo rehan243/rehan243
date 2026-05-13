@@ -169,44 +169,44 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-11-automl-for-time-series-forecasting.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-time-series-forecasting.jpg" width="100%" alt="Automl For Time Series Forecasting"/>
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-generative-agents-for-real-time-decision-making-in.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/generative-agents-for-real-time-decision-making-in.jpg" width="100%" alt="Generative Agents For Real Time Decision Making In"/>
 </a>
 
-**[Automl For Time Series Forecasting](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-11-automl-for-time-series-forecasting.md)**
-<br/><sub>2026-05-11</sub>
+**[Generative Agents For Real Time Decision Making In](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-generative-agents-for-real-time-decision-making-in.md)**
+<br/><sub>2026-05-13</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-09-automated-machine-learning-for-time-series-forecas.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automated-machine-learning-for-time-series-forecas.jpg" width="100%" alt="Automated Machine Learning For Time Series Forecas"/>
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-fine-tuning-llms-with-lora-low-rank-adaptation-f.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-llms-with-lora-low-rank-adaptation-f.jpg" width="100%" alt="Fine Tuning Llms With Lora Low Rank Adaptation F"/>
 </a>
 
-**[Automated Machine Learning For Time Series Forecas](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-09-automated-machine-learning-for-time-series-forecas.md)**
-<br/><sub>2026-05-09</sub>
+**[Fine Tuning Llms With Lora Low Rank Adaptation F](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-fine-tuning-llms-with-lora-low-rank-adaptation-f.md)**
+<br/><sub>2026-05-13</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-production-scale-retrieval-augmented-generation-r.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-scale-retrieval-augmented-generation-r.jpg" width="100%" alt="Production Scale Retrieval Augmented Generation R"/>
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-12-reinforcement-learning-from-human-feedback.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/reinforcement-learning-from-human-feedback.jpg" width="100%" alt="Reinforcement Learning From Human Feedback"/>
 </a>
 
-**[Production Scale Retrieval Augmented Generation R](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-production-scale-retrieval-augmented-generation-r.md)**
-<br/><sub>2026-05-07</sub>
+**[Reinforcement Learning From Human Feedback](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-12-reinforcement-learning-from-human-feedback.md)**
+<br/><sub>2026-05-12</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-fine-tuning-large-language-models-with-parameter-e.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-large-language-models-with-parameter-e.jpg" width="100%" alt="Fine Tuning Large Language Models With Parameter E"/>
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-11-automl-for-time-series-forecasting.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-time-series-forecasting.jpg" width="100%" alt="Automl For Time Series Forecasting"/>
 </a>
 
-**[Fine Tuning Large Language Models With Parameter E](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-07-fine-tuning-large-language-models-with-parameter-e.md)**
-<br/><sub>2026-05-07</sub>
+**[Automl For Time Series Forecasting](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-11-automl-for-time-series-forecasting.md)**
+<br/><sub>2026-05-11</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Streaming tool_call deltas with duplicate indexes in first c](https://github.com/openai/openai-python) in `openai/openai-python` <sub>(2026-05-11)</sub>
+💬 Commented on [Recurring: CLI release `@composio/cli@0.2.29` shipped with n](https://github.com/ComposioHQ/composio) in `ComposioHQ/composio` <sub>(2026-05-13)</sub>
 
-💬 Commented on [Gemma4-E2B/E4B: passing `inputs_embeds` triggers an extremel](https://github.com/huggingface/transformers) in `huggingface/transformers` <sub>(2026-05-11)</sub>
+💬 Commented on [[Feature] 求internlm3-20b](https://github.com/InternLM/InternLM) in `InternLM/InternLM` <sub>(2026-05-13)</sub>
 
-💬 Commented on [OpenReward binding only discovers shared `/tools`, misses ta](https://github.com/huggingface/trl) in `huggingface/trl` <sub>(2026-05-11)</sub>
+💬 Commented on [[BUG/Help] <title> Why when I run web_demo it says  Could no](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-05-13)</sub>
 
-💬 Commented on [Documentation (at least Google-related) is an outdated mess.](https://github.com/567-labs/instructor) in `567-labs/instructor` <sub>(2026-05-11)</sub>
+💬 Commented on [docs(cli): add sandbox command usage examples to CLI README](https://github.com/e2b-dev/E2B) in `e2b-dev/E2B` <sub>(2026-05-13)</sub>
 
-💬 Commented on [YI:9b在长上下下回答异常](https://github.com/01-ai/Yi) in `01-ai/Yi` <sub>(2026-05-11)</sub>
+💬 Commented on [Clarvia MCP: Tool quality assessment for Tabby agent integra](https://github.com/TabbyML/tabby) in `TabbyML/tabby` <sub>(2026-05-13)</sub>
 
-💬 Commented on [Привет, ребят. Очень прошу добавить долговременную память ме](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-05-11)</sub>
+💬 Commented on [404 error when accessing the root URL](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-05-13)</sub>
 
-💬 Commented on [The full dataset viewer is not available (click to read why)](https://github.com/huggingface/datasets) in `huggingface/datasets` <sub>(2026-05-11)</sub>
+💬 Commented on [signaling error on shared filesystem is back](https://github.com/mosaicml/llm-foundry) in `mosaicml/llm-foundry` <sub>(2026-05-13)</sub>
 
-⭐ Starred `XGenerationLab/XiYan-SQL` <sub>(2026-05-11)</sub>
+💬 Commented on [Recurring: CLI release `@composio/cli@0.2.29` shipped with n](https://github.com/ComposioHQ/composio) in `ComposioHQ/composio` <sub>(2026-05-12)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,17 +244,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Multi-Modality in Production: Combining Vision, Text, and Speech Models
+
+🔬 Fine-Tuning LLMs with LoRA (Low-Rank Adaptation) for Domain-Specific Applications
+
+🔬 Generative Agents for Real-Time Decision-Making in Production Systems
+
+🔬 Reinforcement Learning from Human Feedback
+
 🔬 AutoML for Time Series Forecasting
 
 🔬 Edge AI for Real-Time Computer Vision
-
-🔬 Automated Machine Learning for Time Series Forecasting
-
-🔬 Real-Time Multimodal AI Applications (Vision + Language)
-
-🔬 Fine-Tuning Large Language Models with Parameter-Efficient Techniques (LoRA/QLoRA)
-
-🔬 Production-Scale Retrieval-Augmented Generation (RAG) for Enterprise Search
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
-📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/39e412ad35e152d5dba2901a3bc935c6)** <sub>(2026-05-11)</sub>
+📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/551a2fc4e98ac617d479a8bec8349bd9)** <sub>(2026-05-13)</sub>
 
-📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/28cf5f0325f21caef915872b667e2992)** <sub>(2026-05-11)</sub>
+📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/c38fc2f1c322e17d3278adf9f6cb8807)** <sub>(2026-05-13)</sub>
 
-📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/24c53433826754a12bca25aee5464410)** <sub>(2026-05-09)</sub>
+📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/60b4ee727756faf57c48b6c729df932a)** <sub>(2026-05-12)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-11 19:57 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-13 20:05 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
