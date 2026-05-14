@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-14-efficient-fine-tuning-of-foundation-models-in-prod.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-fine-tuning-of-foundation-models-in-prod.jpg" width="100%" alt="Efficient Fine Tuning Of Foundation Models In Prod"/>
+</a>
+
+**[Efficient Fine Tuning Of Foundation Models In Prod](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-14-efficient-fine-tuning-of-foundation-models-in-prod.md)**
+<br/><sub>2026-05-14</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-generative-agents-for-real-time-decision-making-in.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/generative-agents-for-real-time-decision-making-in.jpg" width="100%" alt="Generative Agents For Real Time Decision Making In"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-13</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-fine-tuning-llms-with-lora-low-rank-adaptation-f.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-13</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-12-reinforcement-learning-from-human-feedback.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Reinforcement Learning From Human Feedback](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-12-reinforcement-learning-from-human-feedback.md)**
 <br/><sub>2026-05-12</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-11-automl-for-time-series-forecasting.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-time-series-forecasting.jpg" width="100%" alt="Automl For Time Series Forecasting"/>
-</a>
-
-**[Automl For Time Series Forecasting](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-11-automl-for-time-series-forecasting.md)**
-<br/><sub>2026-05-11</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Recurring: CLI release `@composio/cli@0.2.29` shipped with n](https://github.com/ComposioHQ/composio) in `ComposioHQ/composio` <sub>(2026-05-13)</sub>
+💬 Commented on [[Bug]: Vertex Gemini web search streaming crashes on 3/3.1 F](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-14)</sub>
 
-💬 Commented on [[Feature] 求internlm3-20b](https://github.com/InternLM/InternLM) in `InternLM/InternLM` <sub>(2026-05-13)</sub>
+💬 Commented on [[Chore]: Update test to run mock unit tests](https://github.com/superagent-ai/superagent) in `superagent-ai/superagent` <sub>(2026-05-14)</sub>
 
-💬 Commented on [[BUG/Help] <title> Why when I run web_demo it says  Could no](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-05-13)</sub>
+💬 Commented on [Solving JSON to MD Conversion Formatting Issues for Import i](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-05-14)</sub>
 
-💬 Commented on [docs(cli): add sandbox command usage examples to CLI README](https://github.com/e2b-dev/E2B) in `e2b-dev/E2B` <sub>(2026-05-13)</sub>
+💬 Commented on [Knowledge metadata supported in storage but not configurable](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-14)</sub>
 
-💬 Commented on [Clarvia MCP: Tool quality assessment for Tabby agent integra](https://github.com/TabbyML/tabby) in `TabbyML/tabby` <sub>(2026-05-13)</sub>
+💬 Commented on [Truncated / wrong prefix & suffix on large file Autocompleti](https://github.com/continuedev/continue) in `continuedev/continue` <sub>(2026-05-14)</sub>
 
-💬 Commented on [404 error when accessing the root URL](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-05-13)</sub>
+💬 Commented on [Feature request: Support zvec as vector backend](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-05-14)</sub>
 
-💬 Commented on [signaling error on shared filesystem is back](https://github.com/mosaicml/llm-foundry) in `mosaicml/llm-foundry` <sub>(2026-05-13)</sub>
+💬 Commented on [Seedance API sensitive-content failures should not abort con](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-05-14)</sub>
 
-💬 Commented on [Recurring: CLI release `@composio/cli@0.2.29` shipped with n](https://github.com/ComposioHQ/composio) in `ComposioHQ/composio` <sub>(2026-05-12)</sub>
+💬 Commented on [Incorrect jacfwd result for logsumexp with zero b coefficien](https://github.com/jax-ml/jax) in `jax-ml/jax` <sub>(2026-05-14)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Efficient Fine-Tuning of Foundation Models in Production Settings
+
+🔬 Production-Grade Retrieval-Augmented Generation (RAG) at Scale
+
 🔬 Multi-Modality in Production: Combining Vision, Text, and Speech Models
 
 🔬 Fine-Tuning LLMs with LoRA (Low-Rank Adaptation) for Domain-Specific Applications
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Generative Agents for Real-Time Decision-Making in Production Systems
 
 🔬 Reinforcement Learning from Human Feedback
-
-🔬 AutoML for Time Series Forecasting
-
-🔬 Edge AI for Real-Time Computer Vision
 <!-- RESEARCH_END -->
 
 ---
@@ -271,7 +271,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-13 20:05 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-14 19:53 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
