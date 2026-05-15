@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[Bug]: Vertex Gemini web search streaming crashes on 3/3.1 F](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-14)</sub>
+💬 Commented on [[Bug]: Vertex Gemini web search streaming crashes on 3/3.1 F](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-15)</sub>
 
-💬 Commented on [[Chore]: Update test to run mock unit tests](https://github.com/superagent-ai/superagent) in `superagent-ai/superagent` <sub>(2026-05-14)</sub>
+💬 Commented on [HTMLSemanticPreservingSplitter processes malformed and unsaf](https://github.com/langchain-ai/langchain) in `langchain-ai/langchain` <sub>(2026-05-15)</sub>
 
-💬 Commented on [Solving JSON to MD Conversion Formatting Issues for Import i](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-05-14)</sub>
+💬 Commented on [Knowledge metadata supported in storage but not configurable](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-15)</sub>
 
-💬 Commented on [Knowledge metadata supported in storage but not configurable](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-14)</sub>
+💬 Commented on [Difficulty of Running mmdetection2.x (for bevformer) on Blac](https://github.com/open-mmlab/mmdetection) in `open-mmlab/mmdetection` <sub>(2026-05-15)</sub>
 
-💬 Commented on [Truncated / wrong prefix & suffix on large file Autocompleti](https://github.com/continuedev/continue) in `continuedev/continue` <sub>(2026-05-14)</sub>
+💬 Commented on [PythonInterpreter: paths containing commas are silently misp](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-05-15)</sub>
 
-💬 Commented on [Feature request: Support zvec as vector backend](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-05-14)</sub>
+💬 Commented on [Add design docs directory to Milvus](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-05-15)</sub>
 
-💬 Commented on [Seedance API sensitive-content failures should not abort con](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-05-14)</sub>
+💬 Commented on [Properly return usage information for BedrockClientV2 for th](https://github.com/cohere-ai/cohere-python) in `cohere-ai/cohere-python` <sub>(2026-05-15)</sub>
 
-💬 Commented on [Incorrect jacfwd result for logsumexp with zero b coefficien](https://github.com/jax-ml/jax) in `jax-ml/jax` <sub>(2026-05-14)</sub>
+⭐ Starred `YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models` <sub>(2026-05-15)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/6f32279d363fe36d68c4507461c7e621)** <sub>(2026-05-15)</sub>
+
 📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/551a2fc4e98ac617d479a8bec8349bd9)** <sub>(2026-05-13)</sub>
 
 📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/c38fc2f1c322e17d3278adf9f6cb8807)** <sub>(2026-05-13)</sub>
-
-📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/60b4ee727756faf57c48b6c729df932a)** <sub>(2026-05-12)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-14 19:53 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-15 19:47 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
