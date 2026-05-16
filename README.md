@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-16-graph-rag-and-knowledge-graphs-for-llms.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
+</a>
+
+**[Graph Rag And Knowledge Graphs For Llms](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-16-graph-rag-and-knowledge-graphs-for-llms.md)**
+<br/><sub>2026-05-16</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-14-efficient-fine-tuning-of-foundation-models-in-prod.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-fine-tuning-of-foundation-models-in-prod.jpg" width="100%" alt="Efficient Fine Tuning Of Foundation Models In Prod"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-14</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-generative-agents-for-real-time-decision-making-in.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-13</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-fine-tuning-llms-with-lora-low-rank-adaptation-f.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Fine Tuning Llms With Lora Low Rank Adaptation F](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-fine-tuning-llms-with-lora-low-rank-adaptation-f.md)**
 <br/><sub>2026-05-13</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-12-reinforcement-learning-from-human-feedback.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/reinforcement-learning-from-human-feedback.jpg" width="100%" alt="Reinforcement Learning From Human Feedback"/>
-</a>
-
-**[Reinforcement Learning From Human Feedback](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-12-reinforcement-learning-from-human-feedback.md)**
-<br/><sub>2026-05-12</sub>
 
 </td>
 </tr>
@@ -220,6 +220,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Feature request: Support zvec as vector backend](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-05-16)</sub>
+
 💬 Commented on [[Bug]: Vertex Gemini web search streaming crashes on 3/3.1 F](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-15)</sub>
 
 💬 Commented on [HTMLSemanticPreservingSplitter processes malformed and unsaf](https://github.com/langchain-ai/langchain) in `langchain-ai/langchain` <sub>(2026-05-15)</sub>
@@ -233,8 +235,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 💬 Commented on [Add design docs directory to Milvus](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-05-15)</sub>
 
 💬 Commented on [Properly return usage information for BedrockClientV2 for th](https://github.com/cohere-ai/cohere-python) in `cohere-ai/cohere-python` <sub>(2026-05-15)</sub>
-
-⭐ Starred `YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models` <sub>(2026-05-15)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
 🔬 Efficient Fine-Tuning of Foundation Models in Production Settings
 
 🔬 Production-Grade Retrieval-Augmented Generation (RAG) at Scale
@@ -253,8 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Fine-Tuning LLMs with LoRA (Low-Rank Adaptation) for Domain-Specific Applications
 
 🔬 Generative Agents for Real-Time Decision-Making in Production Systems
-
-🔬 Reinforcement Learning from Human Feedback
 <!-- RESEARCH_END -->
 
 ---
@@ -271,7 +271,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-15 19:47 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-16 19:14 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
