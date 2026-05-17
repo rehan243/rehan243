@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-17-production-ready-retrieval-augmented-generation-r.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-ready-retrieval-augmented-generation-r.jpg" width="100%" alt="Production Ready Retrieval Augmented Generation R"/>
+</a>
+
+**[Production Ready Retrieval Augmented Generation R](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-17-production-ready-retrieval-augmented-generation-r.md)**
+<br/><sub>2026-05-17</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-16-graph-rag-and-knowledge-graphs-for-llms.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-16</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-14-efficient-fine-tuning-of-foundation-models-in-prod.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-14</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-generative-agents-for-real-time-decision-making-in.md">
@@ -196,16 +206,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 </a>
 
 **[Generative Agents For Real Time Decision Making In](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-generative-agents-for-real-time-decision-making-in.md)**
-<br/><sub>2026-05-13</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-fine-tuning-llms-with-lora-low-rank-adaptation-f.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-llms-with-lora-low-rank-adaptation-f.jpg" width="100%" alt="Fine Tuning Llms With Lora Low Rank Adaptation F"/>
-</a>
-
-**[Fine Tuning Llms With Lora Low Rank Adaptation F](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-fine-tuning-llms-with-lora-low-rank-adaptation-f.md)**
 <br/><sub>2026-05-13</sub>
 
 </td>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Feature request: Support zvec as vector backend](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-05-16)</sub>
+💬 Commented on [benchmark.py uses `--read-model-settings` but main cli + doc](https://github.com/Aider-AI/aider) in `Aider-AI/aider` <sub>(2026-05-17)</sub>
 
-💬 Commented on [[Bug]: Vertex Gemini web search streaming crashes on 3/3.1 F](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-15)</sub>
+💬 Commented on [force repro updates hashsums of frozen stages' dependencies](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-05-17)</sub>
 
-💬 Commented on [HTMLSemanticPreservingSplitter processes malformed and unsaf](https://github.com/langchain-ai/langchain) in `langchain-ai/langchain` <sub>(2026-05-15)</sub>
+💬 Commented on [Feedback for “Sweep: AI Plugin for JetBrains IDEs”](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-05-17)</sub>
 
-💬 Commented on [Knowledge metadata supported in storage but not configurable](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-15)</sub>
+💬 Commented on [Infinite Loading Loop on Long Conversation (2+ Months of Lor](https://github.com/lm-sys/FastChat) in `lm-sys/FastChat` <sub>(2026-05-17)</sub>
 
-💬 Commented on [Difficulty of Running mmdetection2.x (for bevformer) on Blac](https://github.com/open-mmlab/mmdetection) in `open-mmlab/mmdetection` <sub>(2026-05-15)</sub>
+💬 Commented on [[Feature Request] Add streaming support for structured gener](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-05-17)</sub>
 
-💬 Commented on [PythonInterpreter: paths containing commas are silently misp](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-05-15)</sub>
+⭐ Starred `interpretml/interpret` <sub>(2026-05-17)</sub>
 
-💬 Commented on [Add design docs directory to Milvus](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-05-15)</sub>
+⭐ Starred `The-Swarm-Corporation/AutoHedge` <sub>(2026-05-17)</sub>
 
-💬 Commented on [Properly return usage information for BedrockClientV2 for th](https://github.com/cohere-ai/cohere-python) in `cohere-ai/cohere-python` <sub>(2026-05-15)</sub>
+⭐ Starred `ruvnet/ruflo` <sub>(2026-05-17)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Efficient Fine-Tuning and Deployment of Small Language Models
+
+🔬 Production-Ready Retrieval-Augmented Generation (RAG) with Custom Knowledge Bases
+
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Efficient Fine-Tuning of Foundation Models in Production Settings
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Production-Grade Retrieval-Augmented Generation (RAG) at Scale
 
 🔬 Multi-Modality in Production: Combining Vision, Text, and Speech Models
-
-🔬 Fine-Tuning LLMs with LoRA (Low-Rank Adaptation) for Domain-Specific Applications
-
-🔬 Generative Agents for Real-Time Decision-Making in Production Systems
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/896324b55587f9addd9f14573c44d16b)** <sub>(2026-05-17)</sub>
+
+📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/66201baa5894dd897bc021f2e2579259)** <sub>(2026-05-17)</sub>
+
 📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/6f32279d363fe36d68c4507461c7e621)** <sub>(2026-05-15)</sub>
-
-📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/551a2fc4e98ac617d479a8bec8349bd9)** <sub>(2026-05-13)</sub>
-
-📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/c38fc2f1c322e17d3278adf9f6cb8807)** <sub>(2026-05-13)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-16 19:14 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-17 19:20 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
