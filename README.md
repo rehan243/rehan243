@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-19-efficient-fine-tuning-and-deployment-of-large-lang.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-fine-tuning-and-deployment-of-large-lang.jpg" width="100%" alt="Efficient Fine Tuning And Deployment Of Large Lang"/>
+</a>
+
+**[Efficient Fine Tuning And Deployment Of Large Lang](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-19-efficient-fine-tuning-and-deployment-of-large-lang.md)**
+<br/><sub>2026-05-19</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-17-production-ready-retrieval-augmented-generation-r.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-ready-retrieval-augmented-generation-r.jpg" width="100%" alt="Production Ready Retrieval Augmented Generation R"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-17</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-16-graph-rag-and-knowledge-graphs-for-llms.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-16</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-14-efficient-fine-tuning-of-foundation-models-in-prod.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Efficient Fine Tuning Of Foundation Models In Prod](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-14-efficient-fine-tuning-of-foundation-models-in-prod.md)**
 <br/><sub>2026-05-14</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-generative-agents-for-real-time-decision-making-in.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/generative-agents-for-real-time-decision-making-in.jpg" width="100%" alt="Generative Agents For Real Time Decision Making In"/>
-</a>
-
-**[Generative Agents For Real Time Decision Making In](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-13-generative-agents-for-real-time-decision-making-in.md)**
-<br/><sub>2026-05-13</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [benchmark.py uses `--read-model-settings` but main cli + doc](https://github.com/Aider-AI/aider) in `Aider-AI/aider` <sub>(2026-05-17)</sub>
+💬 Commented on [[v2] Support of diverse metrics & a template for a custom me](https://github.com/APPFL/APPFL) in `APPFL/APPFL` <sub>(2026-05-19)</sub>
 
-💬 Commented on [force repro updates hashsums of frozen stages' dependencies](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-05-17)</sub>
+💬 Commented on [force repro updates hashsums of frozen stages' dependencies](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-05-19)</sub>
 
-💬 Commented on [Feedback for “Sweep: AI Plugin for JetBrains IDEs”](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-05-17)</sub>
+💬 Commented on [Proposal: Agent Threat Rules detection integration](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-05-19)</sub>
 
-💬 Commented on [Infinite Loading Loop on Long Conversation (2+ Months of Lor](https://github.com/lm-sys/FastChat) in `lm-sys/FastChat` <sub>(2026-05-17)</sub>
+💬 Commented on [How to implement NetKet get_conn_padded in pure JAX?](https://github.com/jax-ml/jax) in `jax-ml/jax` <sub>(2026-05-19)</sub>
 
-💬 Commented on [[Feature Request] Add streaming support for structured gener](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-05-17)</sub>
+💬 Commented on [[RFC] Canonical agent identity for BabyAGI via WTRMRK — on-c](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-05-19)</sub>
 
-⭐ Starred `interpretml/interpret` <sub>(2026-05-17)</sub>
+💬 Commented on [[BUG] dependency conflict with OpenLIT](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-19)</sub>
 
-⭐ Starred `The-Swarm-Corporation/AutoHedge` <sub>(2026-05-17)</sub>
+⭐ Starred `claw-eval/claw-eval` <sub>(2026-05-19)</sub>
 
-⭐ Starred `ruvnet/ruflo` <sub>(2026-05-17)</sub>
+⭐ Starred `The-AI-Alliance/cube-harness` <sub>(2026-05-19)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,17 +244,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Advanced AI Agent Workflows and Orchestration
+
+🔬 Retrieval-Augmented Generation (RAG) at Enterprise Scale
+
+🔬 Efficient Fine-Tuning and Deployment of Large Language Models (LLMs)
+
 🔬 Efficient Fine-Tuning and Deployment of Small Language Models
 
 🔬 Production-Ready Retrieval-Augmented Generation (RAG) with Custom Knowledge Bases
 
 🔬 Graph RAG and Knowledge Graphs for LLMs
-
-🔬 Efficient Fine-Tuning of Foundation Models in Production Settings
-
-🔬 Production-Grade Retrieval-Augmented Generation (RAG) at Scale
-
-🔬 Multi-Modality in Production: Combining Vision, Text, and Speech Models
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/9c699a4a0a7caed233c549a984c62ced)** <sub>(2026-05-19)</sub>
+
+📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/835c854075634d873496918866840eee)** <sub>(2026-05-19)</sub>
+
 📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/896324b55587f9addd9f14573c44d16b)** <sub>(2026-05-17)</sub>
-
-📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/66201baa5894dd897bc021f2e2579259)** <sub>(2026-05-17)</sub>
-
-📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/6f32279d363fe36d68c4507461c7e621)** <sub>(2026-05-15)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-17 19:20 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-19 20:00 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
