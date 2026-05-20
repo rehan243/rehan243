@@ -169,6 +169,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-efficient-deployment-of-large-language-models.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-deployment-of-large-language-models.jpg" width="100%" alt="Efficient Deployment Of Large Language Models"/>
+</a>
+
+**[Efficient Deployment Of Large Language Models](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-efficient-deployment-of-large-language-models.md)**
+<br/><sub>2026-05-20</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-automated-machine-learning-for-complex-data-pipeli.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automated-machine-learning-for-complex-data-pipeli.jpg" width="100%" alt="Automated Machine Learning For Complex Data Pipeli"/>
+</a>
+
+**[Automated Machine Learning For Complex Data Pipeli](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-automated-machine-learning-for-complex-data-pipeli.md)**
+<br/><sub>2026-05-20</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-19-efficient-fine-tuning-and-deployment-of-large-lang.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-fine-tuning-and-deployment-of-large-lang.jpg" width="100%" alt="Efficient Fine Tuning And Deployment Of Large Lang"/>
 </a>
@@ -188,28 +210,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-16-graph-rag-and-knowledge-graphs-for-llms.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms"/>
-</a>
-
-**[Graph Rag And Knowledge Graphs For Llms](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-16-graph-rag-and-knowledge-graphs-for-llms.md)**
-<br/><sub>2026-05-16</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-14-efficient-fine-tuning-of-foundation-models-in-prod.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-fine-tuning-of-foundation-models-in-prod.jpg" width="100%" alt="Efficient Fine Tuning Of Foundation Models In Prod"/>
-</a>
-
-**[Efficient Fine Tuning Of Foundation Models In Prod](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-14-efficient-fine-tuning-of-foundation-models-in-prod.md)**
-<br/><sub>2026-05-14</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[v2] Support of diverse metrics & a template for a custom me](https://github.com/APPFL/APPFL) in `APPFL/APPFL` <sub>(2026-05-19)</sub>
+💬 Commented on [Unable to build for Python 3.13 and CUDA 13](https://github.com/replicate/cog) in `replicate/cog` <sub>(2026-05-20)</sub>
 
-💬 Commented on [force repro updates hashsums of frozen stages' dependencies](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-05-19)</sub>
+💬 Commented on [Proposal: Agent Threat Rules detection integration](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-05-20)</sub>
 
-💬 Commented on [Proposal: Agent Threat Rules detection integration](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-05-19)</sub>
+💬 Commented on [🐞 WithServiceBinding + WithExec fails: dnsmasq addnhosts has](https://github.com/dagger/dagger) in `dagger/dagger` <sub>(2026-05-20)</sub>
 
-💬 Commented on [How to implement NetKet get_conn_padded in pure JAX?](https://github.com/jax-ml/jax) in `jax-ml/jax` <sub>(2026-05-19)</sub>
+💬 Commented on [dagster_dbt: reduce import-time overhead by lazily resolving](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-05-20)</sub>
 
-💬 Commented on [[RFC] Canonical agent identity for BabyAGI via WTRMRK — on-c](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-05-19)</sub>
+💬 Commented on [FAQ section text invisible on mem0.ai/openmemory (black on d](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-05-20)</sub>
 
-💬 Commented on [[BUG] dependency conflict with OpenLIT](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-19)</sub>
+💬 Commented on [Misc. bug: server](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-05-20)</sub>
 
-⭐ Starred `claw-eval/claw-eval` <sub>(2026-05-19)</sub>
+💬 Commented on [Research is getting stucked every other time while giving no](https://github.com/assafelovic/gpt-researcher) in `assafelovic/gpt-researcher` <sub>(2026-05-20)</sub>
 
-⭐ Starred `The-AI-Alliance/cube-harness` <sub>(2026-05-19)</sub>
+💬 Commented on [[Bug-App]: No matching media when logging plots](https://github.com/wandb/wandb) in `wandb/wandb` <sub>(2026-05-20)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Automated Machine Learning for Complex Data Pipelines
+
+🔬 Efficient Deployment of Large Language Models
+
 🔬 Advanced AI Agent Workflows and Orchestration
 
 🔬 Retrieval-Augmented Generation (RAG) at Enterprise Scale
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Efficient Fine-Tuning and Deployment of Large Language Models (LLMs)
 
 🔬 Efficient Fine-Tuning and Deployment of Small Language Models
-
-🔬 Production-Ready Retrieval-Augmented Generation (RAG) with Custom Knowledge Bases
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/8c15f538f038e768cdef3b83975bc9ac)** <sub>(2026-05-20)</sub>
+
+📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/baa337e154b12f38bc212c2fc4bae307)** <sub>(2026-05-20)</sub>
+
 📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/9c699a4a0a7caed233c549a984c62ced)** <sub>(2026-05-19)</sub>
-
-📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/835c854075634d873496918866840eee)** <sub>(2026-05-19)</sub>
-
-📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/896324b55587f9addd9f14573c44d16b)** <sub>(2026-05-17)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-19 20:00 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-20 20:26 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
