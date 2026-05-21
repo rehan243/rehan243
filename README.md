@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-21-llm-fine-tuning-at-scale-with-lora.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
+</a>
+
+**[Llm Fine Tuning At Scale With Lora](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-21-llm-fine-tuning-at-scale-with-lora.md)**
+<br/><sub>2026-05-21</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-efficient-deployment-of-large-language-models.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-deployment-of-large-language-models.jpg" width="100%" alt="Efficient Deployment Of Large Language Models"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-20</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-automated-machine-learning-for-complex-data-pipeli.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-20</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-19-efficient-fine-tuning-and-deployment-of-large-lang.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Efficient Fine Tuning And Deployment Of Large Lang](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-19-efficient-fine-tuning-and-deployment-of-large-lang.md)**
 <br/><sub>2026-05-19</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-17-production-ready-retrieval-augmented-generation-r.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-ready-retrieval-augmented-generation-r.jpg" width="100%" alt="Production Ready Retrieval Augmented Generation R"/>
-</a>
-
-**[Production Ready Retrieval Augmented Generation R](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-17-production-ready-retrieval-augmented-generation-r.md)**
-<br/><sub>2026-05-17</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Unable to build for Python 3.13 and CUDA 13](https://github.com/replicate/cog) in `replicate/cog` <sub>(2026-05-20)</sub>
+💬 Commented on [FAQ section text invisible on mem0.ai/openmemory (black on d](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-05-21)</sub>
 
-💬 Commented on [Proposal: Agent Threat Rules detection integration](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-05-20)</sub>
+💬 Commented on [Add reconstruct_patches op + ReconstructPatches{2,3}D layers](https://github.com/keras-team/keras) in `keras-team/keras` <sub>(2026-05-21)</sub>
 
-💬 Commented on [🐞 WithServiceBinding + WithExec fails: dnsmasq addnhosts has](https://github.com/dagger/dagger) in `dagger/dagger` <sub>(2026-05-20)</sub>
+💬 Commented on [[Feature]: Update docs with detailed guidelines on how to de](https://github.com/superagent-ai/superagent) in `superagent-ai/superagent` <sub>(2026-05-21)</sub>
 
-💬 Commented on [dagster_dbt: reduce import-time overhead by lazily resolving](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-05-20)</sub>
+💬 Commented on [Uncaught ImportError in openai.py line 74](https://github.com/Aider-AI/aider) in `Aider-AI/aider` <sub>(2026-05-21)</sub>
 
-💬 Commented on [FAQ section text invisible on mem0.ai/openmemory (black on d](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-05-20)</sub>
+💬 Commented on [[Bug]: RBAC user describe returns duplicated empty role "" a](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-05-21)</sub>
 
-💬 Commented on [Misc. bug: server](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-05-20)</sub>
+💬 Commented on [ClearML does not handle well argparse's subcommands when exe](https://github.com/clearml/clearml) in `clearml/clearml` <sub>(2026-05-21)</sub>
 
-💬 Commented on [Research is getting stucked every other time while giving no](https://github.com/assafelovic/gpt-researcher) in `assafelovic/gpt-researcher` <sub>(2026-05-20)</sub>
+⭐ Starred `raphaelmansuy/edgequake` <sub>(2026-05-21)</sub>
 
-💬 Commented on [[Bug-App]: No matching media when logging plots](https://github.com/wandb/wandb) in `wandb/wandb` <sub>(2026-05-20)</sub>
+⭐ Starred `swarmclawai/swarmvault` <sub>(2026-05-21)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,17 +244,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Production RAG Pipelines with Re-ranking
+
+🔬 AI Safety and Alignment Engineering
+
+🔬 LLM Fine-Tuning at Scale with LoRA
+
 🔬 Automated Machine Learning for Complex Data Pipelines
 
 🔬 Efficient Deployment of Large Language Models
 
 🔬 Advanced AI Agent Workflows and Orchestration
-
-🔬 Retrieval-Augmented Generation (RAG) at Enterprise Scale
-
-🔬 Efficient Fine-Tuning and Deployment of Large Language Models (LLMs)
-
-🔬 Efficient Fine-Tuning and Deployment of Small Language Models
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/87ee75f18294fd3e0b329f6ff54f3d36)** <sub>(2026-05-21)</sub>
+
 📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/8c15f538f038e768cdef3b83975bc9ac)** <sub>(2026-05-20)</sub>
 
 📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/baa337e154b12f38bc212c2fc4bae307)** <sub>(2026-05-20)</sub>
-
-📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/9c699a4a0a7caed233c549a984c62ced)** <sub>(2026-05-19)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-20 20:26 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-21 20:03 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
