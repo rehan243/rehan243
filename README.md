@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Feature request: OWASP ASI06 memory poisoning guard validato](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-05-22)</sub>
+
+💬 Commented on [Parallelize or batch entity boost searches in AsyncMemory.se](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-05-22)</sub>
+
+💬 Commented on [Improve watermarks in POSIX-like objects tracker](https://github.com/pathwaycom/pathway) in `pathwaycom/pathway` <sub>(2026-05-22)</sub>
+
+💬 Commented on [[BUG] Evaluation-Run: Traces tab aggregation queries use imm](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-05-22)</sub>
+
+💬 Commented on [Broken installer hash with winget when installing 3.67.1](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-05-22)</sub>
+
+💬 Commented on [The templates documentation is pretty unreadable](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-05-22)</sub>
+
+💬 Commented on [Add AGENTS.md — guidance for AI coding assistants contributi](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-05-22)</sub>
+
 💬 Commented on [FAQ section text invisible on mem0.ai/openmemory (black on d](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-05-21)</sub>
-
-💬 Commented on [Add reconstruct_patches op + ReconstructPatches{2,3}D layers](https://github.com/keras-team/keras) in `keras-team/keras` <sub>(2026-05-21)</sub>
-
-💬 Commented on [[Feature]: Update docs with detailed guidelines on how to de](https://github.com/superagent-ai/superagent) in `superagent-ai/superagent` <sub>(2026-05-21)</sub>
-
-💬 Commented on [Uncaught ImportError in openai.py line 74](https://github.com/Aider-AI/aider) in `Aider-AI/aider` <sub>(2026-05-21)</sub>
-
-💬 Commented on [[Bug]: RBAC user describe returns duplicated empty role "" a](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-05-21)</sub>
-
-💬 Commented on [ClearML does not handle well argparse's subcommands when exe](https://github.com/clearml/clearml) in `clearml/clearml` <sub>(2026-05-21)</sub>
-
-⭐ Starred `raphaelmansuy/edgequake` <sub>(2026-05-21)</sub>
-
-⭐ Starred `swarmclawai/swarmvault` <sub>(2026-05-21)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Synthetic Data Generation for Training Robust Models
+
+🔬 Large Language Models (LLMs) in Enterprise Workflows
+
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 AI Safety and Alignment Engineering
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Automated Machine Learning for Complex Data Pipelines
-
-🔬 Efficient Deployment of Large Language Models
-
-🔬 Advanced AI Agent Workflows and Orchestration
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/60f85fdf32e7462bda2d80670418035d)** <sub>(2026-05-22)</sub>
+
 📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/87ee75f18294fd3e0b329f6ff54f3d36)** <sub>(2026-05-21)</sub>
 
 📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/8c15f538f038e768cdef3b83975bc9ac)** <sub>(2026-05-20)</sub>
-
-📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/baa337e154b12f38bc212c2fc4bae307)** <sub>(2026-05-20)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-21 20:03 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-22 19:56 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
