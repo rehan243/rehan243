@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-23-automl-for-computer-vision.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-computer-vision.jpg" width="100%" alt="Automl For Computer Vision"/>
+</a>
+
+**[Automl For Computer Vision](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-23-automl-for-computer-vision.md)**
+<br/><sub>2026-05-23</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-21-llm-fine-tuning-at-scale-with-lora.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-21</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-efficient-deployment-of-large-language-models.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-20</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-automated-machine-learning-for-complex-data-pipeli.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Automated Machine Learning For Complex Data Pipeli](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-automated-machine-learning-for-complex-data-pipeli.md)**
 <br/><sub>2026-05-20</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-19-efficient-fine-tuning-and-deployment-of-large-lang.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-fine-tuning-and-deployment-of-large-lang.jpg" width="100%" alt="Efficient Fine Tuning And Deployment Of Large Lang"/>
-</a>
-
-**[Efficient Fine Tuning And Deployment Of Large Lang](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-19-efficient-fine-tuning-and-deployment-of-large-lang.md)**
-<br/><sub>2026-05-19</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Feature request: OWASP ASI06 memory poisoning guard validato](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-05-22)</sub>
+💬 Commented on [Add AGENTS.md — guidance for AI coding assistants contributi](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-05-23)</sub>
 
-💬 Commented on [Parallelize or batch entity boost searches in AsyncMemory.se](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-05-22)</sub>
+💬 Commented on [Relax lightning <= 2.4.0 cap to allow >= 2.6.1 (security fix](https://github.com/NVIDIA-NeMo/NeMo) in `NVIDIA-NeMo/NeMo` <sub>(2026-05-23)</sub>
 
-💬 Commented on [Improve watermarks in POSIX-like objects tracker](https://github.com/pathwaycom/pathway) in `pathwaycom/pathway` <sub>(2026-05-22)</sub>
+💬 Commented on [[Docs]: Google Gemini Handler](https://github.com/mindsdb/minds-platform) in `mindsdb/minds-platform` <sub>(2026-05-23)</sub>
 
-💬 Commented on [[BUG] Evaluation-Run: Traces tab aggregation queries use imm](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-05-22)</sub>
+💬 Commented on [Is there still a way to use Segment Anything for images?](https://github.com/facebookresearch/segment-anything) in `facebookresearch/segment-anything` <sub>(2026-05-23)</sub>
 
-💬 Commented on [Broken installer hash with winget when installing 3.67.1](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-05-22)</sub>
+💬 Commented on [Bug: uncaught type error in _get_tokenizer_config_size when ](https://github.com/cohere-ai/cohere-python) in `cohere-ai/cohere-python` <sub>(2026-05-23)</sub>
 
-💬 Commented on [The templates documentation is pretty unreadable](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-05-22)</sub>
+💬 Commented on [eval scoring step has no retry — correct agent work lost to ](https://github.com/The-AI-Alliance/cube-harness) in `The-AI-Alliance/cube-harness` <sub>(2026-05-23)</sub>
 
-💬 Commented on [Add AGENTS.md — guidance for AI coding assistants contributi](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-05-22)</sub>
+💬 Commented on [Document dynamic model fetching feature](https://github.com/continuedev/continue) in `continuedev/continue` <sub>(2026-05-23)</sub>
 
-💬 Commented on [FAQ section text invisible on mem0.ai/openmemory (black on d](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-05-21)</sub>
+💬 Commented on [📋 Documentation Enhancement Suggestion](https://github.com/ScrapeGraphAI/Scrapegraph-ai) in `ScrapeGraphAI/Scrapegraph-ai` <sub>(2026-05-23)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Reinforcement Learning from Human Feedback (RLHF)
+
+🔬 AutoML for Computer Vision
+
 🔬 Synthetic Data Generation for Training Robust Models
 
 🔬 Large Language Models (LLMs) in Enterprise Workflows
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 AI Safety and Alignment Engineering
-
-🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Automated Machine Learning for Complex Data Pipelines
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/93849441ee249e71902e03e9d5fb9ecc)** <sub>(2026-05-23)</sub>
+
+📌 **[Prompt Template Engine with Variable Injection — Production Pattern (Python)](https://gist.github.com/rehan243/361eb37622a9a44f88460ffa8ab7c457)** <sub>(2026-05-23)</sub>
+
 📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/60f85fdf32e7462bda2d80670418035d)** <sub>(2026-05-22)</sub>
-
-📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/87ee75f18294fd3e0b329f6ff54f3d36)** <sub>(2026-05-21)</sub>
-
-📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/8c15f538f038e768cdef3b83975bc9ac)** <sub>(2026-05-20)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-22 19:56 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-23 19:22 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
