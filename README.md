@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-25-generative-agents-in-production-workflows.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/generative-agents-in-production-workflows.jpg" width="100%" alt="Generative Agents In Production Workflows"/>
+</a>
+
+**[Generative Agents In Production Workflows](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-25-generative-agents-in-production-workflows.md)**
+<br/><sub>2026-05-25</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-24-efficient-large-language-model-deployment.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-large-language-model-deployment.jpg" width="100%" alt="Efficient Large Language Model Deployment"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-24</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-23-automl-for-computer-vision.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-23</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-21-llm-fine-tuning-at-scale-with-lora.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Llm Fine Tuning At Scale With Lora](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-21-llm-fine-tuning-at-scale-with-lora.md)**
 <br/><sub>2026-05-21</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-efficient-deployment-of-large-language-models.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-deployment-of-large-language-models.jpg" width="100%" alt="Efficient Deployment Of Large Language Models"/>
-</a>
-
-**[Efficient Deployment Of Large Language Models](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-20-efficient-deployment-of-large-language-models.md)**
-<br/><sub>2026-05-20</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Feature: Add MCP server trust verification before tool execu](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-24)</sub>
+💬 Commented on [Feature: Add MCP server trust verification before tool execu](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-25)</sub>
 
-💬 Commented on [TensorArray(dynamic_size=True, size=0) inside while_loop sil](https://github.com/tensorflow/tensorflow) in `tensorflow/tensorflow` <sub>(2026-05-24)</sub>
+💬 Commented on [bug: _is_reasoning_model whitelist missing real GPT-5 names ](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-05-25)</sub>
 
-💬 Commented on [🎉 Your project is featured in awesome-ai-chat-apps](https://github.com/lm-sys/FastChat) in `lm-sys/FastChat` <sub>(2026-05-24)</sub>
+💬 Commented on [Add DC Hub Intelligence (data center / energy market intelli](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-05-25)</sub>
 
-💬 Commented on [`spacy download --url` is silently ignored or rejected — the](https://github.com/explosion/spaCy) in `explosion/spaCy` <sub>(2026-05-24)</sub>
+💬 Commented on [Support NeonDB](https://github.com/pathwaycom/pathway) in `pathwaycom/pathway` <sub>(2026-05-25)</sub>
 
-💬 Commented on [`1.3.0rc15`: trtllm-serve hangs in fused_moe/quantization.py](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-05-24)</sub>
+💬 Commented on [`exclude` Pattern in `config.ts` Not Working as Expected](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-05-25)</sub>
 
-💬 Commented on [Add AGENTS.md — guidance for AI coding assistants contributi](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-05-23)</sub>
+💬 Commented on [GNAP: log multi-agent coordination events alongside whylogs ](https://github.com/whylabs/whylogs) in `whylabs/whylogs` <sub>(2026-05-25)</sub>
 
-💬 Commented on [Relax lightning <= 2.4.0 cap to allow >= 2.6.1 (security fix](https://github.com/NVIDIA-NeMo/NeMo) in `NVIDIA-NeMo/NeMo` <sub>(2026-05-23)</sub>
+💬 Commented on [Refactor: Improve model classes and remove redundant paramet](https://github.com/google/gemma_pytorch) in `google/gemma_pytorch` <sub>(2026-05-25)</sub>
 
-💬 Commented on [[Docs]: Google Gemini Handler](https://github.com/mindsdb/minds-platform) in `mindsdb/minds-platform` <sub>(2026-05-23)</sub>
+💬 Commented on [Let's Build Yi Cookbook Together - Your Ideas Matter! ](https://github.com/01-ai/Yi) in `01-ai/Yi` <sub>(2026-05-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/7073bb6d0cd78d37ebf4a53c2d9051fd)** <sub>(2026-05-25)</sub>
+
+📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/e301a017e28e918571b89e274a5cfade)** <sub>(2026-05-25)</sub>
+
 📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/e9cbfc40b9e924ecb5255a430cc42901)** <sub>(2026-05-24)</sub>
-
-📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/2fb68e934f036a0a78f078c534e7b137)** <sub>(2026-05-24)</sub>
-
-📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/93849441ee249e71902e03e9d5fb9ecc)** <sub>(2026-05-23)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-24 19:25 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-25 19:51 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
