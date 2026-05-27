@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-27-automated-machine-learning-for-computer-vision.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automated-machine-learning-for-computer-vision.jpg" width="100%" alt="Automated Machine Learning For Computer Vision"/>
+</a>
+
+**[Automated Machine Learning For Computer Vision](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-27-automated-machine-learning-for-computer-vision.md)**
+<br/><sub>2026-05-27</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-26-edge-ai-for-real-time-analytics.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/edge-ai-for-real-time-analytics.jpg" width="100%" alt="Edge Ai For Real Time Analytics"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-26</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-25-generative-agents-in-production-workflows.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-25</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-24-efficient-large-language-model-deployment.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Efficient Large Language Model Deployment](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-24-efficient-large-language-model-deployment.md)**
 <br/><sub>2026-05-24</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-23-automl-for-computer-vision.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-computer-vision.jpg" width="100%" alt="Automl For Computer Vision"/>
-</a>
-
-**[Automl For Computer Vision](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-23-automl-for-computer-vision.md)**
-<br/><sub>2026-05-23</sub>
 
 </td>
 </tr>
@@ -220,6 +220,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [`1.3.0rc15`: trtllm-serve hangs in fused_moe/quantization.py](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-05-27)</sub>
+
+💬 Commented on [Feature: Add MCP server trust verification before tool execu](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-27)</sub>
+
 💬 Commented on [TensorArray(dynamic_size=True, size=0) inside while_loop sil](https://github.com/tensorflow/tensorflow) in `tensorflow/tensorflow` <sub>(2026-05-26)</sub>
 
 💬 Commented on [`1.3.0rc15`: trtllm-serve hangs in fused_moe/quantization.py](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-05-26)</sub>
@@ -231,10 +235,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 💬 Commented on [Add DC Hub Intelligence (data center / energy market intelli](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-05-25)</sub>
 
 💬 Commented on [Support NeonDB](https://github.com/pathwaycom/pathway) in `pathwaycom/pathway` <sub>(2026-05-25)</sub>
-
-💬 Commented on [`exclude` Pattern in `config.ts` Not Working as Expected](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-05-25)</sub>
-
-💬 Commented on [GNAP: log multi-agent coordination events alongside whylogs ](https://github.com/whylabs/whylogs) in `whylabs/whylogs` <sub>(2026-05-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Automated Machine Learning for Computer Vision
+
 🔬 Edge AI for Real-Time Analytics
 
 🔬 Real-time Data Quality Monitoring for ML Systems
@@ -253,8 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Efficient Large Language Model Deployment
 
 🔬 Reinforcement Learning from Human Feedback (RLHF)
-
-🔬 AutoML for Computer Vision
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/98ac442ca33beb4204cfb4a5a3da73c9)** <sub>(2026-05-27)</sub>
+
+📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/ec8a45db03f7e11398de64db1b64652b)** <sub>(2026-05-27)</sub>
+
 📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/b524ffd3d495d5e0fadaf62f51c08a45)** <sub>(2026-05-26)</sub>
-
-📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/7073bb6d0cd78d37ebf4a53c2d9051fd)** <sub>(2026-05-25)</sub>
-
-📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/e301a017e28e918571b89e274a5cfade)** <sub>(2026-05-25)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-26 16:04 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-27 16:06 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
