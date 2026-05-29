@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-29-multi-agent-ai-orchestration-patterns.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
+</a>
+
+**[Multi Agent Ai Orchestration Patterns](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-29-multi-agent-ai-orchestration-patterns.md)**
+<br/><sub>2026-05-29</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-27-automated-machine-learning-for-computer-vision.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automated-machine-learning-for-computer-vision.jpg" width="100%" alt="Automated Machine Learning For Computer Vision"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-27</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-26-edge-ai-for-real-time-analytics.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-26</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-25-generative-agents-in-production-workflows.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Generative Agents In Production Workflows](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-25-generative-agents-in-production-workflows.md)**
 <br/><sub>2026-05-25</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-24-efficient-large-language-model-deployment.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/efficient-large-language-model-deployment.jpg" width="100%" alt="Efficient Large Language Model Deployment"/>
-</a>
-
-**[Efficient Large Language Model Deployment](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-24-efficient-large-language-model-deployment.md)**
-<br/><sub>2026-05-24</sub>
 
 </td>
 </tr>
@@ -233,8 +233,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 💬 Commented on [bug: _is_reasoning_model whitelist missing real GPT-5 names ](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-05-25)</sub>
 
 💬 Commented on [Add DC Hub Intelligence (data center / energy market intelli](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-05-25)</sub>
-
-💬 Commented on [Support NeonDB](https://github.com/pathwaycom/pathway) in `pathwaycom/pathway` <sub>(2026-05-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +242,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 Automated Machine Learning for Computer Vision
 
 🔬 Edge AI for Real-Time Analytics
@@ -253,8 +253,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Explainable AI for Deep Learning Models
 
 🔬 Efficient Large Language Model Deployment
-
-🔬 Reinforcement Learning from Human Feedback (RLHF)
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +260,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/8d10704112be0358c70a4be062ba1155)** <sub>(2026-05-29)</sub>
+
 📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/98ac442ca33beb4204cfb4a5a3da73c9)** <sub>(2026-05-27)</sub>
 
 📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/ec8a45db03f7e11398de64db1b64652b)** <sub>(2026-05-27)</sub>
-
-📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/b524ffd3d495d5e0fadaf62f51c08a45)** <sub>(2026-05-26)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-27 16:06 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-29 16:04 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
