@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-30-real-time-model-serving-with-gpus.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-model-serving-with-gpus.jpg" width="100%" alt="Real Time Model Serving With Gpus"/>
+</a>
+
+**[Real Time Model Serving With Gpus](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-30-real-time-model-serving-with-gpus.md)**
+<br/><sub>2026-05-30</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-29-multi-agent-ai-orchestration-patterns.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-29</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-27-automated-machine-learning-for-computer-vision.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-27</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-26-edge-ai-for-real-time-analytics.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Edge Ai For Real Time Analytics](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-26-edge-ai-for-real-time-analytics.md)**
 <br/><sub>2026-05-26</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-25-generative-agents-in-production-workflows.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/generative-agents-in-production-workflows.jpg" width="100%" alt="Generative Agents In Production Workflows"/>
-</a>
-
-**[Generative Agents In Production Workflows](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-25-generative-agents-in-production-workflows.md)**
-<br/><sub>2026-05-25</sub>
 
 </td>
 </tr>
@@ -220,19 +220,15 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Add DC Hub Intelligence (data center / energy market intelli](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-05-30)</sub>
+
+⭐ Starred `dipankarmazumdar/awesome-lakehouse-guide` <sub>(2026-05-30)</sub>
+
+⭐ Starred `delta-io/delta` <sub>(2026-05-30)</sub>
+
 💬 Commented on [`1.3.0rc15`: trtllm-serve hangs in fused_moe/quantization.py](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-05-27)</sub>
 
 💬 Commented on [Feature: Add MCP server trust verification before tool execu](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-27)</sub>
-
-💬 Commented on [TensorArray(dynamic_size=True, size=0) inside while_loop sil](https://github.com/tensorflow/tensorflow) in `tensorflow/tensorflow` <sub>(2026-05-26)</sub>
-
-💬 Commented on [`1.3.0rc15`: trtllm-serve hangs in fused_moe/quantization.py](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-05-26)</sub>
-
-💬 Commented on [Feature: Add MCP server trust verification before tool execu](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-25)</sub>
-
-💬 Commented on [bug: _is_reasoning_model whitelist missing real GPT-5 names ](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-05-25)</sub>
-
-💬 Commented on [Add DC Hub Intelligence (data center / energy market intelli](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-05-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -242,17 +238,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Edge AI and TinyML
+
+🔬 Explainable AI (XAI) for Deep Learning Models
+
+🔬 Real-time Model Serving with GPUs
+
 🔬 Multi-Agent AI Orchestration Patterns
 
 🔬 Automated Machine Learning for Computer Vision
 
 🔬 Edge AI for Real-Time Analytics
-
-🔬 Real-time Data Quality Monitoring for ML Systems
-
-🔬 Explainable AI for Deep Learning Models
-
-🔬 Efficient Large Language Model Deployment
 <!-- RESEARCH_END -->
 
 ---
@@ -260,16 +256,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/938b47e0ed7ef9d21665cab000eccfc7)** <sub>(2026-05-30)</sub>
+
 📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/8d10704112be0358c70a4be062ba1155)** <sub>(2026-05-29)</sub>
 
 📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/98ac442ca33beb4204cfb4a5a3da73c9)** <sub>(2026-05-27)</sub>
-
-📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/ec8a45db03f7e11398de64db1b64652b)** <sub>(2026-05-27)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-29 16:04 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-30 19:27 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
