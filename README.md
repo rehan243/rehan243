@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-31-ai-safety-and-alignment-engineering.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
+</a>
+
+**[Ai Safety And Alignment Engineering](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-31-ai-safety-and-alignment-engineering.md)**
+<br/><sub>2026-05-31</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-30-real-time-model-serving-with-gpus.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-model-serving-with-gpus.jpg" width="100%" alt="Real Time Model Serving With Gpus"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-30</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-29-multi-agent-ai-orchestration-patterns.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-29</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-27-automated-machine-learning-for-computer-vision.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Automated Machine Learning For Computer Vision](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-27-automated-machine-learning-for-computer-vision.md)**
 <br/><sub>2026-05-27</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-26-edge-ai-for-real-time-analytics.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/edge-ai-for-real-time-analytics.jpg" width="100%" alt="Edge Ai For Real Time Analytics"/>
-</a>
-
-**[Edge Ai For Real Time Analytics](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-26-edge-ai-for-real-time-analytics.md)**
-<br/><sub>2026-05-26</sub>
 
 </td>
 </tr>
@@ -220,15 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Add DC Hub Intelligence (data center / energy market intelli](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-05-30)</sub>
+💬 Commented on [[Bug] Fire-and-forget asyncio task + deprecated get_event_lo](https://github.com/agno-agi/agno) in `agno-agi/agno` <sub>(2026-05-31)</sub>
 
-⭐ Starred `dipankarmazumdar/awesome-lakehouse-guide` <sub>(2026-05-30)</sub>
+💬 Commented on [feat: Add retrieve_online_documents_v2 support to Qdrant onl](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-05-31)</sub>
 
-⭐ Starred `delta-io/delta` <sub>(2026-05-30)</sub>
+💬 Commented on [ElasticSearch input via generalized polling](https://github.com/pathwaycom/pathway) in `pathwaycom/pathway` <sub>(2026-05-31)</sub>
 
-💬 Commented on [`1.3.0rc15`: trtllm-serve hangs in fused_moe/quantization.py](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-05-27)</sub>
+💬 Commented on [[Bug]: v1.83.14-stable linux/arm64 image contains amd64 bina](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-31)</sub>
 
-💬 Commented on [Feature: Add MCP server trust verification before tool execu](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-05-27)</sub>
+💬 Commented on [Feature request : Advanced Reasoning and Inference](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-05-31)</sub>
+
+💬 Commented on [Sweep: Agent-agnostic rules file](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-05-31)</sub>
+
+💬 Commented on [Crawling pages not working with specific URL configuration?](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-05-31)</sub>
+
+⭐ Starred `augustwester/searchthearxiv` <sub>(2026-05-31)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -238,17 +244,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
+🔬 LLM Fine-Tuning at Scale with LoRA
+
+🔬 AI Safety and Alignment Engineering
+
 🔬 Edge AI and TinyML
 
 🔬 Explainable AI (XAI) for Deep Learning Models
 
 🔬 Real-time Model Serving with GPUs
-
-🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Automated Machine Learning for Computer Vision
-
-🔬 Edge AI for Real-Time Analytics
 <!-- RESEARCH_END -->
 
 ---
@@ -256,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/fe954c827276f6a2fd3fa101ab086bb2)** <sub>(2026-05-31)</sub>
+
+📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/74c3fa1db0ffe4d4c462d032bbfcfb07)** <sub>(2026-05-31)</sub>
+
 📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/938b47e0ed7ef9d21665cab000eccfc7)** <sub>(2026-05-30)</sub>
-
-📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/8d10704112be0358c70a4be062ba1155)** <sub>(2026-05-29)</sub>
-
-📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/98ac442ca33beb4204cfb4a5a3da73c9)** <sub>(2026-05-27)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-30 19:27 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-05-31 19:26 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
