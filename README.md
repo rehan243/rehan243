@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[Bug] Fire-and-forget asyncio task + deprecated get_event_lo](https://github.com/agno-agi/agno) in `agno-agi/agno` <sub>(2026-05-31)</sub>
+💬 Commented on [Eval bug: cache reuse is not supported - ignoring n_cache_re](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-06-01)</sub>
 
-💬 Commented on [feat: Add retrieve_online_documents_v2 support to Qdrant onl](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-05-31)</sub>
+💬 Commented on [Incorrect NumPy/OpenBLAS matmul after unblocked CPU lax.lina](https://github.com/jax-ml/jax) in `jax-ml/jax` <sub>(2026-06-01)</sub>
 
-💬 Commented on [ElasticSearch input via generalized polling](https://github.com/pathwaycom/pathway) in `pathwaycom/pathway` <sub>(2026-05-31)</sub>
+💬 Commented on [Embed-token replay-binding on the broker north face (jti/non](https://github.com/Wide-Moat/open-computer-use) in `Wide-Moat/open-computer-use` <sub>(2026-06-01)</sub>
 
-💬 Commented on [[Bug]: v1.83.14-stable linux/arm64 image contains amd64 bina](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-05-31)</sub>
+💬 Commented on [How to work Ragstack colbert in Windows. What is the correct](https://github.com/datastax/ragstack-ai) in `datastax/ragstack-ai` <sub>(2026-06-01)</sub>
 
-💬 Commented on [Feature request : Advanced Reasoning and Inference](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-05-31)</sub>
+💬 Commented on [Admin page, chat page](https://github.com/jonfairbanks/local-rag) in `jonfairbanks/local-rag` <sub>(2026-06-01)</sub>
 
-💬 Commented on [Sweep: Agent-agnostic rules file](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-05-31)</sub>
+💬 Commented on [Add HVTracker badge to README?](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-06-01)</sub>
 
-💬 Commented on [Crawling pages not working with specific URL configuration?](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-05-31)</sub>
+💬 Commented on [RULER hotpot dataset not available](https://github.com/EleutherAI/lm-evaluation-harness) in `EleutherAI/lm-evaluation-harness` <sub>(2026-06-01)</sub>
 
-⭐ Starred `augustwester/searchthearxiv` <sub>(2026-05-31)</sub>
+⭐ Starred `wildlifechorus/condenseit` <sub>(2026-06-01)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/27c839afb54febf3170d8b6d0d7989d3)** <sub>(2026-06-01)</sub>
+
 📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/fe954c827276f6a2fd3fa101ab086bb2)** <sub>(2026-05-31)</sub>
 
 📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/74c3fa1db0ffe4d4c462d032bbfcfb07)** <sub>(2026-05-31)</sub>
-
-📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/938b47e0ed7ef9d21665cab000eccfc7)** <sub>(2026-05-30)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-05-31 19:26 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-01 17:59 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
