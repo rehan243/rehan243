@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Eval bug: cache reuse is not supported - ignoring n_cache_re](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-06-01)</sub>
+💬 Commented on [YOLOE Visual Prompt based Classification](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-02)</sub>
 
-💬 Commented on [Incorrect NumPy/OpenBLAS matmul after unblocked CPU lax.lina](https://github.com/jax-ml/jax) in `jax-ml/jax` <sub>(2026-06-01)</sub>
+💬 Commented on [MCP connected_account_urls use plural query parameter reject](https://github.com/ComposioHQ/composio) in `ComposioHQ/composio` <sub>(2026-06-02)</sub>
 
-💬 Commented on [Embed-token replay-binding on the broker north face (jti/non](https://github.com/Wide-Moat/open-computer-use) in `Wide-Moat/open-computer-use` <sub>(2026-06-01)</sub>
+💬 Commented on [providers/index.ts — 429 triggers instant fallback with no R](https://github.com/superagent-ai/superagent) in `superagent-ai/superagent` <sub>(2026-06-02)</sub>
 
-💬 Commented on [How to work Ragstack colbert in Windows. What is the correct](https://github.com/datastax/ragstack-ai) in `datastax/ragstack-ai` <sub>(2026-06-01)</sub>
+💬 Commented on [[RFC][Serve] LongPoll consumer resilience under ServeControl](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-06-02)</sub>
 
-💬 Commented on [Admin page, chat page](https://github.com/jonfairbanks/local-rag) in `jonfairbanks/local-rag` <sub>(2026-06-01)</sub>
+💬 Commented on [llama-factory-0.9.5版本qwen3.5微调报ValueError: Processor was not](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-06-02)</sub>
 
-💬 Commented on [Add HVTracker badge to README?](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-06-01)</sub>
+💬 Commented on [issue: 0.9.5 -> 0.9.6 Model-attached skills are injected int](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-06-02)</sub>
 
-💬 Commented on [RULER hotpot dataset not available](https://github.com/EleutherAI/lm-evaluation-harness) in `EleutherAI/lm-evaluation-harness` <sub>(2026-06-01)</sub>
+⭐ Starred `dyad-sh/dyad` <sub>(2026-06-02)</sub>
 
-⭐ Starred `wildlifechorus/condenseit` <sub>(2026-06-01)</sub>
+⭐ Starred `microsoft/mcp` <sub>(2026-06-02)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/8a847de2c563b9f6e6adfd899f649822)** <sub>(2026-06-02)</sub>
+
+📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/ea175f476fb95d5c3fd071fecfff514f)** <sub>(2026-06-02)</sub>
+
 📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/27c839afb54febf3170d8b6d0d7989d3)** <sub>(2026-06-01)</sub>
-
-📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/fe954c827276f6a2fd3fa101ab086bb2)** <sub>(2026-05-31)</sub>
-
-📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/74c3fa1db0ffe4d4c462d032bbfcfb07)** <sub>(2026-05-31)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-01 17:59 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-02 16:49 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
