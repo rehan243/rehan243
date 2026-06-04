@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-04-retrieval-augmented-generation-rag-in-production.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-production.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Production"/>
+</a>
+
+**[Retrieval Augmented Generation Rag In Production](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-04-retrieval-augmented-generation-rag-in-production.md)**
+<br/><sub>2026-06-04</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-31-ai-safety-and-alignment-engineering.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-31</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-30-real-time-model-serving-with-gpus.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-05-30</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-29-multi-agent-ai-orchestration-patterns.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Multi Agent Ai Orchestration Patterns](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-29-multi-agent-ai-orchestration-patterns.md)**
 <br/><sub>2026-05-29</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-27-automated-machine-learning-for-computer-vision.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automated-machine-learning-for-computer-vision.jpg" width="100%" alt="Automated Machine Learning For Computer Vision"/>
-</a>
-
-**[Automated Machine Learning For Computer Vision](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-27-automated-machine-learning-for-computer-vision.md)**
-<br/><sub>2026-05-27</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [YOLOE Visual Prompt based Classification](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-02)</sub>
+💬 Commented on [issue: 0.9.5 -> 0.9.6 Model-attached skills are injected int](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-06-04)</sub>
 
-💬 Commented on [MCP connected_account_urls use plural query parameter reject](https://github.com/ComposioHQ/composio) in `ComposioHQ/composio` <sub>(2026-06-02)</sub>
+💬 Commented on [YOLOE Visual Prompt based Classification](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-04)</sub>
 
-💬 Commented on [providers/index.ts — 429 triggers instant fallback with no R](https://github.com/superagent-ai/superagent) in `superagent-ai/superagent` <sub>(2026-06-02)</sub>
+💬 Commented on [Chinese characters display garbled](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-06-04)</sub>
 
-💬 Commented on [[RFC][Serve] LongPoll consumer resilience under ServeControl](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-06-02)</sub>
+💬 Commented on [Feature Request: Implement Adaptive PFlash (Self-Tuning Pref](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-06-04)</sub>
 
-💬 Commented on [llama-factory-0.9.5版本qwen3.5微调报ValueError: Processor was not](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-06-02)</sub>
+💬 Commented on [Transformer Engine plugin fails to check weight exists for L](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-04)</sub>
 
-💬 Commented on [issue: 0.9.5 -> 0.9.6 Model-attached skills are injected int](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-06-02)</sub>
+💬 Commented on [Performance/caching issue: tokenizer fails to reset has_spec](https://github.com/explosion/spaCy) in `explosion/spaCy` <sub>(2026-06-04)</sub>
 
-⭐ Starred `dyad-sh/dyad` <sub>(2026-06-02)</sub>
+💬 Commented on [PXI: dumps raw resource IDs instead of actionable links in r](https://github.com/Arize-ai/phoenix) in `Arize-ai/phoenix` <sub>(2026-06-04)</sub>
 
-⭐ Starred `microsoft/mcp` <sub>(2026-06-02)</sub>
+💬 Commented on [Your project is now listed on CodeGuilds](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-06-04)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning and Customization of Open-Source LLMs for Domain-Specific Tasks
+
+🔬 Retrieval-Augmented Generation (RAG) in Production LLM Systems
+
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 LLM Fine-Tuning at Scale with LoRA
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 AI Safety and Alignment Engineering
 
 🔬 Edge AI and TinyML
-
-🔬 Explainable AI (XAI) for Deep Learning Models
-
-🔬 Real-time Model Serving with GPUs
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Prompt Template Engine with Variable Injection — Production Pattern (Python)](https://gist.github.com/rehan243/11a8f7064240bac39722aed10b595dab)** <sub>(2026-06-04)</sub>
+
+📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/294a0f78a6a141bf31f82001f100f577)** <sub>(2026-06-04)</sub>
+
 📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/8a847de2c563b9f6e6adfd899f649822)** <sub>(2026-06-02)</sub>
-
-📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/ea175f476fb95d5c3fd071fecfff514f)** <sub>(2026-06-02)</sub>
-
-📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/27c839afb54febf3170d8b6d0d7989d3)** <sub>(2026-06-01)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-02 16:49 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-04 20:13 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
