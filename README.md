@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-06-real-time-ai-inference-optimization.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization"/>
+</a>
+
+**[Real Time Ai Inference Optimization](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-06-real-time-ai-inference-optimization.md)**
+<br/><sub>2026-06-06</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-05-production-scale-retrieval-augmented-generation-r.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-scale-retrieval-augmented-generation-r.jpg" width="100%" alt="Production Scale Retrieval Augmented Generation R"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-05</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-05-fine-tuning-large-language-models-with-parameter-e.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-05</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-04-retrieval-augmented-generation-rag-in-production.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Retrieval Augmented Generation Rag In Production](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-04-retrieval-augmented-generation-rag-in-production.md)**
 <br/><sub>2026-06-04</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-31-ai-safety-and-alignment-engineering.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/ai-safety-and-alignment-engineering.jpg" width="100%" alt="Ai Safety And Alignment Engineering"/>
-</a>
-
-**[Ai Safety And Alignment Engineering](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-05-31-ai-safety-and-alignment-engineering.md)**
-<br/><sub>2026-05-31</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [YOLOE Visual Prompt based Classification](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-05)</sub>
+💬 Commented on [Transformer Engine plugin fails to check weight exists for L](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-06)</sub>
 
-💬 Commented on [Consider using pre-built Flash Attention kernels via `kernel](https://github.com/mosaicml/llm-foundry) in `mosaicml/llm-foundry` <sub>(2026-06-05)</sub>
+💬 Commented on [`tokens/train_per_sec_per_gpu` miscount with gradient accumu](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-06-06)</sub>
 
-💬 Commented on [Please publish an official build to pypi](https://github.com/openai/CLIP) in `openai/CLIP` <sub>(2026-06-05)</sub>
+💬 Commented on [[APEX研究] 💰 商业模式 零一万物 Yi 定价策略与商业化路径](https://github.com/01-ai/Yi) in `01-ai/Yi` <sub>(2026-06-06)</sub>
 
-💬 Commented on [Client.embed(texts=[]) raises IndexError instead of handling](https://github.com/cohere-ai/cohere-python) in `cohere-ai/cohere-python` <sub>(2026-06-05)</sub>
+💬 Commented on [[BUG] Anthropic 兼容端点：thinking:disabled 与 reasoning_effort 互斥](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-06-06)</sub>
 
-💬 Commented on [Anthropic-compatible endpoint rejects Claude Code mid-conver](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-06-05)</sub>
+💬 Commented on [Bedrock stream decoder drops SSE event types; type-less chun](https://github.com/anthropics/anthropic-sdk-python) in `anthropics/anthropic-sdk-python` <sub>(2026-06-06)</sub>
 
-💬 Commented on [[improvement][Agent][stream thinking tokens through streamin](https://github.com/kyegomez/swarms) in `kyegomez/swarms` <sub>(2026-06-05)</sub>
+💬 Commented on [TF backend: conv raises for strides > 1 with dilation_rate >](https://github.com/keras-team/keras) in `keras-team/keras` <sub>(2026-06-06)</sub>
 
-💬 Commented on [mamba-ssm setup.py fails with InvalidVersion for vendor PyTo](https://github.com/state-spaces/mamba) in `state-spaces/mamba` <sub>(2026-06-05)</sub>
+⭐ Starred `KylinShinlyLin/QozeCode` <sub>(2026-06-06)</sub>
 
-💬 Commented on [AI Chat doesn't send prompt in a way that can be cached.](https://github.com/marimo-team/marimo) in `marimo-team/marimo` <sub>(2026-06-05)</sub>
+⭐ Starred `KimYx0207/Meta_Kim` <sub>(2026-06-06)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI Inference Optimization
+
 🔬 Agent-Based Workflow Automation in Production
 
 🔬 Fine-Tuning Large Language Models with Parameter-Efficient Techniques
@@ -253,8 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Fine-Tuning and Customization of Open-Source LLMs for Domain-Specific Tasks
 
 🔬 Retrieval-Augmented Generation (RAG) in Production LLM Systems
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/776e981e9260db411b607e01b060c7a0)** <sub>(2026-06-06)</sub>
+
+📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/84f94a9e228cf775bc3241069940c91d)** <sub>(2026-06-06)</sub>
+
 📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/33b67d3d26b54204bf93be96400a5501)** <sub>(2026-06-05)</sub>
-
-📌 **[Token Counter for Multi-Model Cost Estimation — Production Pattern (Python)](https://gist.github.com/rehan243/b6c48f4a80576a67f8ca116a9c9cce9f)** <sub>(2026-06-05)</sub>
-
-📌 **[Prompt Template Engine with Variable Injection — Production Pattern (Python)](https://gist.github.com/rehan243/11a8f7064240bac39722aed10b595dab)** <sub>(2026-06-04)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-05 20:02 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-06 19:41 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
