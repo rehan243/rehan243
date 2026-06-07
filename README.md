@@ -169,6 +169,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-fine-tuning-open-source-llms-for-proprietary-use-c.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-open-source-llms-for-proprietary-use-c.jpg" width="100%" alt="Fine Tuning Open Source Llms For Proprietary Use C"/>
+</a>
+
+**[Fine Tuning Open Source Llms For Proprietary Use C](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-fine-tuning-open-source-llms-for-proprietary-use-c.md)**
+<br/><sub>2026-06-07</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-automated-evaluation-and-monitoring-of-llms-in-pro.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automated-evaluation-and-monitoring-of-llms-in-pro.jpg" width="100%" alt="Automated Evaluation And Monitoring Of Llms In Pro"/>
+</a>
+
+**[Automated Evaluation And Monitoring Of Llms In Pro](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-automated-evaluation-and-monitoring-of-llms-in-pro.md)**
+<br/><sub>2026-06-07</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-06-real-time-ai-inference-optimization.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization"/>
 </a>
@@ -188,28 +210,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-05-fine-tuning-large-language-models-with-parameter-e.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-large-language-models-with-parameter-e.jpg" width="100%" alt="Fine Tuning Large Language Models With Parameter E"/>
-</a>
-
-**[Fine Tuning Large Language Models With Parameter E](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-05-fine-tuning-large-language-models-with-parameter-e.md)**
-<br/><sub>2026-06-05</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-04-retrieval-augmented-generation-rag-in-production.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-production.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Production"/>
-</a>
-
-**[Retrieval Augmented Generation Rag In Production](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-04-retrieval-augmented-generation-rag-in-production.md)**
-<br/><sub>2026-06-04</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Transformer Engine plugin fails to check weight exists for L](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-06)</sub>
+💬 Commented on [YOLOE Visual Prompt based Classification](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-07)</sub>
 
-💬 Commented on [`tokens/train_per_sec_per_gpu` miscount with gradient accumu](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-06-06)</sub>
+💬 Commented on [Transformer Engine plugin fails to check weight exists for L](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-07)</sub>
 
-💬 Commented on [[APEX研究] 💰 商业模式 零一万物 Yi 定价策略与商业化路径](https://github.com/01-ai/Yi) in `01-ai/Yi` <sub>(2026-06-06)</sub>
+💬 Commented on [Your project is now listed on CodeGuilds](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-06-07)</sub>
 
-💬 Commented on [[BUG] Anthropic 兼容端点：thinking:disabled 与 reasoning_effort 互斥](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-06-06)</sub>
+⭐ Starred `aimhubio/aim` <sub>(2026-06-07)</sub>
 
-💬 Commented on [Bedrock stream decoder drops SSE event types; type-less chun](https://github.com/anthropics/anthropic-sdk-python) in `anthropics/anthropic-sdk-python` <sub>(2026-06-06)</sub>
+⭐ Starred `NirDiamant/Prompt_Engineering` <sub>(2026-06-07)</sub>
 
-💬 Commented on [TF backend: conv raises for strides > 1 with dilation_rate >](https://github.com/keras-team/keras) in `keras-team/keras` <sub>(2026-06-06)</sub>
+⭐ Starred `kyegomez/MambaByte` <sub>(2026-06-07)</sub>
 
-⭐ Starred `KylinShinlyLin/QozeCode` <sub>(2026-06-06)</sub>
+⭐ Starred `kyegomez/MoE-Mamba` <sub>(2026-06-07)</sub>
 
-⭐ Starred `KimYx0207/Meta_Kim` <sub>(2026-06-06)</sub>
+⭐ Starred `kyegomez/VisionMamba` <sub>(2026-06-07)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Automated Evaluation and Monitoring of LLMs in Production
+
+🔬 Fine-Tuning Open-Source LLMs for Proprietary Use Cases
+
 🔬 Real-Time AI Inference Optimization
 
 🔬 Agent-Based Workflow Automation in Production
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Fine-Tuning Large Language Models with Parameter-Efficient Techniques
 
 🔬 Production-Scale Retrieval-Augmented Generation (RAG) in Enterprise Search
-
-🔬 Fine-Tuning and Customization of Open-Source LLMs for Domain-Specific Tasks
-
-🔬 Retrieval-Augmented Generation (RAG) in Production LLM Systems
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/3b4ab9fbbb3fec3930f48564a76b6e36)** <sub>(2026-06-07)</sub>
+
+📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/ec6bc6b8e6f376e1c2787dd29e1cb2a1)** <sub>(2026-06-07)</sub>
+
 📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/776e981e9260db411b607e01b060c7a0)** <sub>(2026-06-06)</sub>
-
-📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/84f94a9e228cf775bc3241069940c91d)** <sub>(2026-06-06)</sub>
-
-📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/33b67d3d26b54204bf93be96400a5501)** <sub>(2026-06-05)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-06 19:41 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-07 19:42 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
