@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [YOLOE Visual Prompt based Classification](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-07)</sub>
+💬 Commented on [[Feature]  MiniMax-M3 ](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-06-08)</sub>
 
-💬 Commented on [Transformer Engine plugin fails to check weight exists for L](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-06-07)</sub>
+💬 Commented on [[APEX研究] ⚙️ 技术架构 零一万物 Yi 跨模型技术架构深度对比分析](https://github.com/01-ai/Yi) in `01-ai/Yi` <sub>(2026-06-08)</sub>
 
-💬 Commented on [Your project is now listed on CodeGuilds](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-06-07)</sub>
+💬 Commented on [feat: Add retrieve_online_documents_v2 support to Redis onli](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-06-08)</sub>
 
-⭐ Starred `aimhubio/aim` <sub>(2026-06-07)</sub>
+💬 Commented on [[feat]Add 5 built-in URL validators with enhanced domain ver](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-06-08)</sub>
 
-⭐ Starred `NirDiamant/Prompt_Engineering` <sub>(2026-06-07)</sub>
+💬 Commented on [[Bug] Image upload triggers full page reload on Android Go (](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-06-08)</sub>
 
-⭐ Starred `kyegomez/MambaByte` <sub>(2026-06-07)</sub>
+⭐ Starred `zengxiao-he/tessera` <sub>(2026-06-08)</sub>
 
-⭐ Starred `kyegomez/MoE-Mamba` <sub>(2026-06-07)</sub>
+⭐ Starred `MemMachine/MemMachine` <sub>(2026-06-08)</sub>
 
-⭐ Starred `kyegomez/VisionMamba` <sub>(2026-06-07)</sub>
+⭐ Starred `ferrumox/fox` <sub>(2026-06-08)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/2eb92f11b2845695895621d23fa90105)** <sub>(2026-06-08)</sub>
+
 📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/3b4ab9fbbb3fec3930f48564a76b6e36)** <sub>(2026-06-07)</sub>
 
 📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/ec6bc6b8e6f376e1c2787dd29e1cb2a1)** <sub>(2026-06-07)</sub>
-
-📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/776e981e9260db411b607e01b060c7a0)** <sub>(2026-06-06)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-07 19:42 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-08 16:11 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
