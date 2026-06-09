@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-09-real-time-data-streams-for-ml-model-training.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-data-streams-for-ml-model-training.jpg" width="100%" alt="Real Time Data Streams For Ml Model Training"/>
+</a>
+
+**[Real Time Data Streams For Ml Model Training](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-09-real-time-data-streams-for-ml-model-training.md)**
+<br/><sub>2026-06-09</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-fine-tuning-open-source-llms-for-proprietary-use-c.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-open-source-llms-for-proprietary-use-c.jpg" width="100%" alt="Fine Tuning Open Source Llms For Proprietary Use C"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-07</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-automated-evaluation-and-monitoring-of-llms-in-pro.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-07</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-06-real-time-ai-inference-optimization.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Real Time Ai Inference Optimization](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-06-real-time-ai-inference-optimization.md)**
 <br/><sub>2026-06-06</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-05-production-scale-retrieval-augmented-generation-r.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-scale-retrieval-augmented-generation-r.jpg" width="100%" alt="Production Scale Retrieval Augmented Generation R"/>
-</a>
-
-**[Production Scale Retrieval Augmented Generation R](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-05-production-scale-retrieval-augmented-generation-r.md)**
-<br/><sub>2026-06-05</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[Feature]  MiniMax-M3 ](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-06-08)</sub>
+💬 Commented on [UI bugs: session expiry screen shown when logged out + logou](https://github.com/Significant-Gravitas/AutoGPT) in `Significant-Gravitas/AutoGPT` <sub>(2026-06-09)</sub>
 
-💬 Commented on [[APEX研究] ⚙️ 技术架构 零一万物 Yi 跨模型技术架构深度对比分析](https://github.com/01-ai/Yi) in `01-ai/Yi` <sub>(2026-06-08)</sub>
+💬 Commented on [If you run olmo 3.1 32b instruct as a next-token predictor, ](https://github.com/allenai/OLMo) in `allenai/OLMo` <sub>(2026-06-09)</sub>
 
-💬 Commented on [feat: Add retrieve_online_documents_v2 support to Redis onli](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-06-08)</sub>
+💬 Commented on [issue:  executeTool in +layout.svelte missing try-catch caus](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-06-09)</sub>
 
-💬 Commented on [[feat]Add 5 built-in URL validators with enhanced domain ver](https://github.com/guardrails-ai/guardrails) in `guardrails-ai/guardrails` <sub>(2026-06-08)</sub>
+💬 Commented on [Add OpenRouter adapter for LLM](https://github.com/ragapp/ragapp) in `ragapp/ragapp` <sub>(2026-06-09)</sub>
 
-💬 Commented on [[Bug] Image upload triggers full page reload on Android Go (](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-06-08)</sub>
+💬 Commented on [autoresume_default variable](https://github.com/mosaicml/llm-foundry) in `mosaicml/llm-foundry` <sub>(2026-06-09)</sub>
 
-⭐ Starred `zengxiao-he/tessera` <sub>(2026-06-08)</sub>
+💬 Commented on [Lording investment ](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-06-09)</sub>
 
-⭐ Starred `MemMachine/MemMachine` <sub>(2026-06-08)</sub>
+⭐ Starred `Spirit-AI-Team/spirit-v1.5` <sub>(2026-06-09)</sub>
 
-⭐ Starred `ferrumox/fox` <sub>(2026-06-08)</sub>
+⭐ Starred `Tencent-Hunyuan/HY-Embodied-0.5-X` <sub>(2026-06-09)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Data Streams for ML Model Training
+
 🔬 Automated Evaluation and Monitoring of LLMs in Production
 
 🔬 Fine-Tuning Open-Source LLMs for Proprietary Use Cases
@@ -253,8 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Agent-Based Workflow Automation in Production
 
 🔬 Fine-Tuning Large Language Models with Parameter-Efficient Techniques
-
-🔬 Production-Scale Retrieval-Augmented Generation (RAG) in Enterprise Search
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/815621cb954ccd6363bb76cfc7b7da8c)** <sub>(2026-06-09)</sub>
+
 📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/2eb92f11b2845695895621d23fa90105)** <sub>(2026-06-08)</sub>
 
 📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/3b4ab9fbbb3fec3930f48564a76b6e36)** <sub>(2026-06-07)</sub>
-
-📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/ec6bc6b8e6f376e1c2787dd29e1cb2a1)** <sub>(2026-06-07)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-08 16:11 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-09 20:14 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
