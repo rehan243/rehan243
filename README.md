@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-10-real-world-applications-of-reinforcement-learning-.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-world-applications-of-reinforcement-learning-.jpg" width="100%" alt="Real World Applications Of Reinforcement Learning "/>
+</a>
+
+**[Real World Applications Of Reinforcement Learning ](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-10-real-world-applications-of-reinforcement-learning-.md)**
+<br/><sub>2026-06-10</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-09-real-time-data-streams-for-ml-model-training.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-data-streams-for-ml-model-training.jpg" width="100%" alt="Real Time Data Streams For Ml Model Training"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-09</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-fine-tuning-open-source-llms-for-proprietary-use-c.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-07</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-automated-evaluation-and-monitoring-of-llms-in-pro.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Automated Evaluation And Monitoring Of Llms In Pro](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-automated-evaluation-and-monitoring-of-llms-in-pro.md)**
 <br/><sub>2026-06-07</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-06-real-time-ai-inference-optimization.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization"/>
-</a>
-
-**[Real Time Ai Inference Optimization](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-06-real-time-ai-inference-optimization.md)**
-<br/><sub>2026-06-06</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [UI bugs: session expiry screen shown when logged out + logou](https://github.com/Significant-Gravitas/AutoGPT) in `Significant-Gravitas/AutoGPT` <sub>(2026-06-09)</sub>
+💬 Commented on [Feature request: use MCP tasks extension to stream ground_lo](https://github.com/mapbox/mcp-server) in `mapbox/mcp-server` <sub>(2026-06-10)</sub>
 
-💬 Commented on [If you run olmo 3.1 32b instruct as a next-token predictor, ](https://github.com/allenai/OLMo) in `allenai/OLMo` <sub>(2026-06-09)</sub>
+💬 Commented on [AgentThreatBench: OWASP Agentic Top 10 benchmark for indirec](https://github.com/openai/evals) in `openai/evals` <sub>(2026-06-10)</sub>
 
-💬 Commented on [issue:  executeTool in +layout.svelte missing try-catch caus](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-06-09)</sub>
+💬 Commented on [OAuth-Based Authentication for Managed MLflow Backends](https://github.com/zenml-io/zenml) in `zenml-io/zenml` <sub>(2026-06-10)</sub>
 
-💬 Commented on [Add OpenRouter adapter for LLM](https://github.com/ragapp/ragapp) in `ragapp/ragapp` <sub>(2026-06-09)</sub>
+💬 Commented on [[FR]: Support OPIK_TRACK_DISABLE in Typescript SDK](https://github.com/comet-ml/opik) in `comet-ml/opik` <sub>(2026-06-10)</sub>
 
-💬 Commented on [autoresume_default variable](https://github.com/mosaicml/llm-foundry) in `mosaicml/llm-foundry` <sub>(2026-06-09)</sub>
+💬 Commented on [[BUG/Help] <title>一加载python就崩溃](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-06-10)</sub>
 
-💬 Commented on [Lording investment ](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-06-09)</sub>
+💬 Commented on [Proposal: dynamic/lazy resources/list (and directory-read) b](https://github.com/modelcontextprotocol/go-sdk) in `modelcontextprotocol/go-sdk` <sub>(2026-06-10)</sub>
 
-⭐ Starred `Spirit-AI-Team/spirit-v1.5` <sub>(2026-06-09)</sub>
+⭐ Starred `closedloop-ai/claude-plugins` <sub>(2026-06-10)</sub>
 
-⭐ Starred `Tencent-Hunyuan/HY-Embodied-0.5-X` <sub>(2026-06-09)</sub>
+⭐ Starred `athola/claude-night-market` <sub>(2026-06-10)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Causal Inference and Discovery in Observational Data
+
+🔬 Real-World Applications of Reinforcement Learning from Human Feedback
+
 🔬 Real-Time Data Streams for ML Model Training
 
 🔬 Automated Evaluation and Monitoring of LLMs in Production
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Fine-Tuning Open-Source LLMs for Proprietary Use Cases
 
 🔬 Real-Time AI Inference Optimization
-
-🔬 Agent-Based Workflow Automation in Production
-
-🔬 Fine-Tuning Large Language Models with Parameter-Efficient Techniques
 <!-- RESEARCH_END -->
 
 ---
@@ -271,7 +271,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-09 20:14 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-10 20:39 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
