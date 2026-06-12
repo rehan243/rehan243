@@ -220,6 +220,12 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Client.embed(texts=[]) raises IndexError instead of handling](https://github.com/cohere-ai/cohere-python) in `cohere-ai/cohere-python` <sub>(2026-06-12)</sub>
+
+💬 Commented on [Proposal: dynamic/lazy resources/list (and directory-read) b](https://github.com/modelcontextprotocol/go-sdk) in `modelcontextprotocol/go-sdk` <sub>(2026-06-12)</sub>
+
+⭐ Starred `aws-samples/sample-genai-on-eks-starter-kit` <sub>(2026-06-12)</sub>
+
 💬 Commented on [Feature request: use MCP tasks extension to stream ground_lo](https://github.com/mapbox/mcp-server) in `mapbox/mcp-server` <sub>(2026-06-10)</sub>
 
 💬 Commented on [AgentThreatBench: OWASP Agentic Top 10 benchmark for indirec](https://github.com/openai/evals) in `openai/evals` <sub>(2026-06-10)</sub>
@@ -229,12 +235,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 💬 Commented on [[FR]: Support OPIK_TRACK_DISABLE in Typescript SDK](https://github.com/comet-ml/opik) in `comet-ml/opik` <sub>(2026-06-10)</sub>
 
 💬 Commented on [[BUG/Help] <title>一加载python就崩溃](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-06-10)</sub>
-
-💬 Commented on [Proposal: dynamic/lazy resources/list (and directory-read) b](https://github.com/modelcontextprotocol/go-sdk) in `modelcontextprotocol/go-sdk` <sub>(2026-06-10)</sub>
-
-⭐ Starred `closedloop-ai/claude-plugins` <sub>(2026-06-10)</sub>
-
-⭐ Starred `athola/claude-night-market` <sub>(2026-06-10)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/935224bccf81cb6db2e8baa9fcd72930)** <sub>(2026-06-12)</sub>
+
 📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/815621cb954ccd6363bb76cfc7b7da8c)** <sub>(2026-06-09)</sub>
 
 📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/2eb92f11b2845695895621d23fa90105)** <sub>(2026-06-08)</sub>
-
-📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/3b4ab9fbbb3fec3930f48564a76b6e36)** <sub>(2026-06-07)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-10 20:39 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-12 20:18 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
