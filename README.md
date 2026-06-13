@@ -169,6 +169,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-retrieval-augmented-generation-rag-in-production.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-production.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Production"/>
+</a>
+
+**[Retrieval Augmented Generation Rag In Production](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-retrieval-augmented-generation-rag-in-production.md)**
+<br/><sub>2026-06-13</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-large-language-model-llm-fine-tuning-with-parame.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/large-language-model-llm-fine-tuning-with-parame.jpg" width="100%" alt="Large Language Model Llm Fine Tuning With Parame"/>
+</a>
+
+**[Large Language Model Llm Fine Tuning With Parame](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-large-language-model-llm-fine-tuning-with-parame.md)**
+<br/><sub>2026-06-13</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-10-real-world-applications-of-reinforcement-learning-.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-world-applications-of-reinforcement-learning-.jpg" width="100%" alt="Real World Applications Of Reinforcement Learning "/>
 </a>
@@ -188,28 +210,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-fine-tuning-open-source-llms-for-proprietary-use-c.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-open-source-llms-for-proprietary-use-c.jpg" width="100%" alt="Fine Tuning Open Source Llms For Proprietary Use C"/>
-</a>
-
-**[Fine Tuning Open Source Llms For Proprietary Use C](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-fine-tuning-open-source-llms-for-proprietary-use-c.md)**
-<br/><sub>2026-06-07</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-automated-evaluation-and-monitoring-of-llms-in-pro.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automated-evaluation-and-monitoring-of-llms-in-pro.jpg" width="100%" alt="Automated Evaluation And Monitoring Of Llms In Pro"/>
-</a>
-
-**[Automated Evaluation And Monitoring Of Llms In Pro](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-07-automated-evaluation-and-monitoring-of-llms-in-pro.md)**
-<br/><sub>2026-06-07</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Client.embed(texts=[]) raises IndexError instead of handling](https://github.com/cohere-ai/cohere-python) in `cohere-ai/cohere-python` <sub>(2026-06-12)</sub>
+💬 Commented on [[BUG] Quota exceed with just after just 7 prompt](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-06-13)</sub>
 
-💬 Commented on [Proposal: dynamic/lazy resources/list (and directory-read) b](https://github.com/modelcontextprotocol/go-sdk) in `modelcontextprotocol/go-sdk` <sub>(2026-06-12)</sub>
+💬 Commented on [Prompt verbalization collapses multi-digit object IDs (e.g.,](https://github.com/karthikv792/LLMs-Planning) in `karthikv792/LLMs-Planning` <sub>(2026-06-13)</sub>
 
-⭐ Starred `aws-samples/sample-genai-on-eks-starter-kit` <sub>(2026-06-12)</sub>
+💬 Commented on [最近很多新模型在toolcall / 代码生成等任务上表现优异，希望evalscope能集成更多相关数据集的支持](https://github.com/modelscope/evalscope) in `modelscope/evalscope` <sub>(2026-06-13)</sub>
 
-💬 Commented on [Feature request: use MCP tasks extension to stream ground_lo](https://github.com/mapbox/mcp-server) in `mapbox/mcp-server` <sub>(2026-06-10)</sub>
+💬 Commented on [Aligning content in slides view](https://github.com/marimo-team/marimo) in `marimo-team/marimo` <sub>(2026-06-13)</sub>
 
-💬 Commented on [AgentThreatBench: OWASP Agentic Top 10 benchmark for indirec](https://github.com/openai/evals) in `openai/evals` <sub>(2026-06-10)</sub>
+💬 Commented on [FAQ : About the sign of matrix A in mamba is different from ](https://github.com/state-spaces/mamba) in `state-spaces/mamba` <sub>(2026-06-13)</sub>
 
-💬 Commented on [OAuth-Based Authentication for Managed MLflow Backends](https://github.com/zenml-io/zenml) in `zenml-io/zenml` <sub>(2026-06-10)</sub>
+💬 Commented on [JUPYTER AI](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-06-13)</sub>
 
-💬 Commented on [[FR]: Support OPIK_TRACK_DISABLE in Typescript SDK](https://github.com/comet-ml/opik) in `comet-ml/opik` <sub>(2026-06-10)</sub>
+💬 Commented on [[Bug]: File and image cache keys collide because BufferedRea](https://github.com/zilliztech/GPTCache) in `zilliztech/GPTCache` <sub>(2026-06-13)</sub>
 
-💬 Commented on [[BUG/Help] <title>一加载python就崩溃](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-06-10)</sub>
+⭐ Starred `hoangsonww/End-to-End-Data-Pipeline` <sub>(2026-06-13)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,17 +244,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 AI Model Monitoring, Evaluation, and Automated Feedback Loops
+
+🔬 Retrieval-Augmented Generation (RAG) in Production Search and Chat Applications
+
+🔬 Large Language Model (LLM) Fine-Tuning with Parameter-Efficient Techniques
+
 🔬 Causal Inference and Discovery in Observational Data
 
 🔬 Real-World Applications of Reinforcement Learning from Human Feedback
 
 🔬 Real-Time Data Streams for ML Model Training
-
-🔬 Automated Evaluation and Monitoring of LLMs in Production
-
-🔬 Fine-Tuning Open-Source LLMs for Proprietary Use Cases
-
-🔬 Real-Time AI Inference Optimization
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/5120331a1c8ebe74130410810a202a4a)** <sub>(2026-06-13)</sub>
+
+📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/f5bafa997ad1f1e87ec3068da3b75d47)** <sub>(2026-06-13)</sub>
+
 📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/935224bccf81cb6db2e8baa9fcd72930)** <sub>(2026-06-12)</sub>
-
-📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/815621cb954ccd6363bb76cfc7b7da8c)** <sub>(2026-06-09)</sub>
-
-📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/2eb92f11b2845695895621d23fa90105)** <sub>(2026-06-08)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-12 20:18 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-13 19:45 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
