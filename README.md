@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[BUG] Quota exceed with just after just 7 prompt](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-06-13)</sub>
+💬 Commented on [Feature request: use MCP tasks extension to stream ground_lo](https://github.com/mapbox/mcp-server) in `mapbox/mcp-server` <sub>(2026-06-15)</sub>
 
-💬 Commented on [Prompt verbalization collapses multi-digit object IDs (e.g.,](https://github.com/karthikv792/LLMs-Planning) in `karthikv792/LLMs-Planning` <sub>(2026-06-13)</sub>
+💬 Commented on [[FR]: Support OPIK_TRACK_DISABLE in Typescript SDK](https://github.com/comet-ml/opik) in `comet-ml/opik` <sub>(2026-06-15)</sub>
 
-💬 Commented on [最近很多新模型在toolcall / 代码生成等任务上表现优异，希望evalscope能集成更多相关数据集的支持](https://github.com/modelscope/evalscope) in `modelscope/evalscope` <sub>(2026-06-13)</sub>
+💬 Commented on [Docs idea: annotation QA workflow using guidelines, suggesti](https://github.com/argilla-io/argilla) in `argilla-io/argilla` <sub>(2026-06-15)</sub>
 
-💬 Commented on [Aligning content in slides view](https://github.com/marimo-team/marimo) in `marimo-team/marimo` <sub>(2026-06-13)</sub>
+💬 Commented on [ci: streamline GitHub Actions test coverage and runtime](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-06-15)</sub>
 
-💬 Commented on [FAQ : About the sign of matrix A in mamba is different from ](https://github.com/state-spaces/mamba) in `state-spaces/mamba` <sub>(2026-06-13)</sub>
+💬 Commented on [XLA tf.cast from finite out-of-range float32 to uint8 differ](https://github.com/tensorflow/tensorflow) in `tensorflow/tensorflow` <sub>(2026-06-15)</sub>
 
-💬 Commented on [JUPYTER AI](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-06-13)</sub>
+💬 Commented on [Embedding Process Extremely Slow on Online Demo](https://github.com/facebookresearch/segment-anything) in `facebookresearch/segment-anything` <sub>(2026-06-15)</sub>
 
-💬 Commented on [[Bug]: File and image cache keys collide because BufferedRea](https://github.com/zilliztech/GPTCache) in `zilliztech/GPTCache` <sub>(2026-06-13)</sub>
+💬 Commented on [[Bug]: [Benchmark][Cluster] Collection load remains at 50% a](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-06-15)</sub>
 
-⭐ Starred `hoangsonww/End-to-End-Data-Pipeline` <sub>(2026-06-13)</sub>
+⭐ Starred `marckohlbrugge/37signals-skills` <sub>(2026-06-15)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/d18a68c8202cd6566cd6054763e5e5b5)** <sub>(2026-06-15)</sub>
+
 📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/5120331a1c8ebe74130410810a202a4a)** <sub>(2026-06-13)</sub>
 
 📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/f5bafa997ad1f1e87ec3068da3b75d47)** <sub>(2026-06-13)</sub>
-
-📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/935224bccf81cb6db2e8baa9fcd72930)** <sub>(2026-06-12)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-13 19:45 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-15 17:28 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
