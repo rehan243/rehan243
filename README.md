@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Feature request: use MCP tasks extension to stream ground_lo](https://github.com/mapbox/mcp-server) in `mapbox/mcp-server` <sub>(2026-06-15)</sub>
+💬 Commented on [[Bug]: MiniMax-M3-MXFP8 hangs on FlashInfer MNNVL all-reduce](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-06-16)</sub>
 
-💬 Commented on [[FR]: Support OPIK_TRACK_DISABLE in Typescript SDK](https://github.com/comet-ml/opik) in `comet-ml/opik` <sub>(2026-06-15)</sub>
+💬 Commented on [ci: streamline GitHub Actions test coverage and runtime](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-06-16)</sub>
 
-💬 Commented on [Docs idea: annotation QA workflow using guidelines, suggesti](https://github.com/argilla-io/argilla) in `argilla-io/argilla` <sub>(2026-06-15)</sub>
+💬 Commented on [[Bug]: Artifact integrity report follows security policy](https://github.com/wandb/wandb) in `wandb/wandb` <sub>(2026-06-16)</sub>
 
-💬 Commented on [ci: streamline GitHub Actions test coverage and runtime](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-06-15)</sub>
+💬 Commented on [bug: async delete_all race condition corrupts entity store l](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-06-16)</sub>
 
-💬 Commented on [XLA tf.cast from finite out-of-range float32 to uint8 differ](https://github.com/tensorflow/tensorflow) in `tensorflow/tensorflow` <sub>(2026-06-15)</sub>
+💬 Commented on [Community Case Study: Structured constraints improve code ge](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-06-16)</sub>
 
-💬 Commented on [Embedding Process Extremely Slow on Online Demo](https://github.com/facebookresearch/segment-anything) in `facebookresearch/segment-anything` <sub>(2026-06-15)</sub>
+💬 Commented on [[provider-mapping-sweep] cohere: prompt-cache hit count (usa](https://github.com/pydantic/pydantic-ai) in `pydantic/pydantic-ai` <sub>(2026-06-16)</sub>
 
-💬 Commented on [[Bug]: [Benchmark][Cluster] Collection load remains at 50% a](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-06-15)</sub>
+💬 Commented on [API-key (Bearer) auth still depends on Keycloak offline sess](https://github.com/OpenHands/OpenHands) in `OpenHands/OpenHands` <sub>(2026-06-16)</sub>
 
-⭐ Starred `marckohlbrugge/37signals-skills` <sub>(2026-06-15)</sub>
+💬 Commented on [First-party Agent Skills support in langchain (without depen](https://github.com/langchain-ai/langchain) in `langchain-ai/langchain` <sub>(2026-06-16)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/689ad0560ab858e3627879eb426b5290)** <sub>(2026-06-16)</sub>
+
+📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/5b906793c8f7a29f7e0dce92682688fa)** <sub>(2026-06-16)</sub>
+
 📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/d18a68c8202cd6566cd6054763e5e5b5)** <sub>(2026-06-15)</sub>
-
-📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/5120331a1c8ebe74130410810a202a4a)** <sub>(2026-06-13)</sub>
-
-📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/f5bafa997ad1f1e87ec3068da3b75d47)** <sub>(2026-06-13)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-15 17:28 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-16 17:15 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
