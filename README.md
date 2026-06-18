@@ -220,6 +220,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `pprp/Awesome-Efficient-MoE` <sub>(2026-06-18)</sub>
+
 💬 Commented on [bug: async delete_all race condition corrupts entity store l](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-06-17)</sub>
 
 💬 Commented on [Feature request: Add LEMUR: Learned Multi-Vector Retrieval](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-06-17)</sub>
@@ -233,8 +235,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 💬 Commented on [The dbt integration treats all non-"success" statuses as fai](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-06-17)</sub>
 
 💬 Commented on [Integration: cowork-to-code-bridge for local Claude Code exe](https://github.com/Significant-Gravitas/AutoGPT) in `Significant-Gravitas/AutoGPT` <sub>(2026-06-17)</sub>
-
-💬 Commented on [Feature Request: DSA/DSv4 Indexer Replay for RL](https://github.com/NVIDIA/Megatron-LM) in `NVIDIA/Megatron-LM` <sub>(2026-06-17)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/f9b625dd731269530abe11fe0f0db919)** <sub>(2026-06-18)</sub>
+
 📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/4dd1f1c2729bc0a2d61aca4802fde8a4)** <sub>(2026-06-17)</sub>
 
 📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/59acb0d000c6fff98fdd4d05e929a48e)** <sub>(2026-06-17)</sub>
-
-📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/689ad0560ab858e3627879eb426b5290)** <sub>(2026-06-16)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-17 20:22 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-18 20:33 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
