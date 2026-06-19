@@ -220,6 +220,14 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `hexo-ai/sia` <sub>(2026-06-19)</sub>
+
+⭐ Starred `microsoft/agent-governance-toolkit` <sub>(2026-06-19)</sub>
+
+⭐ Starred `UrsushoribilisMusic/agentic-fleet-hub` <sub>(2026-06-19)</sub>
+
+⭐ Starred `TONresistor/teleton-agent` <sub>(2026-06-19)</sub>
+
 ⭐ Starred `pprp/Awesome-Efficient-MoE` <sub>(2026-06-18)</sub>
 
 💬 Commented on [bug: async delete_all race condition corrupts entity store l](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-06-17)</sub>
@@ -227,14 +235,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 💬 Commented on [Feature request: Add LEMUR: Learned Multi-Vector Retrieval](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-06-17)</sub>
 
 💬 Commented on [[Bug]: MiniMax-M3-MXFP8 hangs on FlashInfer MNNVL all-reduce](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-06-17)</sub>
-
-💬 Commented on [Feature Proposal: Add FunASR as Self-Hosted STT Connector](https://github.com/microsoft/semantic-kernel) in `microsoft/semantic-kernel` <sub>(2026-06-17)</sub>
-
-💬 Commented on [[Feature request] support passing metadata headers for S3 ob](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-06-17)</sub>
-
-💬 Commented on [The dbt integration treats all non-"success" statuses as fai](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-06-17)</sub>
-
-💬 Commented on [Integration: cowork-to-code-bridge for local Claude Code exe](https://github.com/Significant-Gravitas/AutoGPT) in `Significant-Gravitas/AutoGPT` <sub>(2026-06-17)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -271,7 +271,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-18 20:33 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-19 19:56 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
