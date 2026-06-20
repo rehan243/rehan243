@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-20-automl-for-tabular-data.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-tabular-data.jpg" width="100%" alt="Automl For Tabular Data"/>
+</a>
+
+**[Automl For Tabular Data](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-20-automl-for-tabular-data.md)**
+<br/><sub>2026-06-20</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-retrieval-augmented-generation-rag-in-production.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-production.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Production"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-13</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-large-language-model-llm-fine-tuning-with-parame.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-13</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-10-real-world-applications-of-reinforcement-learning-.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Real World Applications Of Reinforcement Learning ](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-10-real-world-applications-of-reinforcement-learning-.md)**
 <br/><sub>2026-06-10</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-09-real-time-data-streams-for-ml-model-training.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-data-streams-for-ml-model-training.jpg" width="100%" alt="Real Time Data Streams For Ml Model Training"/>
-</a>
-
-**[Real Time Data Streams For Ml Model Training](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-09-real-time-data-streams-for-ml-model-training.md)**
-<br/><sub>2026-06-09</sub>
 
 </td>
 </tr>
@@ -220,6 +220,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `OpenTracy/OpenTracy` <sub>(2026-06-20)</sub>
+
+⭐ Starred `mindsdb/anton` <sub>(2026-06-20)</sub>
+
 ⭐ Starred `hexo-ai/sia` <sub>(2026-06-19)</sub>
 
 ⭐ Starred `microsoft/agent-governance-toolkit` <sub>(2026-06-19)</sub>
@@ -231,10 +235,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `pprp/Awesome-Efficient-MoE` <sub>(2026-06-18)</sub>
 
 💬 Commented on [bug: async delete_all race condition corrupts entity store l](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-06-17)</sub>
-
-💬 Commented on [Feature request: Add LEMUR: Learned Multi-Vector Retrieval](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-06-17)</sub>
-
-💬 Commented on [[Bug]: MiniMax-M3-MXFP8 hangs on FlashInfer MNNVL all-reduce](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-06-17)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 AutoML for Tabular Data
+
 🔬 AI Model Monitoring, Evaluation, and Automated Feedback Loops
 
 🔬 Retrieval-Augmented Generation (RAG) in Production Search and Chat Applications
@@ -253,8 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Causal Inference and Discovery in Observational Data
 
 🔬 Real-World Applications of Reinforcement Learning from Human Feedback
-
-🔬 Real-Time Data Streams for ML Model Training
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/ace375fdb6291fba33d6693f3cf13396)** <sub>(2026-06-20)</sub>
+
 📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/f9b625dd731269530abe11fe0f0db919)** <sub>(2026-06-18)</sub>
 
 📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/4dd1f1c2729bc0a2d61aca4802fde8a4)** <sub>(2026-06-17)</sub>
-
-📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/59acb0d000c6fff98fdd4d05e929a48e)** <sub>(2026-06-17)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-19 19:56 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-20 19:45 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
