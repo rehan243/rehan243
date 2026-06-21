@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-21-explainable-ai-for-model-debugging-and-trust.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainable-ai-for-model-debugging-and-trust.jpg" width="100%" alt="Explainable Ai For Model Debugging And Trust"/>
+</a>
+
+**[Explainable Ai For Model Debugging And Trust](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-21-explainable-ai-for-model-debugging-and-trust.md)**
+<br/><sub>2026-06-21</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-20-automl-for-tabular-data.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-tabular-data.jpg" width="100%" alt="Automl For Tabular Data"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-20</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-retrieval-augmented-generation-rag-in-production.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-13</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-large-language-model-llm-fine-tuning-with-parame.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Large Language Model Llm Fine Tuning With Parame](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-large-language-model-llm-fine-tuning-with-parame.md)**
 <br/><sub>2026-06-13</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-10-real-world-applications-of-reinforcement-learning-.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-world-applications-of-reinforcement-learning-.jpg" width="100%" alt="Real World Applications Of Reinforcement Learning "/>
-</a>
-
-**[Real World Applications Of Reinforcement Learning ](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-10-real-world-applications-of-reinforcement-learning-.md)**
-<br/><sub>2026-06-10</sub>
 
 </td>
 </tr>
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Synthetic Data Generation for Rare Events
+
+🔬 Explainable AI for Model Debugging and Trust
+
 🔬 AutoML for Tabular Data
 
 🔬 AI Model Monitoring, Evaluation, and Automated Feedback Loops
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Retrieval-Augmented Generation (RAG) in Production Search and Chat Applications
 
 🔬 Large Language Model (LLM) Fine-Tuning with Parameter-Efficient Techniques
-
-🔬 Causal Inference and Discovery in Observational Data
-
-🔬 Real-World Applications of Reinforcement Learning from Human Feedback
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/fcf59b026cae887fd563d5c89a9f75d1)** <sub>(2026-06-21)</sub>
+
 📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/ace375fdb6291fba33d6693f3cf13396)** <sub>(2026-06-20)</sub>
 
 📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/f9b625dd731269530abe11fe0f0db919)** <sub>(2026-06-18)</sub>
-
-📌 **[Data Drift Detector using KS-Test — Production Pattern (Python)](https://gist.github.com/rehan243/4dd1f1c2729bc0a2d61aca4802fde8a4)** <sub>(2026-06-17)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-20 19:45 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-21 19:52 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
