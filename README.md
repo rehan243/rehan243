@@ -233,8 +233,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `TONresistor/teleton-agent` <sub>(2026-06-19)</sub>
 
 ⭐ Starred `pprp/Awesome-Efficient-MoE` <sub>(2026-06-18)</sub>
-
-💬 Commented on [bug: async delete_all race condition corrupts entity store l](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-06-17)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +260,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/0d0e39e4da6a61d900b8176fc313dc6c)** <sub>(2026-06-22)</sub>
+
 📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/fcf59b026cae887fd563d5c89a9f75d1)** <sub>(2026-06-21)</sub>
 
 📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/ace375fdb6291fba33d6693f3cf13396)** <sub>(2026-06-20)</sub>
-
-📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/f9b625dd731269530abe11fe0f0db919)** <sub>(2026-06-18)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-21 19:52 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-22 17:10 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
