@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-23-fine-tuning-large-language-models-for-real-time-re.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-large-language-models-for-real-time-re.jpg" width="100%" alt="Fine Tuning Large Language Models For Real Time Re"/>
+</a>
+
+**[Fine Tuning Large Language Models For Real Time Re](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-23-fine-tuning-large-language-models-for-real-time-re.md)**
+<br/><sub>2026-06-23</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-21-explainable-ai-for-model-debugging-and-trust.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainable-ai-for-model-debugging-and-trust.jpg" width="100%" alt="Explainable Ai For Model Debugging And Trust"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-21</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-20-automl-for-tabular-data.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-20</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-retrieval-augmented-generation-rag-in-production.md">
@@ -196,16 +206,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 </a>
 
 **[Retrieval Augmented Generation Rag In Production](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-retrieval-augmented-generation-rag-in-production.md)**
-<br/><sub>2026-06-13</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-large-language-model-llm-fine-tuning-with-parame.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/large-language-model-llm-fine-tuning-with-parame.jpg" width="100%" alt="Large Language Model Llm Fine Tuning With Parame"/>
-</a>
-
-**[Large Language Model Llm Fine Tuning With Parame](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-large-language-model-llm-fine-tuning-with-parame.md)**
 <br/><sub>2026-06-13</sub>
 
 </td>
@@ -220,19 +220,13 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `DBC-Lab/Brain_MRI_Enhancement` <sub>(2026-06-23)</sub>
+
+⭐ Starred `PrismorSec/immunity-agent` <sub>(2026-06-20)</sub>
+
 ⭐ Starred `OpenTracy/OpenTracy` <sub>(2026-06-20)</sub>
 
 ⭐ Starred `mindsdb/anton` <sub>(2026-06-20)</sub>
-
-⭐ Starred `hexo-ai/sia` <sub>(2026-06-19)</sub>
-
-⭐ Starred `microsoft/agent-governance-toolkit` <sub>(2026-06-19)</sub>
-
-⭐ Starred `UrsushoribilisMusic/agentic-fleet-hub` <sub>(2026-06-19)</sub>
-
-⭐ Starred `TONresistor/teleton-agent` <sub>(2026-06-19)</sub>
-
-⭐ Starred `pprp/Awesome-Efficient-MoE` <sub>(2026-06-18)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -242,17 +236,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Optimizing On-Device AI with Quantization and Distillation for Edge Deployment
+
+🔬 Multi-Agent AI Systems for Automated Decision-Making
+
+🔬 Fine-Tuning Large Language Models for Real-Time Retrieval-Augmented Generation
+
 🔬 Synthetic Data Generation for Rare Events
 
 🔬 Explainable AI for Model Debugging and Trust
 
 🔬 AutoML for Tabular Data
-
-🔬 AI Model Monitoring, Evaluation, and Automated Feedback Loops
-
-🔬 Retrieval-Augmented Generation (RAG) in Production Search and Chat Applications
-
-🔬 Large Language Model (LLM) Fine-Tuning with Parameter-Efficient Techniques
 <!-- RESEARCH_END -->
 
 ---
@@ -260,16 +254,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/191eb4b170f460812d911653dfb2e03b)** <sub>(2026-06-23)</sub>
+
 📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/0d0e39e4da6a61d900b8176fc313dc6c)** <sub>(2026-06-22)</sub>
 
 📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/fcf59b026cae887fd563d5c89a9f75d1)** <sub>(2026-06-21)</sub>
-
-📌 **[Streaming JSON Parser for Large Language Models — Production Pattern (Python)](https://gist.github.com/rehan243/ace375fdb6291fba33d6693f3cf13396)** <sub>(2026-06-20)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-22 17:10 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-23 20:15 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
