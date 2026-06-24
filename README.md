@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-24-real-time-time-series-forecasting-with-streaming-d.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-time-series-forecasting-with-streaming-d.jpg" width="100%" alt="Real Time Time Series Forecasting With Streaming D"/>
+</a>
+
+**[Real Time Time Series Forecasting With Streaming D](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-24-real-time-time-series-forecasting-with-streaming-d.md)**
+<br/><sub>2026-06-24</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-23-fine-tuning-large-language-models-for-real-time-re.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-large-language-models-for-real-time-re.jpg" width="100%" alt="Fine Tuning Large Language Models For Real Time Re"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-23</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-21-explainable-ai-for-model-debugging-and-trust.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-21</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-20-automl-for-tabular-data.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Automl For Tabular Data](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-20-automl-for-tabular-data.md)**
 <br/><sub>2026-06-20</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-retrieval-augmented-generation-rag-in-production.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-in-production.jpg" width="100%" alt="Retrieval Augmented Generation Rag In Production"/>
-</a>
-
-**[Retrieval Augmented Generation Rag In Production](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-13-retrieval-augmented-generation-rag-in-production.md)**
-<br/><sub>2026-06-13</sub>
 
 </td>
 </tr>
@@ -220,13 +220,13 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `THUIR/MemoryBench` <sub>(2026-06-24)</sub>
+
+⭐ Starred `verifywise-ai/verifywise` <sub>(2026-06-24)</sub>
+
 ⭐ Starred `DBC-Lab/Brain_MRI_Enhancement` <sub>(2026-06-23)</sub>
 
 ⭐ Starred `PrismorSec/immunity-agent` <sub>(2026-06-20)</sub>
-
-⭐ Starred `OpenTracy/OpenTracy` <sub>(2026-06-20)</sub>
-
-⭐ Starred `mindsdb/anton` <sub>(2026-06-20)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -236,6 +236,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Real-Time Time Series Forecasting with Streaming Data
+
 🔬 Optimizing On-Device AI with Quantization and Distillation for Edge Deployment
 
 🔬 Multi-Agent AI Systems for Automated Decision-Making
@@ -245,8 +247,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Synthetic Data Generation for Rare Events
 
 🔬 Explainable AI for Model Debugging and Trust
-
-🔬 AutoML for Tabular Data
 <!-- RESEARCH_END -->
 
 ---
@@ -263,7 +263,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-23 20:15 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-24 19:56 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
