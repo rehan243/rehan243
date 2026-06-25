@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-25-retrieval-augmented-generation-rag-with-streamin.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-with-streamin.jpg" width="100%" alt="Retrieval Augmented Generation Rag With Streamin"/>
+</a>
+
+**[Retrieval Augmented Generation Rag With Streamin](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-25-retrieval-augmented-generation-rag-with-streamin.md)**
+<br/><sub>2026-06-25</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-24-real-time-time-series-forecasting-with-streaming-d.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-time-series-forecasting-with-streaming-d.jpg" width="100%" alt="Real Time Time Series Forecasting With Streaming D"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-24</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-23-fine-tuning-large-language-models-for-real-time-re.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-23</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-21-explainable-ai-for-model-debugging-and-trust.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Explainable Ai For Model Debugging And Trust](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-21-explainable-ai-for-model-debugging-and-trust.md)**
 <br/><sub>2026-06-21</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-20-automl-for-tabular-data.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-tabular-data.jpg" width="100%" alt="Automl For Tabular Data"/>
-</a>
-
-**[Automl For Tabular Data](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-20-automl-for-tabular-data.md)**
-<br/><sub>2026-06-20</sub>
 
 </td>
 </tr>
@@ -220,13 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-⭐ Starred `THUIR/MemoryBench` <sub>(2026-06-24)</sub>
+💬 Commented on [[data] Autoscaler uses raw ExecutionResources , causing asse](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-06-25)</sub>
 
-⭐ Starred `verifywise-ai/verifywise` <sub>(2026-06-24)</sub>
+💬 Commented on [Qwen3‑VL on‑policy KD silently trains "blind" with sglang 0.](https://github.com/songmzhang/KDFlow) in `songmzhang/KDFlow` <sub>(2026-06-18)</sub>
 
-⭐ Starred `DBC-Lab/Brain_MRI_Enhancement` <sub>(2026-06-23)</sub>
+💬 Commented on [Compile bug: out-of-tree build fails to provision UI assets:](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-06-18)</sub>
 
-⭐ Starred `PrismorSec/immunity-agent` <sub>(2026-06-20)</sub>
+💬 Commented on [LoRAs not being loaded from the bucket](https://github.com/modal-labs/modal-examples) in `modal-labs/modal-examples` <sub>(2026-06-18)</sub>
+
+💬 Commented on [Mamba 3 - JIT compiles, but Mamba_ssm uses lower-level cache](https://github.com/state-spaces/mamba) in `state-spaces/mamba` <sub>(2026-06-18)</sub>
+
+💬 Commented on [BUG: IndexError in IODescriptor.from_output() with bare (unp](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-06-18)</sub>
+
+⭐ Starred `withkynam/vibecode-pro-max-kit` <sub>(2026-06-20)</sub>
+
+⭐ Starred `surrealdb/kaig` <sub>(2026-06-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -236,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning LLMs with Parameter-Efficient Methods (LoRA/QLoRA) at Scale
+
+🔬 Retrieval-Augmented Generation (RAG) with Streaming Data
+
 🔬 Real-Time Time Series Forecasting with Streaming Data
 
 🔬 Optimizing On-Device AI with Quantization and Distillation for Edge Deployment
@@ -243,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Multi-Agent AI Systems for Automated Decision-Making
 
 🔬 Fine-Tuning Large Language Models for Real-Time Retrieval-Augmented Generation
-
-🔬 Synthetic Data Generation for Rare Events
-
-🔬 Explainable AI for Model Debugging and Trust
 <!-- RESEARCH_END -->
 
 ---
@@ -254,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/a7f6327ba2a69674cde65cebd8e40aee)** <sub>(2026-06-25)</sub>
+
 📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/191eb4b170f460812d911653dfb2e03b)** <sub>(2026-06-23)</sub>
 
 📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/0d0e39e4da6a61d900b8176fc313dc6c)** <sub>(2026-06-22)</sub>
-
-📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/fcf59b026cae887fd563d5c89a9f75d1)** <sub>(2026-06-21)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-24 19:56 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-25 20:08 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
