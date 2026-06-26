@@ -169,6 +169,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-26-real-time-data-quality-monitoring-for-ml-systems.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-data-quality-monitoring-for-ml-systems.jpg" width="100%" alt="Real Time Data Quality Monitoring For Ml Systems"/>
+</a>
+
+**[Real Time Data Quality Monitoring For Ml Systems](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-26-real-time-data-quality-monitoring-for-ml-systems.md)**
+<br/><sub>2026-06-26</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-26-automl-for-complex-high-dimensional-data.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automl-for-complex-high-dimensional-data.jpg" width="100%" alt="Automl For Complex High Dimensional Data"/>
+</a>
+
+**[Automl For Complex High Dimensional Data](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-26-automl-for-complex-high-dimensional-data.md)**
+<br/><sub>2026-06-26</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-25-retrieval-augmented-generation-rag-with-streamin.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-with-streamin.jpg" width="100%" alt="Retrieval Augmented Generation Rag With Streamin"/>
 </a>
@@ -188,28 +210,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-23-fine-tuning-large-language-models-for-real-time-re.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-large-language-models-for-real-time-re.jpg" width="100%" alt="Fine Tuning Large Language Models For Real Time Re"/>
-</a>
-
-**[Fine Tuning Large Language Models For Real Time Re](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-23-fine-tuning-large-language-models-for-real-time-re.md)**
-<br/><sub>2026-06-23</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-21-explainable-ai-for-model-debugging-and-trust.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/explainable-ai-for-model-debugging-and-trust.jpg" width="100%" alt="Explainable Ai For Model Debugging And Trust"/>
-</a>
-
-**[Explainable Ai For Model Debugging And Trust](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-21-explainable-ai-for-model-debugging-and-trust.md)**
-<br/><sub>2026-06-21</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [🧠 [Research] Fundamental Equation of Consciousness: Ψ = argm](https://github.com/Stability-AI/generative-models) in `Stability-AI/generative-models` <sub>(2026-06-26)</sub>
+
+💬 Commented on [[BUG] <Technical Issue Report: Qwen Model Recommends Physica](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-06-26)</sub>
+
+💬 Commented on [本地部署深求v4 pro的1.6万亿参数. 祝大家创业成功!](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-06-26)</sub>
+
+💬 Commented on [[BUG] @mlflow/opencode traces are logged but session metadat](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-06-26)</sub>
+
+💬 Commented on [feature: OpenAI tools param support for non-passthrough guar](https://github.com/NVIDIA-NeMo/Guardrails) in `NVIDIA-NeMo/Guardrails` <sub>(2026-06-26)</sub>
+
+💬 Commented on [Face Swap Workflow Not Working (Yolov10m not working)](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-06-26)</sub>
+
 💬 Commented on [[data] Autoscaler uses raw ExecutionResources , causing asse](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-06-25)</sub>
 
 💬 Commented on [Qwen3‑VL on‑policy KD silently trains "blind" with sglang 0.](https://github.com/songmzhang/KDFlow) in `songmzhang/KDFlow` <sub>(2026-06-18)</sub>
-
-💬 Commented on [Compile bug: out-of-tree build fails to provision UI assets:](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-06-18)</sub>
-
-💬 Commented on [LoRAs not being loaded from the bucket](https://github.com/modal-labs/modal-examples) in `modal-labs/modal-examples` <sub>(2026-06-18)</sub>
-
-💬 Commented on [Mamba 3 - JIT compiles, but Mamba_ssm uses lower-level cache](https://github.com/state-spaces/mamba) in `state-spaces/mamba` <sub>(2026-06-18)</sub>
-
-💬 Commented on [BUG: IndexError in IODescriptor.from_output() with bare (unp](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-06-18)</sub>
-
-⭐ Starred `withkynam/vibecode-pro-max-kit` <sub>(2026-06-20)</sub>
-
-⭐ Starred `surrealdb/kaig` <sub>(2026-06-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 AutoML for Complex, High-Dimensional Data
+
+🔬 Real-Time Data Quality Monitoring for ML Systems
+
 🔬 Fine-Tuning LLMs with Parameter-Efficient Methods (LoRA/QLoRA) at Scale
 
 🔬 Retrieval-Augmented Generation (RAG) with Streaming Data
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Real-Time Time Series Forecasting with Streaming Data
 
 🔬 Optimizing On-Device AI with Quantization and Distillation for Edge Deployment
-
-🔬 Multi-Agent AI Systems for Automated Decision-Making
-
-🔬 Fine-Tuning Large Language Models for Real-Time Retrieval-Augmented Generation
 <!-- RESEARCH_END -->
 
 ---
@@ -271,7 +271,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-25 20:08 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-26 19:57 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
