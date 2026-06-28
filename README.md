@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-28-automated-machine-learning-automl-for-time-serie.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/automated-machine-learning-automl-for-time-serie.jpg" width="100%" alt="Automated Machine Learning Automl For Time Serie"/>
+</a>
+
+**[Automated Machine Learning Automl For Time Serie](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-28-automated-machine-learning-automl-for-time-serie.md)**
+<br/><sub>2026-06-28</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-26-real-time-data-quality-monitoring-for-ml-systems.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-data-quality-monitoring-for-ml-systems.jpg" width="100%" alt="Real Time Data Quality Monitoring For Ml Systems"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-26</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-26-automl-for-complex-high-dimensional-data.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-06-26</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-25-retrieval-augmented-generation-rag-with-streamin.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Retrieval Augmented Generation Rag With Streamin](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-25-retrieval-augmented-generation-rag-with-streamin.md)**
 <br/><sub>2026-06-25</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-24-real-time-time-series-forecasting-with-streaming-d.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-time-series-forecasting-with-streaming-d.jpg" width="100%" alt="Real Time Time Series Forecasting With Streaming D"/>
-</a>
-
-**[Real Time Time Series Forecasting With Streaming D](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-24-real-time-time-series-forecasting-with-streaming-d.md)**
-<br/><sub>2026-06-24</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [🧠 [Research] Fundamental Equation of Consciousness: Ψ = argm](https://github.com/Stability-AI/generative-models) in `Stability-AI/generative-models` <sub>(2026-06-26)</sub>
+💬 Commented on [[Bug/Performance] High CPU and low GPU utilization on Window](https://github.com/ollama/ollama) in `ollama/ollama` <sub>(2026-06-28)</sub>
 
-💬 Commented on [[BUG] <Technical Issue Report: Qwen Model Recommends Physica](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-06-26)</sub>
+💬 Commented on [Face Swap Workflow Not Working (Yolov10m not working)](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-06-28)</sub>
 
-💬 Commented on [本地部署深求v4 pro的1.6万亿参数. 祝大家创业成功!](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-06-26)</sub>
+💬 Commented on [Invisible reasoning with Ornith-1.0-35B + /v1/responses](https://github.com/jundot/omlx) in `jundot/omlx` <sub>(2026-06-28)</sub>
 
-💬 Commented on [[BUG] @mlflow/opencode traces are logged but session metadat](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-06-26)</sub>
+💬 Commented on [Feature request: Profile-aware prompt router with ML-backed ](https://github.com/langchain-ai/langchain) in `langchain-ai/langchain` <sub>(2026-06-28)</sub>
 
-💬 Commented on [feature: OpenAI tools param support for non-passthrough guar](https://github.com/NVIDIA-NeMo/Guardrails) in `NVIDIA-NeMo/Guardrails` <sub>(2026-06-26)</sub>
+💬 Commented on [在创建一个新的本地模型到xinference web Ui 界面进行启动的时候会报错误启动不了](https://github.com/xorbitsai/inference) in `xorbitsai/inference` <sub>(2026-06-28)</sub>
 
-💬 Commented on [Face Swap Workflow Not Working (Yolov10m not working)](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-06-26)</sub>
+💬 Commented on [[Feature] Optional: add an HVTracker trust badge to the READ](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-06-28)</sub>
 
-💬 Commented on [[data] Autoscaler uses raw ExecutionResources , causing asse](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-06-25)</sub>
+💬 Commented on [Requires newer version of Codex.](https://github.com/openinterpreter/openinterpreter) in `openinterpreter/openinterpreter` <sub>(2026-06-28)</sub>
 
-💬 Commented on [Qwen3‑VL on‑policy KD silently trains "blind" with sglang 0.](https://github.com/songmzhang/KDFlow) in `songmzhang/KDFlow` <sub>(2026-06-18)</sub>
+⭐ Starred `Xnhyacinth/Awesome-LLM-Long-Context-Modeling` <sub>(2026-06-28)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Automated Machine Learning (AutoML) for Time Series Forecasting
+
 🔬 AutoML for Complex, High-Dimensional Data
 
 🔬 Real-Time Data Quality Monitoring for ML Systems
@@ -253,8 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Retrieval-Augmented Generation (RAG) with Streaming Data
 
 🔬 Real-Time Time Series Forecasting with Streaming Data
-
-🔬 Optimizing On-Device AI with Quantization and Distillation for Edge Deployment
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/9808b96ff80ebc5938d5515d1819c195)** <sub>(2026-06-28)</sub>
+
+📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/e5f0656cfc7acda70d0b043354a063bd)** <sub>(2026-06-28)</sub>
+
 📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/a7f6327ba2a69674cde65cebd8e40aee)** <sub>(2026-06-25)</sub>
-
-📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/191eb4b170f460812d911653dfb2e03b)** <sub>(2026-06-23)</sub>
-
-📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/0d0e39e4da6a61d900b8176fc313dc6c)** <sub>(2026-06-22)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-26 19:57 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-28 19:29 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
