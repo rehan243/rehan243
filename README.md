@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [bug: request barging on sync @bentoml.api endpoints after tr](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-06-29)</sub>
+
+💬 Commented on [[Bug]: Auth handshake returns fatal 403 "This organization h](https://github.com/anthropics/anthropic-sdk-python) in `anthropics/anthropic-sdk-python` <sub>(2026-06-29)</sub>
+
+💬 Commented on [Invisible reasoning with Ornith-1.0-35B + /v1/responses](https://github.com/jundot/omlx) in `jundot/omlx` <sub>(2026-06-29)</sub>
+
+💬 Commented on [The huge training speed difference between YOLO polygon form](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-29)</sub>
+
+💬 Commented on [Cross-platform collaboration: AgentPub <-> crewAI](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-29)</sub>
+
+💬 Commented on [Investigate whether self-check tasks should use config-level](https://github.com/NVIDIA-NeMo/Guardrails) in `NVIDIA-NeMo/Guardrails` <sub>(2026-06-29)</sub>
+
+💬 Commented on [Add support for 2026.1](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-06-29)</sub>
+
 💬 Commented on [[Bug/Performance] High CPU and low GPU utilization on Window](https://github.com/ollama/ollama) in `ollama/ollama` <sub>(2026-06-28)</sub>
-
-💬 Commented on [Face Swap Workflow Not Working (Yolov10m not working)](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-06-28)</sub>
-
-💬 Commented on [Invisible reasoning with Ornith-1.0-35B + /v1/responses](https://github.com/jundot/omlx) in `jundot/omlx` <sub>(2026-06-28)</sub>
-
-💬 Commented on [Feature request: Profile-aware prompt router with ML-backed ](https://github.com/langchain-ai/langchain) in `langchain-ai/langchain` <sub>(2026-06-28)</sub>
-
-💬 Commented on [在创建一个新的本地模型到xinference web Ui 界面进行启动的时候会报错误启动不了](https://github.com/xorbitsai/inference) in `xorbitsai/inference` <sub>(2026-06-28)</sub>
-
-💬 Commented on [[Feature] Optional: add an HVTracker trust badge to the READ](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-06-28)</sub>
-
-💬 Commented on [Requires newer version of Codex.](https://github.com/openinterpreter/openinterpreter) in `openinterpreter/openinterpreter` <sub>(2026-06-28)</sub>
-
-⭐ Starred `Xnhyacinth/Awesome-LLM-Long-Context-Modeling` <sub>(2026-06-28)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/b52d778e931a2ffed1c5dcfe424d5cb4)** <sub>(2026-06-29)</sub>
+
+📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/e614a3d89a58f4b5f0e8f99e05e7b364)** <sub>(2026-06-29)</sub>
+
 📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/9808b96ff80ebc5938d5515d1819c195)** <sub>(2026-06-28)</sub>
-
-📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/e5f0656cfc7acda70d0b043354a063bd)** <sub>(2026-06-28)</sub>
-
-📌 **[Embedding Cache with LRU Eviction — Production Pattern (Python)](https://gist.github.com/rehan243/a7f6327ba2a69674cde65cebd8e40aee)** <sub>(2026-06-25)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-28 19:29 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-06-29 16:05 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
