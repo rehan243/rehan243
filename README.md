@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [bug: request barging on sync @bentoml.api endpoints after tr](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-06-29)</sub>
+💬 Commented on [bug: request barging on sync @bentoml.api endpoints after tr](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-07-01)</sub>
 
-💬 Commented on [[Bug]: Auth handshake returns fatal 403 "This organization h](https://github.com/anthropics/anthropic-sdk-python) in `anthropics/anthropic-sdk-python` <sub>(2026-06-29)</sub>
+💬 Commented on [The huge training speed difference between YOLO polygon form](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-07-01)</sub>
 
-💬 Commented on [Invisible reasoning with Ornith-1.0-35B + /v1/responses](https://github.com/jundot/omlx) in `jundot/omlx` <sub>(2026-06-29)</sub>
+💬 Commented on [Memory backend: Dakera — decay-weighted persistent memory fo](https://github.com/Significant-Gravitas/AutoGPT) in `Significant-Gravitas/AutoGPT` <sub>(2026-07-01)</sub>
 
-💬 Commented on [The huge training speed difference between YOLO polygon form](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-06-29)</sub>
+💬 Commented on [[provider-parity-explore] Provider parity: builtin tools — G](https://github.com/pydantic/pydantic-ai) in `pydantic/pydantic-ai` <sub>(2026-07-01)</sub>
 
-💬 Commented on [Cross-platform collaboration: AgentPub <-> crewAI](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-06-29)</sub>
+💬 Commented on [feat: Add guidance_dakera — persistent memory integration (3](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-07-01)</sub>
 
-💬 Commented on [Investigate whether self-check tasks should use config-level](https://github.com/NVIDIA-NeMo/Guardrails) in `NVIDIA-NeMo/Guardrails` <sub>(2026-06-29)</sub>
+💬 Commented on [cannot import name 'single_gpu_test' from 'mmdet.apis'](https://github.com/open-mmlab/mmdetection) in `open-mmlab/mmdetection` <sub>(2026-07-01)</sub>
 
-💬 Commented on [Add support for 2026.1](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-06-29)</sub>
+💬 Commented on [diffgram-helm](https://github.com/diffgram/diffgram) in `diffgram/diffgram` <sub>(2026-07-01)</sub>
 
-💬 Commented on [[Bug/Performance] High CPU and low GPU utilization on Window](https://github.com/ollama/ollama) in `ollama/ollama` <sub>(2026-06-28)</sub>
+💬 Commented on [[Enhancement] A hybrid filtering strategy for Weaviate HNSW](https://github.com/weaviate/weaviate) in `weaviate/weaviate` <sub>(2026-07-01)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/deb7d392b19e17a071256ae4d8d4d9cd)** <sub>(2026-07-01)</sub>
+
 📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/b52d778e931a2ffed1c5dcfe424d5cb4)** <sub>(2026-06-29)</sub>
 
 📌 **[Multi-Provider LLM Router with Fallback — Production Pattern (Python)](https://gist.github.com/rehan243/e614a3d89a58f4b5f0e8f99e05e7b364)** <sub>(2026-06-29)</sub>
-
-📌 **[Structured Output Validator for JSON Schema — Production Pattern (Python)](https://gist.github.com/rehan243/9808b96ff80ebc5938d5515d1819c195)** <sub>(2026-06-28)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-06-29 16:05 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-07-01 20:04 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
