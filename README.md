@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-03-retrieval-augmented-generation-rag-for-productio.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for-productio.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Productio"/>
+</a>
+
+**[Retrieval Augmented Generation Rag For Productio](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-03-retrieval-augmented-generation-rag-for-productio.md)**
+<br/><sub>2026-07-03</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-02-production-rag-pipelines-with-re-ranking.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-02</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-02-multi-agent-ai-orchestration-patterns.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-02</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-28-automated-machine-learning-automl-for-time-serie.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Automated Machine Learning Automl For Time Serie](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-28-automated-machine-learning-automl-for-time-serie.md)**
 <br/><sub>2026-06-28</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-26-real-time-data-quality-monitoring-for-ml-systems.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-data-quality-monitoring-for-ml-systems.jpg" width="100%" alt="Real Time Data Quality Monitoring For Ml Systems"/>
-</a>
-
-**[Real Time Data Quality Monitoring For Ml Systems](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-06-26-real-time-data-quality-monitoring-for-ml-systems.md)**
-<br/><sub>2026-06-26</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [AI provenance metadata for generated images (EU AI Act deepf](https://github.com/Stability-AI/generative-models) in `Stability-AI/generative-models` <sub>(2026-07-03)</sub>
+
+💬 Commented on [web_demo: error message input must be a CUDA tensor](https://github.com/zai-org/CogVLM) in `zai-org/CogVLM` <sub>(2026-07-03)</sub>
+
+💬 Commented on [Queue-proxifying a local shard can drop the shard if the tra](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-07-03)</sub>
+
+💬 Commented on [Security Risk: Aider silently bypasses pre-commit hooks by d](https://github.com/Aider-AI/aider) in `Aider-AI/aider` <sub>(2026-07-03)</sub>
+
+💬 Commented on [Regression: mouse clicks intermittently not registering on n](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-07-03)</sub>
+
+💬 Commented on [New start](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-07-03)</sub>
+
 💬 Commented on [[Enhancement] A hybrid filtering strategy for Weaviate HNSW](https://github.com/weaviate/weaviate) in `weaviate/weaviate` <sub>(2026-07-02)</sub>
 
 💬 Commented on [Memory backend: Dakera — decay-weighted persistent memory fo](https://github.com/Significant-Gravitas/AutoGPT) in `Significant-Gravitas/AutoGPT` <sub>(2026-07-02)</sub>
-
-💬 Commented on [[BUG/Help] <title>UI Text Encoding Bug: Greek lowercase 'ω' ](https://github.com/zai-org/ChatGLM-6B) in `zai-org/ChatGLM-6B` <sub>(2026-07-02)</sub>
-
-💬 Commented on [PipelineController daemon crashes with AttributeError: 'None](https://github.com/clearml/clearml) in `clearml/clearml` <sub>(2026-07-02)</sub>
-
-💬 Commented on [Feature request : Advanced Ontology Management](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-07-02)</sub>
-
-💬 Commented on [Just wanna know](https://github.com/predibase/lorax) in `predibase/lorax` <sub>(2026-07-02)</sub>
-
-💬 Commented on [When tabby is running, unstaged git changes are randomly rev](https://github.com/TabbyML/tabby) in `TabbyML/tabby` <sub>(2026-07-02)</sub>
-
-💬 Commented on [[Bug] DeepEP low_latency buffer lazy init fails during CUDA ](https://github.com/sgl-project/sglang) in `sgl-project/sglang` <sub>(2026-07-02)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,17 +244,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning and Customization of Open-Source LLMs for Domain-Specific Applications
+
+🔬 Structured Data Agents for Enterprise Workflows
+
+🔬 Retrieval-Augmented Generation (RAG) for Production LLMs
+
 🔬 Multi-Agent AI Orchestration Patterns
 
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 Automated Machine Learning (AutoML) for Time Series Forecasting
-
-🔬 AutoML for Complex, High-Dimensional Data
-
-🔬 Real-Time Data Quality Monitoring for ML Systems
-
-🔬 Fine-Tuning LLMs with Parameter-Efficient Methods (LoRA/QLoRA) at Scale
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/aeb6fc14495340303d1ffbbdc57e8402)** <sub>(2026-07-03)</sub>
+
 📌 **[RAG Relevance Scorer using Cross-Encoder — Production Pattern (Python)](https://gist.github.com/rehan243/e0f68a8b4c59d3c78c8e0c69aea5a930)** <sub>(2026-07-02)</sub>
 
 📌 **[Real-Time Feature Store Client — Production Pattern (Python)](https://gist.github.com/rehan243/deb7d392b19e17a071256ae4d8d4d9cd)** <sub>(2026-07-01)</sub>
-
-📌 **[Async Retry Pattern with Exponential Backoff — Production Pattern (Python)](https://gist.github.com/rehan243/b52d778e931a2ffed1c5dcfe424d5cb4)** <sub>(2026-06-29)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-07-02 19:40 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-07-03 19:37 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
