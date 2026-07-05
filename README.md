@@ -169,6 +169,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-05-real-time-ai-inference-optimization.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization"/>
+</a>
+
+**[Real Time Ai Inference Optimization](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-05-real-time-ai-inference-optimization.md)**
+<br/><sub>2026-07-05</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-retrieval-augmented-generation-rag-at-scale-for-.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-scale-for-.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale For "/>
 </a>
@@ -177,6 +187,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-04</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md">
@@ -187,8 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-04</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-03-retrieval-augmented-generation-rag-for-productio.md">
@@ -197,16 +207,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Retrieval Augmented Generation Rag For Productio](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-03-retrieval-augmented-generation-rag-for-productio.md)**
 <br/><sub>2026-07-03</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-02-production-rag-pipelines-with-re-ranking.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking"/>
-</a>
-
-**[Production Rag Pipelines With Re Ranking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-02-production-rag-pipelines-with-re-ranking.md)**
-<br/><sub>2026-07-02</sub>
 
 </td>
 </tr>
@@ -220,21 +220,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [Support remote/cloud storage (fsspec) for ModelParallelStrat](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-07-05)</sub>
+
+💬 Commented on [📝 Integration Proposal: CAJAL — Scientific Paper Model for T](https://github.com/TabbyML/tabby) in `TabbyML/tabby` <sub>(2026-07-05)</sub>
+
+💬 Commented on [[Feature Request] Integrate Oracle Database as a Vector Stor](https://github.com/camel-ai/camel) in `camel-ai/camel` <sub>(2026-07-05)</sub>
+
+💬 Commented on [[Bug]: embedded NUL byte in a document corrupts the FTS5 inv](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-07-05)</sub>
+
+💬 Commented on [[Bug] FastSentenceTransformer silently degrades Qwen3-Embedd](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-05)</sub>
+
+💬 Commented on [Collaboration: open bounty system for CrewAI agents — opport](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-07-05)</sub>
+
 💬 Commented on [Missing negative repeats validation in repeat_interleave out](https://github.com/pytorch/pytorch) in `pytorch/pytorch` <sub>(2026-07-04)</sub>
 
 💬 Commented on [prefect flow_engine failed to set status on handle_success s](https://github.com/PrefectHQ/prefect) in `PrefectHQ/prefect` <sub>(2026-07-04)</sub>
-
-💬 Commented on [Installation and Build Failure on Modern Cloud Environments ](https://github.com/state-spaces/mamba) in `state-spaces/mamba` <sub>(2026-07-04)</sub>
-
-💬 Commented on [Security: Memory poisoning protection for BabyAGI task memor](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-07-04)</sub>
-
-💬 Commented on [IndexFlat(METRIC_L1).range_search throws "metric type not su](https://github.com/facebookresearch/faiss) in `facebookresearch/faiss` <sub>(2026-07-04)</sub>
-
-💬 Commented on [feature request: Add spacy support cupy>13 (CUDA 13)](https://github.com/explosion/spaCy) in `explosion/spaCy` <sub>(2026-07-04)</sub>
-
-⭐ Starred `secureagentics/Adrian` <sub>(2026-07-04)</sub>
-
-⭐ Starred `realopslabs/kubeledger` <sub>(2026-07-04)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -244,6 +244,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
+🔬 Real-Time AI Inference Optimization
+
 🔬 Multi-Agent LLM Systems for Workflow Automation
 
 🔬 Retrieval-Augmented Generation (RAG) at Scale for Enterprise Knowledge Management
@@ -251,10 +255,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Fine-Tuning and Customization of Open-Source LLMs for Domain-Specific Applications
 
 🔬 Structured Data Agents for Enterprise Workflows
-
-🔬 Retrieval-Augmented Generation (RAG) for Production LLMs
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
@@ -262,16 +262,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/bd066a18c85f918e04aa6d5d09581b3e)** <sub>(2026-07-05)</sub>
+
 📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/7291f1023f347b6a13b61071a16aa4a2)** <sub>(2026-07-04)</sub>
 
 📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/a0942d25b45382b8439cdf45f5a153e9)** <sub>(2026-07-04)</sub>
-
-📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/aeb6fc14495340303d1ffbbdc57e8402)** <sub>(2026-07-03)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-07-04 19:23 UTC</sub>
+<sub>🤖 Profile auto-updated on 2026-07-05 19:26 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
