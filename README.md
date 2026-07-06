@@ -69,7 +69,7 @@ honestly what keeps me going is when an agent you built solves something you nev
 <td width="50%" valign="top">
 
 **[RAG Enterprise Search](https://github.com/rehan243/RAG-Enterprise-Search)**<br/>
-production retrieval pipeline over 2TB+ data. hybrid dense+sparse search with FAISS and BM25, cross-encoder re-ranking. deployed on AWS SageMaker.
+production-style retrieval pipeline: hybrid dense+sparse search with FAISS and BM25, cross-encoder re-ranking, built to scale on AWS SageMaker.
 
 </td>
 </tr>
@@ -77,13 +77,13 @@ production retrieval pipeline over 2TB+ data. hybrid dense+sparse search with FA
 <td width="50%" valign="top">
 
 **[Voice AI Platform](https://github.com/rehan243/Voice-AI-Platform)**<br/>
-real-time voice infrastructure handling 500+ concurrent calls. WebSockets, Kafka, VAD, streaming STT. built the sentiment analysis piece from scratch.
+real-time voice infrastructure built for high-concurrency calls. WebSockets, Kafka, VAD, streaming STT, with a from-scratch sentiment analysis component.
 
 </td>
 <td width="50%" valign="top">
 
 **[LLM Fine-Tuning LoRA](https://github.com/rehan243/LLM-Fine-Tuning-LoRA)**<br/>
-fine-tuning LLaMA and Mistral with LoRA/QLoRA/PEFT. 40% cheaper than hosted APIs. includes the full training loop, data pipeline, merge + quantize scripts.
+fine-tuning LLaMA and Mistral with LoRA/QLoRA/PEFT — a cost-efficient alternative to hosted APIs. includes the full training loop, data pipeline, merge + quantize scripts.
 
 </td>
 </tr>
@@ -91,13 +91,13 @@ fine-tuning LLaMA and Mistral with LoRA/QLoRA/PEFT. 40% cheaper than hosted APIs
 <td width="50%" valign="top">
 
 **[RLHF LLM Optimization](https://github.com/rehan243/RLHF-LLM-Optimization)**<br/>
-full RLHF pipeline: reward model with Bradley-Terry loss, PPO trainer with KL scheduling, DPO as an alternative. 68% win rate on eval, 96% safety compliance.
+full RLHF pipeline: reward model with Bradley-Terry loss, PPO trainer with KL scheduling, DPO as an alternative, plus an eval harness and safety-compliance checks.
 
 </td>
 <td width="50%" valign="top">
 
 **[Sentinel Fraud Detection](https://github.com/rehan243/Sentinel-AI-Fraud-Detection)**<br/>
-ensemble XGBoost + neural net with 650+ engineered features. Redis-backed real-time velocity scoring, SHAP explainability, Kafka alert routing.
+ensemble XGBoost + neural net with a rich engineered feature set. Redis-backed real-time velocity scoring, SHAP explainability, Kafka alert routing.
 
 </td>
 </tr>
@@ -274,7 +274,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>Profile auto-updated on 2026-07-06 19:18 UTC</sub>
+<sub>Profile auto-updated on 2026-07-06 19:49 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
