@@ -22,8 +22,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rehan-malik-cto"><img src="https://img.shields.io/badge/open_to-AI%2FML_roles_%26_collaborations-e94560?style=flat-square" alt="open to AI/ML roles and collaborations"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/based_in-United_States-0f3460?style=flat-square" alt="based in the United States"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/wave-divider.gif" width="100%" alt="divider"/>
@@ -34,7 +32,7 @@
 <tr>
 <td width="58%" valign="top">
 
-i'm an AI/ML engineer based in the US. right now i'm building production AI systems at **Reallytics.ai** and **Verticiti**, mostly getting large language models to do useful things in the real world. not demos, actual systems with real users and real traffic.
+i'm an AI/ML engineer. right now i'm building production AI systems at **Reallytics.ai** and **Verticiti**, mostly getting large language models to do useful things in the real world. not demos, actual systems with real users and real traffic.
 
 before this i was at **Afiniti** and **Cloud Kinetics** for a few years. fraud detection, voice analytics, enterprise search. the kind of stuff that pages you at 3am when something breaks.
 
@@ -137,19 +135,14 @@ not going to pretend i use everything equally. here's what i actually reach for:
 ## github stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rehan243&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=eaeaea&hide_border=true&count_private=true" alt="github stats"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=rehan243&theme=dark&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560&hide_border=true" alt="streak stats"/>
+  <img src="https://img.shields.io/github/followers/rehan243?style=for-the-badge&logo=github&label=Followers&color=e94560&labelColor=0f3460" alt="GitHub followers"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rehan243&style=for-the-badge&color=e94560&labelColor=0f3460&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
-<p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan243&layout=compact&theme=dark&bg_color=1a1a2e&title_color=e94560&text_color=eaeaea&hide_border=true&exclude_repo=sunshine-care-daycare-saas,Prompt-Engineering-Guide&hide=mdx,html,css,javascript,c%2B%2B,c,jupyter+notebook,shell&langs_count=8" alt="top languages"/>
-</p>
+### contribution activity
 
----
-
-### contribution graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan243&theme=react-dark&bg_color=1a1a2e&color=e94560&line=e94560&point=ffffff&area=true&hide_border=true&custom_title=what%20i%27ve%20been%20up%20to" width="100%" alt="contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan243&theme=react-dark&bg_color=1a1a2e&color=e94560&line=e94560&point=ffffff&area=true&hide_border=true&custom_title=commit%20activity" width="100%" alt="contribution activity graph"/>
 
 ---
 
@@ -274,7 +267,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>Profile auto-updated on 2026-07-06 19:49 UTC</sub>
+<sub>Profile auto-updated on 2026-07-06 20:08 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
