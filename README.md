@@ -15,6 +15,17 @@
   <img src="https://komarev.com/ghpvc/?username=rehan243&color=e94560&style=flat-square&label=visitors" alt="profile visitors"/>
 </p>
 
+<p align="center">
+  <b>AI / ML Engineer</b> &nbsp;·&nbsp; LLM Systems &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Multi-Agent &nbsp;·&nbsp; RLHF &nbsp;·&nbsp; MLOps<br/>
+  <sub>building production AI that ships to real users — not demos</sub>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rehan-malik-cto"><img src="https://img.shields.io/badge/open_to-AI%2FML_roles_%26_collaborations-e94560?style=flat-square" alt="open to AI/ML roles and collaborations"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/based_in-United_States-0f3460?style=flat-square" alt="based in the United States"/>
+</p>
+
 <img src="https://raw.githubusercontent.com/rehan243/rehan243/main/assets/wave-divider.gif" width="100%" alt="divider"/>
 
 ## about me
@@ -136,14 +147,6 @@ not going to pretend i use everything equally. here's what i actually reach for:
 
 ---
 
-### trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rehan243&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=8" alt="trophies"/>
-</p>
-
----
-
 ### contribution graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan243&theme=react-dark&bg_color=1a1a2e&color=e94560&line=e94560&point=ffffff&area=true&hide_border=true&custom_title=what%20i%27ve%20been%20up%20to" width="100%" alt="contribution graph"/>
@@ -170,7 +173,7 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-05-real-time-ai-inference-optimization.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization"/>
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization — AI engineering article by Rehan Malik"/>
 </a>
 
 **[Real Time Ai Inference Optimization](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-05-real-time-ai-inference-optimization.md)**
@@ -180,7 +183,7 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-retrieval-augmented-generation-rag-at-scale-for-.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-scale-for-.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale For "/>
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale For  — AI engineering article by Rehan Malik"/>
 </a>
 
 **[Retrieval Augmented Generation Rag At Scale For ](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-retrieval-augmented-generation-rag-at-scale-for-.md)**
@@ -192,7 +195,7 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-llm-systems-for-workflow-automation.jpg" width="100%" alt="Multi Agent Llm Systems For Workflow Automation"/>
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-llm-systems-for-workflow-aut.jpg" width="100%" alt="Multi Agent Llm Systems For Workflow Automation — AI engineering article by Rehan Malik"/>
 </a>
 
 **[Multi Agent Llm Systems For Workflow Automation](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md)**
@@ -202,7 +205,7 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-03-retrieval-augmented-generation-rag-for-productio.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for-productio.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Productio"/>
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Productio — AI engineering article by Rehan Malik"/>
 </a>
 
 **[Retrieval Augmented Generation Rag For Productio](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-03-retrieval-augmented-generation-rag-for-productio.md)**
@@ -220,21 +223,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Support remote/cloud storage (fsspec) for ModelParallelStrat](https://github.com/Lightning-AI/pytorch-lightning) in `Lightning-AI/pytorch-lightning` <sub>(2026-07-05)</sub>
+💬 Commented on [[Feature Request] Add Lark (Feishu) chat interface](https://github.com/agno-agi/agno) in `agno-agi/agno` <sub>(2026-07-06)</sub>
 
-💬 Commented on [📝 Integration Proposal: CAJAL — Scientific Paper Model for T](https://github.com/TabbyML/tabby) in `TabbyML/tabby` <sub>(2026-07-05)</sub>
+💬 Commented on [TLS Handshake Failure with Hazelcast 5.6.0 after upgrading N](https://github.com/hazelcast/hazelcast) in `hazelcast/hazelcast` <sub>(2026-07-06)</sub>
 
-💬 Commented on [[Feature Request] Integrate Oracle Database as a Vector Stor](https://github.com/camel-ai/camel) in `camel-ai/camel` <sub>(2026-07-05)</sub>
+💬 Commented on [[Proposal] HeartFlow - Cognitive Engine for Semantic Kernel](https://github.com/microsoft/semantic-kernel) in `microsoft/semantic-kernel` <sub>(2026-07-06)</sub>
 
-💬 Commented on [[Bug]: embedded NUL byte in a document corrupts the FTS5 inv](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-07-05)</sub>
+💬 Commented on [Helm: `_run-launcher.tpl` unconditionally emits `postgres_pa](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-07-06)</sub>
 
-💬 Commented on [[Bug] FastSentenceTransformer silently degrades Qwen3-Embedd](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-05)</sub>
+💬 Commented on [[Feature]: Standing SORT target (target-based compaction)](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-07-06)</sub>
 
-💬 Commented on [Collaboration: open bounty system for CrewAI agents — opport](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-07-05)</sub>
+💬 Commented on [Expert-granularity CPU offload for quantized MoE: 30B-A3B QL](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-07-06)</sub>
 
-💬 Commented on [Missing negative repeats validation in repeat_interleave out](https://github.com/pytorch/pytorch) in `pytorch/pytorch` <sub>(2026-07-04)</sub>
+💬 Commented on [[Bug]: Delegate is still hallucinating functions causing it ](https://github.com/ag2ai/ag2) in `ag2ai/ag2` <sub>(2026-07-06)</sub>
 
-💬 Commented on [prefect flow_engine failed to set status on handle_success s](https://github.com/PrefectHQ/prefect) in `PrefectHQ/prefect` <sub>(2026-07-04)</sub>
+⭐ Starred `NirDiamant/RAG_Techniques` <sub>(2026-07-06)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -271,7 +274,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>🤖 Profile auto-updated on 2026-07-05 19:26 UTC</sub>
+<sub>Profile auto-updated on 2026-07-06 19:18 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
