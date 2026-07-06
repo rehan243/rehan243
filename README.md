@@ -223,6 +223,12 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [[Bug] FastSentenceTransformer silently degrades Qwen3-Embedd](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-06)</sub>
+
+💬 Commented on [[Bug]: embedded NUL byte in a document corrupts the FTS5 inv](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-07-06)</sub>
+
+💬 Commented on [Expert-granularity CPU offload for quantized MoE: 30B-A3B QL](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-07-06)</sub>
+
 💬 Commented on [[Feature Request] Add Lark (Feishu) chat interface](https://github.com/agno-agi/agno) in `agno-agi/agno` <sub>(2026-07-06)</sub>
 
 💬 Commented on [TLS Handshake Failure with Hazelcast 5.6.0 after upgrading N](https://github.com/hazelcast/hazelcast) in `hazelcast/hazelcast` <sub>(2026-07-06)</sub>
@@ -232,12 +238,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 💬 Commented on [Helm: `_run-launcher.tpl` unconditionally emits `postgres_pa](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-07-06)</sub>
 
 💬 Commented on [[Feature]: Standing SORT target (target-based compaction)](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-07-06)</sub>
-
-💬 Commented on [Expert-granularity CPU offload for quantized MoE: 30B-A3B QL](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-07-06)</sub>
-
-💬 Commented on [[Bug]: Delegate is still hallucinating functions causing it ](https://github.com/ag2ai/ag2) in `ag2ai/ag2` <sub>(2026-07-06)</sub>
-
-⭐ Starred `NirDiamant/RAG_Techniques` <sub>(2026-07-06)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -265,11 +265,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/b07d89dc704f7fa78e0702171c4681b8)** <sub>(2026-07-06)</sub>
+
 📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/bd066a18c85f918e04aa6d5d09581b3e)** <sub>(2026-07-05)</sub>
 
 📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/7291f1023f347b6a13b61071a16aa4a2)** <sub>(2026-07-04)</sub>
-
-📌 **[Agent Tool Registry with Dynamic Discovery — Production Pattern (Python)](https://gist.github.com/rehan243/a0942d25b45382b8439cdf45f5a153e9)** <sub>(2026-07-04)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
