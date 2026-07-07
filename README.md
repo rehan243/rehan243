@@ -198,7 +198,7 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-retrieval-augmented-generation-rag-at-scale-for-.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale For , AI engineering article by Rehan Malik"/>
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale For, AI engineering article by Rehan Malik"/>
 </a>
 
 **[Retrieval Augmented Generation Rag At Scale For ](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-retrieval-augmented-generation-rag-at-scale-for-.md)**
@@ -258,16 +258,16 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
-📌 **[Kubernetes Pod Scaler for GPU Workloads — Production Pattern (Python)](https://gist.github.com/rehan243/b07d89dc704f7fa78e0702171c4681b8)** <sub>(2026-07-06)</sub>
+📌 **[Kubernetes Pod Scaler for GPU Workloads, Production Pattern (Python)](https://gist.github.com/rehan243/b07d89dc704f7fa78e0702171c4681b8)** <sub>(2026-07-06)</sub>
 
-📌 **[Batch Inference Pipeline with Progress Tracking — Production Pattern (Python)](https://gist.github.com/rehan243/bd066a18c85f918e04aa6d5d09581b3e)** <sub>(2026-07-05)</sub>
+📌 **[Batch Inference Pipeline with Progress Tracking, Production Pattern (Python)](https://gist.github.com/rehan243/bd066a18c85f918e04aa6d5d09581b3e)** <sub>(2026-07-05)</sub>
 
-📌 **[Vector Similarity Search with FAISS — Production Pattern (Python)](https://gist.github.com/rehan243/7291f1023f347b6a13b61071a16aa4a2)** <sub>(2026-07-04)</sub>
+📌 **[Vector Similarity Search with FAISS, Production Pattern (Python)](https://gist.github.com/rehan243/7291f1023f347b6a13b61071a16aa4a2)** <sub>(2026-07-04)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>Profile auto-updated on 2026-07-07 10:10 UTC</sub>
+<sub>Profile auto-updated on 2026-07-07 10:12 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
