@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <b>AI / ML Engineer</b> &nbsp;·&nbsp; LLM Systems &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Multi-Agent &nbsp;·&nbsp; RLHF &nbsp;·&nbsp; MLOps<br/>
-  <sub>building production AI that ships to real users — not demos</sub>
+  <b>AI / ML Engineer</b> &nbsp;-&nbsp; LLM Systems &nbsp;-&nbsp; RAG &nbsp;-&nbsp; Multi-Agent &nbsp;-&nbsp; RLHF &nbsp;-&nbsp; MLOps<br/>
+  <sub>building production AI that ships to real users, not demos</sub>
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ real-time voice infrastructure built for high-concurrency calls. WebSockets, Kaf
 <td width="50%" valign="top">
 
 **[LLM Fine-Tuning LoRA](https://github.com/rehan243/LLM-Fine-Tuning-LoRA)**<br/>
-fine-tuning LLaMA and Mistral with LoRA/QLoRA/PEFT — a cost-efficient alternative to hosted APIs. includes the full training loop, data pipeline, merge + quantize scripts.
+fine-tuning LLaMA and Mistral with LoRA/QLoRA/PEFT, a cost-efficient alternative to hosted APIs. includes the full training loop, data pipeline, merge + quantize scripts.
 
 </td>
 </tr>
@@ -165,8 +165,30 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-retrieval-augmented-generation-rag-at-scale-in.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-scale-in.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale In, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Retrieval Augmented Generation Rag At Scale In](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-retrieval-augmented-generation-rag-at-scale-in.md)**
+<br/><sub>2026-07-07</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-fine-tuning-and-serving-tiny-llms-1b-parameters.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-and-serving-tiny-llms-1b-parameters.jpg" width="100%" alt="Fine Tuning And Serving Tiny Llms 1B Parameters, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Fine Tuning And Serving Tiny Llms 1B Parameters](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-fine-tuning-and-serving-tiny-llms-1b-parameters.md)**
+<br/><sub>2026-07-07</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-05-real-time-ai-inference-optimization.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization — AI engineering article by Rehan Malik"/>
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization, AI engineering article by Rehan Malik"/>
 </a>
 
 **[Real Time Ai Inference Optimization](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-05-real-time-ai-inference-optimization.md)**
@@ -176,7 +198,7 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-retrieval-augmented-generation-rag-at-scale-for-.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale For  — AI engineering article by Rehan Malik"/>
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale For , AI engineering article by Rehan Malik"/>
 </a>
 
 **[Retrieval Augmented Generation Rag At Scale For ](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-retrieval-augmented-generation-rag-at-scale-for-.md)**
@@ -184,31 +206,9 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-llm-systems-for-workflow-aut.jpg" width="100%" alt="Multi Agent Llm Systems For Workflow Automation — AI engineering article by Rehan Malik"/>
-</a>
-
-**[Multi Agent Llm Systems For Workflow Automation](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md)**
-<br/><sub>2026-07-04</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-03-retrieval-augmented-generation-rag-for-productio.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-for.jpg" width="100%" alt="Retrieval Augmented Generation Rag For Productio — AI engineering article by Rehan Malik"/>
-</a>
-
-**[Retrieval Augmented Generation Rag For Productio](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-03-retrieval-augmented-generation-rag-for-productio.md)**
-<br/><sub>2026-07-03</sub>
-
-</td>
-</tr>
 </table>
 
-[📚 View all articles →](https://github.com/rehan243/AI-Engineering-Notes)
+[📚 View all articles ->](https://github.com/rehan243/AI-Engineering-Notes)
 <!-- ARTICLES_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Fine-Tuning and Serving Tiny LLMs (<1B Parameters) for Cost-Efficient Inference
+
+🔬 Retrieval-Augmented Generation (RAG) at Scale in Enterprise LLM Applications
+
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Real-Time AI Inference Optimization
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Multi-Agent LLM Systems for Workflow Automation
 
 🔬 Retrieval-Augmented Generation (RAG) at Scale for Enterprise Knowledge Management
-
-🔬 Fine-Tuning and Customization of Open-Source LLMs for Domain-Specific Applications
-
-🔬 Structured Data Agents for Enterprise Workflows
 <!-- RESEARCH_END -->
 
 ---
@@ -267,7 +267,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>Profile auto-updated on 2026-07-06 20:08 UTC</sub>
+<sub>Profile auto-updated on 2026-07-07 10:09 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
