@@ -1,4 +1,4 @@
-# Rehan Malik — AI/ML Engineer
+# Rehan Malik, AI/ML Engineer
 
 > Senior AI/ML Engineer specializing in Generative AI, Large Language Models (LLMs),
 > Retrieval-Augmented Generation (RAG), AI Agents, and production ML systems.
@@ -13,20 +13,20 @@ LLM fine-tuning, and real-time voice AI infrastructure.
 
 - **AI Agents & Multi-Agent Systems**: LangChain, function calling, planning loops, guardrails
 - **RAG Pipelines**: FAISS, ChromaDB, Pinecone, cross-encoder re-ranking, enterprise search
-- **LLM Fine-Tuning**: LoRA, QLoRA, PEFT, RLHF, DPO, PPO — cost-efficient alternatives to hosted APIs
+- **LLM Fine-Tuning**: LoRA, QLoRA, PEFT, RLHF, DPO, PPO, cost-efficient alternatives to hosted APIs
 - **Voice AI**: Real-time speech-to-text, high-concurrency streaming, Kafka, gRPC, CUDA
 - **MLOps**: AWS SageMaker, Bedrock, Docker, Kubernetes, CI/CD, model monitoring
 - **Explainable AI**: SHAP, UMAP, ensemble methods, fraud detection
 
 ## Key Projects
 
-- [Agentic AI Workflows](https://github.com/rehan243/Agentic-AI-Workflows) — 8 production AI agents
-- [RAG Enterprise Search](https://github.com/rehan243/RAG-Enterprise-Search) — hybrid retrieval pipeline
-- [Voice AI Platform](https://github.com/rehan243/Voice-AI-Platform) — Real-time voice infrastructure
-- [LLM Fine-Tuning LoRA](https://github.com/rehan243/LLM-Fine-Tuning-LoRA) — Parameter-efficient fine-tuning
-- [RLHF LLM Optimization](https://github.com/rehan243/RLHF-LLM-Optimization) — Full RLHF pipeline
-- [Sentinel Fraud Detection](https://github.com/rehan243/Sentinel-AI-Fraud-Detection) — Explainable ML
-- [AI Engineering Notes](https://github.com/rehan243/AI-Engineering-Notes) — Daily research articles
+- [Agentic AI Workflows](https://github.com/rehan243/Agentic-AI-Workflows), 8 production AI agents
+- [RAG Enterprise Search](https://github.com/rehan243/RAG-Enterprise-Search), hybrid retrieval pipeline
+- [Voice AI Platform](https://github.com/rehan243/Voice-AI-Platform), Real-time voice infrastructure
+- [LLM Fine-Tuning LoRA](https://github.com/rehan243/LLM-Fine-Tuning-LoRA), Parameter-efficient fine-tuning
+- [RLHF LLM Optimization](https://github.com/rehan243/RLHF-LLM-Optimization), Full RLHF pipeline
+- [Sentinel Fraud Detection](https://github.com/rehan243/Sentinel-AI-Fraud-Detection), Explainable ML
+- [AI Engineering Notes](https://github.com/rehan243/AI-Engineering-Notes), Daily research articles
 
 ## Tech Stack
 
@@ -42,4 +42,4 @@ Kafka, FAISS, ChromaDB, Git, GitHub Actions, MLflow, Weights & Biases
 
 ## Last Updated
 
-- 2026-07-06
+- 2026-07-07
