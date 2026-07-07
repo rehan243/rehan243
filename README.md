@@ -165,16 +165,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-retrieval-augmented-generation-rag-at-scale-in.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-scale-in.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale In, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Retrieval Augmented Generation Rag At Scale In](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-retrieval-augmented-generation-rag-at-scale-in.md)**
-<br/><sub>2026-07-07</sub>
-
-</td>
-<td width="50%" valign="top">
-
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-fine-tuning-and-serving-tiny-llms-1b-parameters.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-and-serving-tiny-llms-1b-parameters.jpg" width="100%" alt="Fine Tuning And Serving Tiny Llms 1B Parameters, AI engineering article by Rehan Malik"/>
 </a>
@@ -183,8 +173,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-07</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-05-real-time-ai-inference-optimization.md">
@@ -195,14 +183,26 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-05</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-retrieval-augmented-generation-rag-at-scale-for-.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/retrieval-augmented-generation-rag-at-.jpg" width="100%" alt="Retrieval Augmented Generation Rag At Scale For, AI engineering article by Rehan Malik"/>
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-llm-systems-for-workflow-aut.jpg" width="100%" alt="Multi Agent Llm Systems For Workflow Automation, AI engineering article by Rehan Malik"/>
 </a>
 
-**[Retrieval Augmented Generation Rag At Scale For ](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-retrieval-augmented-generation-rag-at-scale-for-.md)**
+**[Multi Agent Llm Systems For Workflow Automation](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md)**
 <br/><sub>2026-07-04</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-02-production-rag-pipelines-with-re-ranking.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Production Rag Pipelines With Re Ranking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-02-production-rag-pipelines-with-re-ranking.md)**
+<br/><sub>2026-07-02</sub>
 
 </td>
 </tr>
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[Bug] FastSentenceTransformer silently degrades Qwen3-Embedd](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-06)</sub>
+💬 Commented on [[Bug] FastSentenceTransformer silently degrades Qwen3-Embedd](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-07)</sub>
 
-💬 Commented on [[Bug]: embedded NUL byte in a document corrupts the FTS5 inv](https://github.com/chroma-core/chroma) in `chroma-core/chroma` <sub>(2026-07-06)</sub>
+💬 Commented on [[Bug]: fail in chatComplete for gptcache.adapter openai](https://github.com/zilliztech/GPTCache) in `zilliztech/GPTCache` <sub>(2026-07-07)</sub>
 
-💬 Commented on [Expert-granularity CPU offload for quantized MoE: 30B-A3B QL](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-07-06)</sub>
+💬 Commented on [BUG: ValueError crash in _parse_prefixed_args when argument ](https://github.com/microsoft/promptflow) in `microsoft/promptflow` <sub>(2026-07-07)</sub>
 
-💬 Commented on [[Feature Request] Add Lark (Feishu) chat interface](https://github.com/agno-agi/agno) in `agno-agi/agno` <sub>(2026-07-06)</sub>
+💬 Commented on [[BUG] <Qwen3-Coder web版系统时间硬编码为2024年，导致时间相关分析全部错误，且拒绝用户纠正并反向](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-07-07)</sub>
 
-💬 Commented on [TLS Handshake Failure with Hazelcast 5.6.0 after upgrading N](https://github.com/hazelcast/hazelcast) in `hazelcast/hazelcast` <sub>(2026-07-06)</sub>
+💬 Commented on [bug: Model profile image 302 redirect is cached by browser (](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-07-07)</sub>
 
-💬 Commented on [[Proposal] HeartFlow - Cognitive Engine for Semantic Kernel](https://github.com/microsoft/semantic-kernel) in `microsoft/semantic-kernel` <sub>(2026-07-06)</sub>
+⭐ Starred `curiosity-ai/hnsw-sharp` <sub>(2026-07-07)</sub>
 
-💬 Commented on [Helm: `_run-launcher.tpl` unconditionally emits `postgres_pa](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-07-06)</sub>
+⭐ Starred `vioshyvo/mrpt` <sub>(2026-07-07)</sub>
 
-💬 Commented on [[Feature]: Standing SORT target (target-based compaction)](https://github.com/milvus-io/milvus) in `milvus-io/milvus` <sub>(2026-07-06)</sub>
+⭐ Starred `SimoneZeng/awesome-vector-ANN-search-papers` <sub>(2026-07-07)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Streaming JSON Parser for Large Language Models, Production Pattern (Python)](https://gist.github.com/rehan243/a9676148fe1a88f03a44c7aeb995f3fb)** <sub>(2026-07-07)</sub>
+
 📌 **[Kubernetes Pod Scaler for GPU Workloads, Production Pattern (Python)](https://gist.github.com/rehan243/b07d89dc704f7fa78e0702171c4681b8)** <sub>(2026-07-06)</sub>
 
 📌 **[Batch Inference Pipeline with Progress Tracking, Production Pattern (Python)](https://gist.github.com/rehan243/bd066a18c85f918e04aa6d5d09581b3e)** <sub>(2026-07-05)</sub>
-
-📌 **[Vector Similarity Search with FAISS, Production Pattern (Python)](https://gist.github.com/rehan243/7291f1023f347b6a13b61071a16aa4a2)** <sub>(2026-07-04)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
