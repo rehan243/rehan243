@@ -267,7 +267,7 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 
 <!-- DYNAMIC_SECTIONS_START -->
 
-<sub>Profile auto-updated on 2026-07-07 10:09 UTC</sub>
+<sub>Profile auto-updated on 2026-07-07 10:10 UTC</sub>
 
 <!-- DYNAMIC_SECTIONS_END -->
 
