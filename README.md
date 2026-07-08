@@ -165,6 +165,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-08-clear-topic-name.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-08-clear-topic-name.md)**
+<br/><sub>2026-07-08</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-fine-tuning-and-serving-tiny-llms-1b-parameters.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-and-serving-tiny-llms-1b-parameters.jpg" width="100%" alt="Fine Tuning And Serving Tiny Llms 1B Parameters, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,6 +183,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-07</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-05-real-time-ai-inference-optimization.md">
@@ -183,8 +195,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-05</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md">
@@ -193,16 +203,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Multi Agent Llm Systems For Workflow Automation](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md)**
 <br/><sub>2026-07-04</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-02-production-rag-pipelines-with-re-ranking.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Production Rag Pipelines With Re Ranking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-02-production-rag-pipelines-with-re-ranking.md)**
-<br/><sub>2026-07-02</sub>
 
 </td>
 </tr>
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[Bug] FastSentenceTransformer silently degrades Qwen3-Embedd](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-07)</sub>
+💬 Commented on [model_tokens leaks to OpenAI client on plain llm config path](https://github.com/ScrapeGraphAI/Scrapegraph-ai) in `ScrapeGraphAI/Scrapegraph-ai` <sub>(2026-07-08)</sub>
 
-💬 Commented on [[Bug]: fail in chatComplete for gptcache.adapter openai](https://github.com/zilliztech/GPTCache) in `zilliztech/GPTCache` <sub>(2026-07-07)</sub>
+💬 Commented on [GPU snapshot restore fails in ministral3_inference.py exampl](https://github.com/modal-labs/modal-examples) in `modal-labs/modal-examples` <sub>(2026-07-08)</sub>
 
-💬 Commented on [BUG: ValueError crash in _parse_prefixed_args when argument ](https://github.com/microsoft/promptflow) in `microsoft/promptflow` <sub>(2026-07-07)</sub>
+💬 Commented on [nvidia/nemotron-3.5-asr-streaming-0.6b: transcribe() fails w](https://github.com/NVIDIA-NeMo/Speech) in `NVIDIA-NeMo/Speech` <sub>(2026-07-08)</sub>
 
-💬 Commented on [[BUG] <Qwen3-Coder web版系统时间硬编码为2024年，导致时间相关分析全部错误，且拒绝用户纠正并反向](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-07-07)</sub>
+💬 Commented on [en_core_web_hftrf-3.8.1 fails to load with spacy-transformer](https://github.com/explosion/spaCy) in `explosion/spaCy` <sub>(2026-07-08)</sub>
 
-💬 Commented on [bug: Model profile image 302 redirect is cached by browser (](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-07-07)</sub>
+💬 Commented on [REST API: GET /spans/{span_identifier}, get a single span b](https://github.com/Arize-ai/phoenix) in `Arize-ai/phoenix` <sub>(2026-07-08)</sub>
 
-⭐ Starred `curiosity-ai/hnsw-sharp` <sub>(2026-07-07)</sub>
+💬 Commented on [SDK: Fix dataset URL logged by get_or_create_dataset to use ](https://github.com/comet-ml/opik) in `comet-ml/opik` <sub>(2026-07-08)</sub>
 
-⭐ Starred `vioshyvo/mrpt` <sub>(2026-07-07)</sub>
+💬 Commented on [Feature request : Enhanced Geospatial and Temporal Search](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-07-08)</sub>
 
-⭐ Starred `SimoneZeng/awesome-vector-ANN-search-papers` <sub>(2026-07-07)</sub>
+💬 Commented on [Eval proposal: prompt-defense-eval (OWASP LLM02 output-handl](https://github.com/openai/evals) in `openai/evals` <sub>(2026-07-08)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 clear topic name
+
 🔬 Fine-Tuning and Serving Tiny LLMs (<1B Parameters) for Cost-Efficient Inference
 
 🔬 Retrieval-Augmented Generation (RAG) at Scale in Enterprise LLM Applications
@@ -249,8 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Real-Time AI Inference Optimization
 
 🔬 Multi-Agent LLM Systems for Workflow Automation
-
-🔬 Retrieval-Augmented Generation (RAG) at Scale for Enterprise Knowledge Management
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Agent Tool Registry with Dynamic Discovery, Production Pattern (Python)](https://gist.github.com/rehan243/db4d2361138db83288a46961458ca6ac)** <sub>(2026-07-08)</sub>
+
+📌 **[Embedding Cache with LRU Eviction, Production Pattern (Python)](https://gist.github.com/rehan243/91bc8791937f4201b2026c99b7f7b94e)** <sub>(2026-07-08)</sub>
+
 📌 **[Streaming JSON Parser for Large Language Models, Production Pattern (Python)](https://gist.github.com/rehan243/a9676148fe1a88f03a44c7aeb995f3fb)** <sub>(2026-07-07)</sub>
-
-📌 **[Kubernetes Pod Scaler for GPU Workloads, Production Pattern (Python)](https://gist.github.com/rehan243/b07d89dc704f7fa78e0702171c4681b8)** <sub>(2026-07-06)</sub>
-
-📌 **[Batch Inference Pipeline with Progress Tracking, Production Pattern (Python)](https://gist.github.com/rehan243/bd066a18c85f918e04aa6d5d09581b3e)** <sub>(2026-07-05)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
