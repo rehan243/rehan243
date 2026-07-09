@@ -165,6 +165,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-09-clear-topic-name.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-09-clear-topic-name.md)**
+<br/><sub>2026-07-09</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-08-clear-topic-name.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,6 +183,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-08</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-fine-tuning-and-serving-tiny-llms-1b-parameters.md">
@@ -183,8 +195,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-07</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-05-real-time-ai-inference-optimization.md">
@@ -193,16 +203,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Real Time Ai Inference Optimization](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-05-real-time-ai-inference-optimization.md)**
 <br/><sub>2026-07-05</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-llm-systems-for-workflow-aut.jpg" width="100%" alt="Multi Agent Llm Systems For Workflow Automation, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Multi Agent Llm Systems For Workflow Automation](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-04-multi-agent-llm-systems-for-workflow-automation.md)**
-<br/><sub>2026-07-04</sub>
 
 </td>
 </tr>
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [model_tokens leaks to OpenAI client on plain llm config path](https://github.com/ScrapeGraphAI/Scrapegraph-ai) in `ScrapeGraphAI/Scrapegraph-ai` <sub>(2026-07-08)</sub>
+💬 Commented on [prefect flow_engine failed to set status on handle_success s](https://github.com/PrefectHQ/prefect) in `PrefectHQ/prefect` <sub>(2026-07-09)</sub>
 
-💬 Commented on [GPU snapshot restore fails in ministral3_inference.py exampl](https://github.com/modal-labs/modal-examples) in `modal-labs/modal-examples` <sub>(2026-07-08)</sub>
+💬 Commented on [Expert-granularity CPU offload for quantized MoE: 30B-A3B QL](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-07-09)</sub>
 
-💬 Commented on [nvidia/nemotron-3.5-asr-streaming-0.6b: transcribe() fails w](https://github.com/NVIDIA-NeMo/Speech) in `NVIDIA-NeMo/Speech` <sub>(2026-07-08)</sub>
+💬 Commented on [[RFC]: [ROCm][DistInf]: Distributed Inference (Disaggregated](https://github.com/vllm-project/vllm) in `vllm-project/vllm` <sub>(2026-07-09)</sub>
 
-💬 Commented on [en_core_web_hftrf-3.8.1 fails to load with spacy-transformer](https://github.com/explosion/spaCy) in `explosion/spaCy` <sub>(2026-07-08)</sub>
+💬 Commented on [Add aria2-agent: AI Agent download tool built on aria2 (MCP ](https://github.com/modelcontextprotocol/servers) in `modelcontextprotocol/servers` <sub>(2026-07-09)</sub>
 
-💬 Commented on [REST API: GET /spans/{span_identifier}, get a single span b](https://github.com/Arize-ai/phoenix) in `Arize-ai/phoenix` <sub>(2026-07-08)</sub>
+💬 Commented on [[CRITICAL BUG] "NON-SANDBOXED" XSS Web Vulnerability on chat](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-07-09)</sub>
 
-💬 Commented on [SDK: Fix dataset URL logged by get_or_create_dataset to use ](https://github.com/comet-ml/opik) in `comet-ml/opik` <sub>(2026-07-08)</sub>
+💬 Commented on [Delta on Iceberg V4 RFC Followup Improvements](https://github.com/delta-io/delta) in `delta-io/delta` <sub>(2026-07-09)</sub>
 
-💬 Commented on [Feature request : Enhanced Geospatial and Temporal Search](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-07-08)</sub>
+💬 Commented on [Slides layout](https://github.com/marimo-team/marimo) in `marimo-team/marimo` <sub>(2026-07-09)</sub>
 
-💬 Commented on [Eval proposal: prompt-defense-eval (OWASP LLM02 output-handl](https://github.com/openai/evals) in `openai/evals` <sub>(2026-07-08)</sub>
+💬 Commented on [Cleared backfill DAG runs get stuck with "Task is in the 'No](https://github.com/apache/airflow) in `apache/airflow` <sub>(2026-07-09)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 <clear topic name>
+
 🔬 clear topic name
 
 🔬 Fine-Tuning and Serving Tiny LLMs (<1B Parameters) for Cost-Efficient Inference
@@ -249,8 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Real-Time AI Inference Optimization
-
-🔬 Multi-Agent LLM Systems for Workflow Automation
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Structured Output Validator for JSON Schema, Production Pattern (Python)](https://gist.github.com/rehan243/31fd071240a0b3d06aec77556dac2979)** <sub>(2026-07-09)</sub>
+
+📌 **[Multi-Provider LLM Router with Fallback, Production Pattern (Python)](https://gist.github.com/rehan243/c9dc8b3b7ab5bc871a04a4552500c9de)** <sub>(2026-07-09)</sub>
+
 📌 **[Agent Tool Registry with Dynamic Discovery, Production Pattern (Python)](https://gist.github.com/rehan243/db4d2361138db83288a46961458ca6ac)** <sub>(2026-07-08)</sub>
-
-📌 **[Embedding Cache with LRU Eviction, Production Pattern (Python)](https://gist.github.com/rehan243/91bc8791937f4201b2026c99b7f7b94e)** <sub>(2026-07-08)</sub>
-
-📌 **[Streaming JSON Parser for Large Language Models, Production Pattern (Python)](https://gist.github.com/rehan243/a9676148fe1a88f03a44c7aeb995f3fb)** <sub>(2026-07-07)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
