@@ -165,6 +165,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-12-clear-topic-name.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-12-clear-topic-name.md)**
+<br/><sub>2026-07-12</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-10-multi-agent-llm-financial-trading-framework.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-llm-financial-trading-framework.jpg" width="100%" alt="Multi Agent Llm Financial Trading Framework, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,6 +183,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-10</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-09-clear-topic-name.md">
@@ -183,8 +195,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-09</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-08-clear-topic-name.md">
@@ -193,16 +203,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-08-clear-topic-name.md)**
 <br/><sub>2026-07-08</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-fine-tuning-and-serving-tiny-llms-1b-parameters.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/fine-tuning-and-serving-tiny-llms-1b-parameters.jpg" width="100%" alt="Fine Tuning And Serving Tiny Llms 1B Parameters, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Fine Tuning And Serving Tiny Llms 1B Parameters](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-07-fine-tuning-and-serving-tiny-llms-1b-parameters.md)**
-<br/><sub>2026-07-07</sub>
 
 </td>
 </tr>
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[Bug] FastSentenceTransformer silently degrades Qwen3-Embedd](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-10)</sub>
+⭐ Starred `Shubh2-0/Shubh2-0` <sub>(2026-07-12)</sub>
 
-💬 Commented on [Flaky test `shards::local_shard::optimizer_config_update_tes](https://github.com/qdrant/qdrant) in `qdrant/qdrant` <sub>(2026-07-10)</sub>
+💬 Commented on [训练多模态模型function_call能力，如何构建数据集进行训练](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-07-12)</sub>
 
-💬 Commented on [bug: Output token count wrong when completion_tokens_details](https://github.com/langfuse/langfuse) in `langfuse/langfuse` <sub>(2026-07-10)</sub>
+💬 Commented on [Reusing UI across multiple code locations (local)](https://github.com/ion-elgreco/rivers) in `ion-elgreco/rivers` <sub>(2026-07-12)</sub>
 
-💬 Commented on [[BUG][Kernel] UC createTable sends bare data-type JSON for c](https://github.com/delta-io/delta) in `delta-io/delta` <sub>(2026-07-10)</sub>
+💬 Commented on [Replace MinIO with Garage, Community Edition is no longer m](https://github.com/ClickHouse/code-interpreter) in `ClickHouse/code-interpreter` <sub>(2026-07-12)</sub>
 
-💬 Commented on [SemanticSegmentationLoss returns NaN when the whole batch is](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-07-10)</sub>
+💬 Commented on [Add a Slurm integration (step operator over SSH/local sbatch](https://github.com/zenml-io/zenml) in `zenml-io/zenml` <sub>(2026-07-12)</sub>
 
-⭐ Starred `nankingjing/PoseMamba` <sub>(2026-07-10)</sub>
+💬 Commented on [Bug: Stop using v1 of Chroma API](https://github.com/microsoft/semantic-kernel) in `microsoft/semantic-kernel` <sub>(2026-07-12)</sub>
 
-💬 Commented on [prefect flow_engine failed to set status on handle_success s](https://github.com/PrefectHQ/prefect) in `PrefectHQ/prefect` <sub>(2026-07-09)</sub>
+💬 Commented on [feat(go): Add authentication and authorization support to Go](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-07-12)</sub>
 
-💬 Commented on [Expert-granularity CPU offload for quantized MoE: 30B-A3B QL](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-07-09)</sub>
+💬 Commented on [Misc. bug: server deepseek4 prompt cache logs LCP match (sim](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-07-12)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Clear topic name.
+
 🔬 Multi-Agent LLM Financial Trading Framework.
 
 🔬 <clear topic name>
@@ -249,8 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Fine-Tuning and Serving Tiny LLMs (<1B Parameters) for Cost-Efficient Inference
 
 🔬 Retrieval-Augmented Generation (RAG) at Scale in Enterprise LLM Applications
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Embedding Cache with LRU Eviction, Production Pattern (Python)](https://gist.github.com/rehan243/6ae2802b5850aa9eeb3a718715fcd02f)** <sub>(2026-07-12)</sub>
+
 📌 **[Real-Time Feature Store Client, Production Pattern (Python)](https://gist.github.com/rehan243/20e353f144589255677ddc2e10947f42)** <sub>(2026-07-10)</sub>
 
 📌 **[Structured Output Validator for JSON Schema, Production Pattern (Python)](https://gist.github.com/rehan243/31fd071240a0b3d06aec77556dac2979)** <sub>(2026-07-09)</sub>
-
-📌 **[Multi-Provider LLM Router with Fallback, Production Pattern (Python)](https://gist.github.com/rehan243/c9dc8b3b7ab5bc871a04a4552500c9de)** <sub>(2026-07-09)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
