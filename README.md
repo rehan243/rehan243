@@ -165,6 +165,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-13-multi-agent-ai-orchestration-patterns.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Multi Agent Ai Orchestration Patterns](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-13-multi-agent-ai-orchestration-patterns.md)**
+<br/><sub>2026-07-13</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-13-model-context-protocol-and-tool-use.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Model Context Protocol And Tool Use](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-13-model-context-protocol-and-tool-use.md)**
+<br/><sub>2026-07-13</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-12-clear-topic-name.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
 </a>
@@ -184,28 +206,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-09-clear-topic-name.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-09-clear-topic-name.md)**
-<br/><sub>2026-07-09</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-08-clear-topic-name.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-08-clear-topic-name.md)**
-<br/><sub>2026-07-08</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles ->](https://github.com/rehan243/AI-Engineering-Notes)
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-⭐ Starred `Shubh2-0/Shubh2-0` <sub>(2026-07-12)</sub>
+💬 Commented on [ty error in remote machine](https://github.com/marimo-team/marimo) in `marimo-team/marimo` <sub>(2026-07-13)</sub>
 
-💬 Commented on [训练多模态模型function_call能力，如何构建数据集进行训练](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-07-12)</sub>
+💬 Commented on [llama / gguf interface broken?](https://github.com/EleutherAI/lm-evaluation-harness) in `EleutherAI/lm-evaluation-harness` <sub>(2026-07-13)</sub>
 
-💬 Commented on [Reusing UI across multiple code locations (local)](https://github.com/ion-elgreco/rivers) in `ion-elgreco/rivers` <sub>(2026-07-12)</sub>
+💬 Commented on [When using OpenAI Responses API in streaming mode, there is ](https://github.com/langchain-ai/langchain) in `langchain-ai/langchain` <sub>(2026-07-13)</sub>
 
-💬 Commented on [Replace MinIO with Garage, Community Edition is no longer m](https://github.com/ClickHouse/code-interpreter) in `ClickHouse/code-interpreter` <sub>(2026-07-12)</sub>
+💬 Commented on [bug(llms/vllm): VLLM_BASE_URL env var is ignored, always con](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-07-13)</sub>
 
-💬 Commented on [Add a Slurm integration (step operator over SSH/local sbatch](https://github.com/zenml-io/zenml) in `zenml-io/zenml` <sub>(2026-07-12)</sub>
+⭐ Starred `ragapp/ragapp` <sub>(2026-07-13)</sub>
 
-💬 Commented on [Bug: Stop using v1 of Chroma API](https://github.com/microsoft/semantic-kernel) in `microsoft/semantic-kernel` <sub>(2026-07-12)</sub>
+⭐ Starred `nomic-ai/gpt4all` <sub>(2026-07-13)</sub>
 
-💬 Commented on [feat(go): Add authentication and authorization support to Go](https://github.com/feast-dev/feast) in `feast-dev/feast` <sub>(2026-07-12)</sub>
+⭐ Starred `damiansire/genai-fullstack-blueprint` <sub>(2026-07-13)</sub>
 
-💬 Commented on [Misc. bug: server deepseek4 prompt cache logs LCP match (sim](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-07-12)</sub>
+⭐ Starred `bitrouter/bitrouter` <sub>(2026-07-13)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 Clear topic name.
 
 🔬 Multi-Agent LLM Financial Trading Framework.
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 <clear topic name>
 
 🔬 clear topic name
-
-🔬 Fine-Tuning and Serving Tiny LLMs (<1B Parameters) for Cost-Efficient Inference
-
-🔬 Retrieval-Augmented Generation (RAG) at Scale in Enterprise LLM Applications
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[RAG Relevance Scorer using Cross-Encoder, Production Pattern (Python)](https://gist.github.com/rehan243/7664b3b104846f96150cfc98fd557c1c)** <sub>(2026-07-13)</sub>
+
+📌 **[Agent Tool Registry with Dynamic Discovery, Production Pattern (Python)](https://gist.github.com/rehan243/da2f18ac6c1767ddaf23e24f0b5019c0)** <sub>(2026-07-13)</sub>
+
 📌 **[Embedding Cache with LRU Eviction, Production Pattern (Python)](https://gist.github.com/rehan243/6ae2802b5850aa9eeb3a718715fcd02f)** <sub>(2026-07-12)</sub>
-
-📌 **[Real-Time Feature Store Client, Production Pattern (Python)](https://gist.github.com/rehan243/20e353f144589255677ddc2e10947f42)** <sub>(2026-07-10)</sub>
-
-📌 **[Structured Output Validator for JSON Schema, Production Pattern (Python)](https://gist.github.com/rehan243/31fd071240a0b3d06aec77556dac2979)** <sub>(2026-07-09)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
