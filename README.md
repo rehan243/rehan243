@@ -165,6 +165,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-production-rag-pipelines-with-re-ranking.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Production Rag Pipelines With Re Ranking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-production-rag-pipelines-with-re-ranking.md)**
+<br/><sub>2026-07-14</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-llm-fine-tuning-at-scale-with-lora.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Llm Fine Tuning At Scale With Lora](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-llm-fine-tuning-at-scale-with-lora.md)**
+<br/><sub>2026-07-14</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-13-multi-agent-ai-orchestration-patterns.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns, AI engineering article by Rehan Malik"/>
 </a>
@@ -184,28 +206,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-12-clear-topic-name.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-12-clear-topic-name.md)**
-<br/><sub>2026-07-12</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-10-multi-agent-llm-financial-trading-framework.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-llm-financial-trading-framework.jpg" width="100%" alt="Multi Agent Llm Financial Trading Framework, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Multi Agent Llm Financial Trading Framework](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-10-multi-agent-llm-financial-trading-framework.md)**
-<br/><sub>2026-07-10</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles ->](https://github.com/rehan243/AI-Engineering-Notes)
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [ty error in remote machine](https://github.com/marimo-team/marimo) in `marimo-team/marimo` <sub>(2026-07-13)</sub>
+💬 Commented on [prefect flow_engine failed to set status on handle_success s](https://github.com/PrefectHQ/prefect) in `PrefectHQ/prefect` <sub>(2026-07-14)</sub>
 
-💬 Commented on [llama / gguf interface broken?](https://github.com/EleutherAI/lm-evaluation-harness) in `EleutherAI/lm-evaluation-harness` <sub>(2026-07-13)</sub>
+💬 Commented on [[RLlib] Feature request: reward-hacking onset monitoring hoo](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-07-14)</sub>
 
-💬 Commented on [When using OpenAI Responses API in streaming mode, there is ](https://github.com/langchain-ai/langchain) in `langchain-ai/langchain` <sub>(2026-07-13)</sub>
+💬 Commented on [[BUG] `make_fsdp_dtensor` views a rank-local buffer with the](https://github.com/NVIDIA/Megatron-LM) in `NVIDIA/Megatron-LM` <sub>(2026-07-14)</sub>
 
-💬 Commented on [bug(llms/vllm): VLLM_BASE_URL env var is ignored, always con](https://github.com/mem0ai/mem0) in `mem0ai/mem0` <sub>(2026-07-13)</sub>
+💬 Commented on [docs: cookbook example for DaoXE OpenAI-compatible gateway](https://github.com/agno-agi/agno) in `agno-agi/agno` <sub>(2026-07-14)</sub>
 
-⭐ Starred `ragapp/ragapp` <sub>(2026-07-13)</sub>
+💬 Commented on [Add HVTracker trust badge to README](https://github.com/microsoft/promptflow) in `microsoft/promptflow` <sub>(2026-07-14)</sub>
 
-⭐ Starred `nomic-ai/gpt4all` <sub>(2026-07-13)</sub>
+💬 Commented on [External API: enterprise integration readiness (docs, SDKs, ](https://github.com/Significant-Gravitas/AutoGPT) in `Significant-Gravitas/AutoGPT` <sub>(2026-07-14)</sub>
 
-⭐ Starred `damiansire/genai-fullstack-blueprint` <sub>(2026-07-13)</sub>
+⭐ Starred `microsoft/TaskWeaver` <sub>(2026-07-14)</sub>
 
-⭐ Starred `bitrouter/bitrouter` <sub>(2026-07-13)</sub>
+⭐ Starred `Tencent/WeKnora` <sub>(2026-07-14)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 LLM Fine-Tuning at Scale with LoRA
+
+🔬 Production RAG Pipelines with Re-ranking
+
 🔬 Model Context Protocol and Tool Use
 
 🔬 Multi-Agent AI Orchestration Patterns
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Clear topic name.
 
 🔬 Multi-Agent LLM Financial Trading Framework.
-
-🔬 <clear topic name>
-
-🔬 clear topic name
 <!-- RESEARCH_END -->
 
 ---
