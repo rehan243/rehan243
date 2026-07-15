@@ -165,6 +165,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-15-model-context-protocol-and-tool-use.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Model Context Protocol And Tool Use](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-15-model-context-protocol-and-tool-use.md)**
+<br/><sub>2026-07-15</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-15-agentic-coding-assistants-architecture.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/agentic-coding-assistants-architecture.jpg" width="100%" alt="Agentic Coding Assistants Architecture, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Agentic Coding Assistants Architecture](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-15-agentic-coding-assistants-architecture.md)**
+<br/><sub>2026-07-15</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-production-rag-pipelines-with-re-ranking.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking, AI engineering article by Rehan Malik"/>
 </a>
@@ -184,28 +206,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-13-multi-agent-ai-orchestration-patterns.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Multi Agent Ai Orchestration Patterns](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-13-multi-agent-ai-orchestration-patterns.md)**
-<br/><sub>2026-07-13</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-13-model-context-protocol-and-tool-use.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Model Context Protocol And Tool Use](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-13-model-context-protocol-and-tool-use.md)**
-<br/><sub>2026-07-13</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles ->](https://github.com/rehan243/AI-Engineering-Notes)
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+💬 Commented on [BrowserSession fails on headless Linux: watchdog timeout and](https://github.com/browser-use/browser-use) in `browser-use/browser-use` <sub>(2026-07-15)</sub>
+
+💬 Commented on [dspy.Audio auto-downloads from any http(s) string with no ti](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-07-15)</sub>
+
+💬 Commented on [[Bug] Unsloth Studio asks me to update to Llama.cpp b10001, ](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-15)</sub>
+
+💬 Commented on [Unable to materialize component based asset with multiple pa](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-07-15)</sub>
+
+💬 Commented on [[Feature] FunASR as self-hosted speech-to-text tool for voic](https://github.com/microsoft/autogen) in `microsoft/autogen` <sub>(2026-07-15)</sub>
+
+⭐ Starred `Lightning-AI/litgpt` <sub>(2026-07-15)</sub>
+
+⭐ Starred `mistralai/mistral-inference` <sub>(2026-07-15)</sub>
+
 💬 Commented on [prefect flow_engine failed to set status on handle_success s](https://github.com/PrefectHQ/prefect) in `PrefectHQ/prefect` <sub>(2026-07-14)</sub>
-
-💬 Commented on [[RLlib] Feature request: reward-hacking onset monitoring hoo](https://github.com/ray-project/ray) in `ray-project/ray` <sub>(2026-07-14)</sub>
-
-💬 Commented on [[BUG] `make_fsdp_dtensor` views a rank-local buffer with the](https://github.com/NVIDIA/Megatron-LM) in `NVIDIA/Megatron-LM` <sub>(2026-07-14)</sub>
-
-💬 Commented on [docs: cookbook example for DaoXE OpenAI-compatible gateway](https://github.com/agno-agi/agno) in `agno-agi/agno` <sub>(2026-07-14)</sub>
-
-💬 Commented on [Add HVTracker trust badge to README](https://github.com/microsoft/promptflow) in `microsoft/promptflow` <sub>(2026-07-14)</sub>
-
-💬 Commented on [External API: enterprise integration readiness (docs, SDKs, ](https://github.com/Significant-Gravitas/AutoGPT) in `Significant-Gravitas/AutoGPT` <sub>(2026-07-14)</sub>
-
-⭐ Starred `microsoft/TaskWeaver` <sub>(2026-07-14)</sub>
-
-⭐ Starred `Tencent/WeKnora` <sub>(2026-07-14)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI Inference Optimization
+
+🔬 Model Context Protocol and Tool Use
+
+🔬 Agentic Coding Assistants Architecture
+
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 Model Context Protocol and Tool Use
-
-🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Clear topic name.
-
-🔬 Multi-Agent LLM Financial Trading Framework.
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Async Retry Pattern with Exponential Backoff, Production Pattern (Python)](https://gist.github.com/rehan243/3a7135575b8fc973405de3f9108a5bff)** <sub>(2026-07-15)</sub>
+
+📌 **[Real-Time Feature Store Client, Production Pattern (Python)](https://gist.github.com/rehan243/2cad7877ee93043e003199d98eb51c18)** <sub>(2026-07-15)</sub>
+
 📌 **[RAG Relevance Scorer using Cross-Encoder, Production Pattern (Python)](https://gist.github.com/rehan243/7664b3b104846f96150cfc98fd557c1c)** <sub>(2026-07-13)</sub>
-
-📌 **[Agent Tool Registry with Dynamic Discovery, Production Pattern (Python)](https://gist.github.com/rehan243/da2f18ac6c1767ddaf23e24f0b5019c0)** <sub>(2026-07-13)</sub>
-
-📌 **[Embedding Cache with LRU Eviction, Production Pattern (Python)](https://gist.github.com/rehan243/6ae2802b5850aa9eeb3a718715fcd02f)** <sub>(2026-07-12)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
