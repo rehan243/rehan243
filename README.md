@@ -165,6 +165,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-16-graph-rag-and-knowledge-graphs-for-llms.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Graph Rag And Knowledge Graphs For Llms](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-16-graph-rag-and-knowledge-graphs-for-llms.md)**
+<br/><sub>2026-07-16</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-15-model-context-protocol-and-tool-use.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,6 +183,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-15</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-15-agentic-coding-assistants-architecture.md">
@@ -183,8 +195,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-15</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-production-rag-pipelines-with-re-ranking.md">
@@ -192,16 +202,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 </a>
 
 **[Production Rag Pipelines With Re Ranking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-production-rag-pipelines-with-re-ranking.md)**
-<br/><sub>2026-07-14</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-llm-fine-tuning-at-scale-with-lora.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/llm-fine-tuning-at-scale-with-lora.jpg" width="100%" alt="Llm Fine Tuning At Scale With Lora, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Llm Fine Tuning At Scale With Lora](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-llm-fine-tuning-at-scale-with-lora.md)**
 <br/><sub>2026-07-14</sub>
 
 </td>
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [BrowserSession fails on headless Linux: watchdog timeout and](https://github.com/browser-use/browser-use) in `browser-use/browser-use` <sub>(2026-07-15)</sub>
+💬 Commented on [`spacy` fails to specify `click` as a dependency even though](https://github.com/explosion/spaCy) in `explosion/spaCy` <sub>(2026-07-16)</sub>
 
-💬 Commented on [dspy.Audio auto-downloads from any http(s) string with no ti](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-07-15)</sub>
+💬 Commented on [CUDA Out of Memory for 20B Model on 2 A100 40GB GPUs](https://github.com/EleutherAI/gpt-neox) in `EleutherAI/gpt-neox` <sub>(2026-07-16)</sub>
 
-💬 Commented on [[Bug] Unsloth Studio asks me to update to Llama.cpp b10001, ](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-15)</sub>
+💬 Commented on [训练多模态模型function_call能力，如何构建数据集进行训练](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-07-16)</sub>
 
-💬 Commented on [Unable to materialize component based asset with multiple pa](https://github.com/dagster-io/dagster) in `dagster-io/dagster` <sub>(2026-07-15)</sub>
+💬 Commented on [jax.lax.betainc does not support gradients with respect to a](https://github.com/jax-ml/jax) in `jax-ml/jax` <sub>(2026-07-16)</sub>
 
-💬 Commented on [[Feature] FunASR as self-hosted speech-to-text tool for voic](https://github.com/microsoft/autogen) in `microsoft/autogen` <sub>(2026-07-15)</sub>
+💬 Commented on [InMemoryStore upsert overwrites created_at on existing keys](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-07-16)</sub>
 
-⭐ Starred `Lightning-AI/litgpt` <sub>(2026-07-15)</sub>
+💬 Commented on [[Bug] The model does not work correctly when calling the too](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-16)</sub>
 
-⭐ Starred `mistralai/mistral-inference` <sub>(2026-07-15)</sub>
+💬 Commented on [bug: tool config does not get passed in dataset experiments ](https://github.com/langfuse/langfuse) in `langfuse/langfuse` <sub>(2026-07-16)</sub>
 
-💬 Commented on [prefect flow_engine failed to set status on handle_success s](https://github.com/PrefectHQ/prefect) in `PrefectHQ/prefect` <sub>(2026-07-14)</sub>
+⭐ Starred `SigNoz/signoz` <sub>(2026-07-16)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 LLM Fine-Tuning at Scale with LoRA
+
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
 🔬 Real-Time AI Inference Optimization
 
 🔬 Model Context Protocol and Tool Use
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Agentic Coding Assistants Architecture
 
 🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Production RAG Pipelines with Re-ranking
-
-🔬 Model Context Protocol and Tool Use
 <!-- RESEARCH_END -->
 
 ---
