@@ -165,6 +165,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-multi-agent-ai-orchestration-patterns.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Multi Agent Ai Orchestration Patterns](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-multi-agent-ai-orchestration-patterns.md)**
+<br/><sub>2026-07-18</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-model-context-protocol-and-tool-use.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Model Context Protocol And Tool Use](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-model-context-protocol-and-tool-use.md)**
+<br/><sub>2026-07-18</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-16-graph-rag-and-knowledge-graphs-for-llms.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms, AI engineering article by Rehan Malik"/>
 </a>
@@ -184,28 +206,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-15-agentic-coding-assistants-architecture.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/agentic-coding-assistants-architecture.jpg" width="100%" alt="Agentic Coding Assistants Architecture, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Agentic Coding Assistants Architecture](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-15-agentic-coding-assistants-architecture.md)**
-<br/><sub>2026-07-15</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-production-rag-pipelines-with-re-ranking.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Production Rag Pipelines With Re Ranking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-14-production-rag-pipelines-with-re-ranking.md)**
-<br/><sub>2026-07-14</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles ->](https://github.com/rehan243/AI-Engineering-Notes)
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [`spacy` fails to specify `click` as a dependency even though](https://github.com/explosion/spaCy) in `explosion/spaCy` <sub>(2026-07-16)</sub>
+💬 Commented on [Expert-granularity CPU offload for quantized MoE: 30B-A3B QL](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-07-18)</sub>
 
-💬 Commented on [CUDA Out of Memory for 20B Model on 2 A100 40GB GPUs](https://github.com/EleutherAI/gpt-neox) in `EleutherAI/gpt-neox` <sub>(2026-07-16)</sub>
+💬 Commented on [[Bug]: transcription with `response_format=json` fails pydan](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-07-18)</sub>
 
-💬 Commented on [训练多模态模型function_call能力，如何构建数据集进行训练](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-07-16)</sub>
+💬 Commented on [Feature request : LLM Integration for Knowledge Graph Enhanc](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-07-18)</sub>
 
-💬 Commented on [jax.lax.betainc does not support gradients with respect to a](https://github.com/jax-ml/jax) in `jax-ml/jax` <sub>(2026-07-16)</sub>
+💬 Commented on [InMemoryStore upsert overwrites created_at on existing keys](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-07-18)</sub>
 
-💬 Commented on [InMemoryStore upsert overwrites created_at on existing keys](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-07-16)</sub>
+💬 Commented on [[BUG]](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-07-18)</sub>
 
-💬 Commented on [[Bug] The model does not work correctly when calling the too](https://github.com/unslothai/unsloth) in `unslothai/unsloth` <sub>(2026-07-16)</sub>
+💬 Commented on [get_model_config raises ValueError when using official varia](https://github.com/google/gemma_pytorch) in `google/gemma_pytorch` <sub>(2026-07-18)</sub>
 
-💬 Commented on [bug: tool config does not get passed in dataset experiments ](https://github.com/langfuse/langfuse) in `langfuse/langfuse` <sub>(2026-07-16)</sub>
+⭐ Starred `predibase/lorax` <sub>(2026-07-18)</sub>
 
-⭐ Starred `SigNoz/signoz` <sub>(2026-07-16)</sub>
+⭐ Starred `datastax/ragstack-ai` <sub>(2026-07-18)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Graph RAG and Knowledge Graphs for LLMs
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Real-Time AI Inference Optimization
 
 🔬 Model Context Protocol and Tool Use
-
-🔬 Agentic Coding Assistants Architecture
-
-🔬 LLM Fine-Tuning at Scale with LoRA
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Prompt Template Engine with Variable Injection, Production Pattern (Python)](https://gist.github.com/rehan243/96eecda376432189230f6960070245a6)** <sub>(2026-07-18)</sub>
+
 📌 **[Async Retry Pattern with Exponential Backoff, Production Pattern (Python)](https://gist.github.com/rehan243/3a7135575b8fc973405de3f9108a5bff)** <sub>(2026-07-15)</sub>
 
 📌 **[Real-Time Feature Store Client, Production Pattern (Python)](https://gist.github.com/rehan243/2cad7877ee93043e003199d98eb51c18)** <sub>(2026-07-15)</sub>
-
-📌 **[RAG Relevance Scorer using Cross-Encoder, Production Pattern (Python)](https://gist.github.com/rehan243/7664b3b104846f96150cfc98fd557c1c)** <sub>(2026-07-13)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
