@@ -165,6 +165,12 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+**[Context Scaling In Robotic Policies With Dynamic](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-19-context-scaling-in-robotic-policies-with-dynamic.md)**
+<br/><sub>2026-07-19</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-multi-agent-ai-orchestration-patterns.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,6 +179,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-18</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-model-context-protocol-and-tool-use.md">
@@ -183,8 +191,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-18</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-16-graph-rag-and-knowledge-graphs-for-llms.md">
@@ -193,16 +199,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Graph Rag And Knowledge Graphs For Llms](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-16-graph-rag-and-knowledge-graphs-for-llms.md)**
 <br/><sub>2026-07-16</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-15-model-context-protocol-and-tool-use.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Model Context Protocol And Tool Use](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-15-model-context-protocol-and-tool-use.md)**
-<br/><sub>2026-07-15</sub>
 
 </td>
 </tr>
@@ -216,21 +212,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Expert-granularity CPU offload for quantized MoE: 30B-A3B QL](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-07-18)</sub>
+💬 Commented on [ cannot import name 'rotate_half' from 'sat.model.official.l](https://github.com/zai-org/CogVLM) in `zai-org/CogVLM` <sub>(2026-07-19)</sub>
 
-💬 Commented on [[Bug]: transcription with `response_format=json` fails pydan](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-07-18)</sub>
+💬 Commented on [[Bug]: Gemma4 INT4 AWQ quantization fails during export: Gem](https://github.com/NVIDIA/TensorRT-LLM) in `NVIDIA/TensorRT-LLM` <sub>(2026-07-19)</sub>
 
-💬 Commented on [Feature request : LLM Integration for Knowledge Graph Enhanc](https://github.com/neuml/txtai) in `neuml/txtai` <sub>(2026-07-18)</sub>
+💬 Commented on [[BUG]: Hand-written OTLP plugin: openinference.span.kind in](https://github.com/Arize-ai/phoenix) in `Arize-ai/phoenix` <sub>(2026-07-19)</sub>
 
-💬 Commented on [InMemoryStore upsert overwrites created_at on existing keys](https://github.com/langchain-ai/langgraph) in `langchain-ai/langgraph` <sub>(2026-07-18)</sub>
+💬 Commented on [训练多模态模型function_call能力，如何构建数据集进行训练](https://github.com/hiyouga/LlamaFactory) in `hiyouga/LlamaFactory` <sub>(2026-07-19)</sub>
 
-💬 Commented on [[BUG]](https://github.com/deepseek-ai/DeepSeek-V3) in `deepseek-ai/DeepSeek-V3` <sub>(2026-07-18)</sub>
+⭐ Starred `zhayujie/CowAgent` <sub>(2026-07-19)</sub>
 
-💬 Commented on [get_model_config raises ValueError when using official varia](https://github.com/google/gemma_pytorch) in `google/gemma_pytorch` <sub>(2026-07-18)</sub>
+⭐ Starred `arbs-io/github-copilot-llm-gateway` <sub>(2026-07-19)</sub>
 
-⭐ Starred `predibase/lorax` <sub>(2026-07-18)</sub>
+⭐ Starred `BjornMelin/docmind-ai-llm` <sub>(2026-07-19)</sub>
 
-⭐ Starred `datastax/ragstack-ai` <sub>(2026-07-18)</sub>
+⭐ Starred `matrixhub-ai/matrixhub` <sub>(2026-07-19)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +236,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 "Context Scaling in Robotic Policies with Dynamic Novel View Synthesis"
+
 🔬 Model Context Protocol and Tool Use
 
 🔬 Multi-Agent AI Orchestration Patterns
@@ -249,8 +247,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Real-Time AI Inference Optimization
-
-🔬 Model Context Protocol and Tool Use
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +254,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Structured Output Validator for JSON Schema, Production Pattern (Python)](https://gist.github.com/rehan243/9ef19be36a96d8f021f231587cf030d1)** <sub>(2026-07-19)</sub>
+
 📌 **[Prompt Template Engine with Variable Injection, Production Pattern (Python)](https://gist.github.com/rehan243/96eecda376432189230f6960070245a6)** <sub>(2026-07-18)</sub>
 
 📌 **[Async Retry Pattern with Exponential Backoff, Production Pattern (Python)](https://gist.github.com/rehan243/3a7135575b8fc973405de3f9108a5bff)** <sub>(2026-07-15)</sub>
-
-📌 **[Real-Time Feature Store Client, Production Pattern (Python)](https://gist.github.com/rehan243/2cad7877ee93043e003199d98eb51c18)** <sub>(2026-07-15)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
