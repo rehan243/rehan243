@@ -165,6 +165,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-21-clear-topic-name.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-21-clear-topic-name.md)**
+<br/><sub>2026-07-21</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-20-real-time-ai-inference-optimization.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,14 +183,14 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-20</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Context Scaling In Robotic Policies With Dynamic](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-19-context-scaling-in-robotic-policies-with-dynamic.md)**
 <br/><sub>2026-07-19</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-multi-agent-ai-orchestration-patterns.md">
@@ -188,16 +198,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 </a>
 
 **[Multi Agent Ai Orchestration Patterns](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-multi-agent-ai-orchestration-patterns.md)**
-<br/><sub>2026-07-18</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-model-context-protocol-and-tool-use.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/model-context-protocol-and-tool-use.jpg" width="100%" alt="Model Context Protocol And Tool Use, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Model Context Protocol And Tool Use](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-model-context-protocol-and-tool-use.md)**
 <br/><sub>2026-07-18</sub>
 
 </td>
@@ -212,21 +212,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [models.AzureOpenAI class missing in guidance.models despite ](https://github.com/guidance-ai/guidance) in `guidance-ai/guidance` <sub>(2026-07-20)</sub>
+💬 Commented on [[Feature Request] Integrate Oracle Database as a Vector Stor](https://github.com/camel-ai/camel) in `camel-ai/camel` <sub>(2026-07-21)</sub>
 
-💬 Commented on [Should Llama 3.3 prompt format be referencing 3.2?](https://github.com/meta-llama/llama-models) in `meta-llama/llama-models` <sub>(2026-07-20)</sub>
+💬 Commented on [Sweep: Unrestricted File Write allows Supply Chain Poisoning](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-07-21)</sub>
 
-💬 Commented on [Openrouter error](https://github.com/Fosowl/agenticSeek) in `Fosowl/agenticSeek` <sub>(2026-07-20)</sub>
+💬 Commented on [[Bug]: project budgets missing from atomic pre-call budget r](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-07-21)</sub>
 
-💬 Commented on [Failed to upload pdf file](https://github.com/ragapp/ragapp) in `ragapp/ragapp` <sub>(2026-07-20)</sub>
+💬 Commented on [CUDA Out of Memory for 20B Model on 2 A100 40GB GPUs](https://github.com/EleutherAI/gpt-neox) in `EleutherAI/gpt-neox` <sub>(2026-07-21)</sub>
 
-💬 Commented on [No Streaming API for streaming sortformer?](https://github.com/NVIDIA-NeMo/Speech) in `NVIDIA-NeMo/Speech` <sub>(2026-07-20)</sub>
+💬 Commented on [dvc-data dependency python-diskcache has critical vulnerabil](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-07-21)</sub>
 
-💬 Commented on [Support for SSM models (Mamba, Mamba2)](https://github.com/Lightning-AI/litgpt) in `Lightning-AI/litgpt` <sub>(2026-07-20)</sub>
+💬 Commented on [[Feature]: Support Vercel agent-skills](https://github.com/superagent-ai/superagent) in `superagent-ai/superagent` <sub>(2026-07-21)</sub>
 
-💬 Commented on [Global concurrency not being applied to tasks when using Das](https://github.com/PrefectHQ/prefect) in `PrefectHQ/prefect` <sub>(2026-07-20)</sub>
+⭐ Starred `google/mantis` <sub>(2026-07-21)</sub>
 
-⭐ Starred `mem0ai/mem0` <sub>(2026-07-20)</sub>
+⭐ Starred `kyaukyuai/gpt-all-star` <sub>(2026-07-21)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -236,6 +236,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 <clear topic name>
+
 🔬 AI Safety and Alignment Engineering
 
 🔬 Real-Time AI Inference Optimization
@@ -245,8 +247,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Model Context Protocol and Tool Use
 
 🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 LLM Fine-Tuning at Scale with LoRA
 <!-- RESEARCH_END -->
 
 ---
@@ -254,11 +254,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Data Drift Detector using KS-Test, Production Pattern (Python)](https://gist.github.com/rehan243/506bfda8d629b21baa85e2318bbfd64a)** <sub>(2026-07-21)</sub>
+
 📌 **[Vector Similarity Search with FAISS, Production Pattern (Python)](https://gist.github.com/rehan243/e0d33ceabd747032f233a9e1a66723a5)** <sub>(2026-07-20)</sub>
 
 📌 **[Structured Output Validator for JSON Schema, Production Pattern (Python)](https://gist.github.com/rehan243/9ef19be36a96d8f021f231587cf030d1)** <sub>(2026-07-19)</sub>
-
-📌 **[Prompt Template Engine with Variable Injection, Production Pattern (Python)](https://gist.github.com/rehan243/96eecda376432189230f6960070245a6)** <sub>(2026-07-18)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
