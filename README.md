@@ -165,6 +165,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-23-unified-fine-tuning-across-llms-and-vision.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/unified-fine-tuning-across-llms-and-vision.jpg" width="100%" alt="Unified Fine Tuning Across Llms And Vision, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Unified Fine Tuning Across Llms And Vision](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-23-unified-fine-tuning-across-llms-and-vision.md)**
+<br/><sub>2026-07-23</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-23-superagents-for-long-horizon-multi-tasking.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/superagents-for-long-horizon-multi-tasking.jpg" width="100%" alt="Superagents For Long Horizon Multi Tasking, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Superagents For Long Horizon Multi Tasking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-23-superagents-for-long-horizon-multi-tasking.md)**
+<br/><sub>2026-07-23</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-21-clear-topic-name.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
 </a>
@@ -184,24 +206,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Context Scaling In Robotic Policies With Dynamic](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-19-context-scaling-in-robotic-policies-with-dynamic.md)**
-<br/><sub>2026-07-19</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-multi-agent-ai-orchestration-patterns.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Multi Agent Ai Orchestration Patterns](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-18-multi-agent-ai-orchestration-patterns.md)**
-<br/><sub>2026-07-18</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles ->](https://github.com/rehan243/AI-Engineering-Notes)
@@ -212,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [[Feature Request] Integrate Oracle Database as a Vector Stor](https://github.com/camel-ai/camel) in `camel-ai/camel` <sub>(2026-07-21)</sub>
+💬 Commented on [Is each subset of the SA-1B dataset randomly shuffled, or do](https://github.com/facebookresearch/segment-anything) in `facebookresearch/segment-anything` <sub>(2026-07-23)</sub>
 
-💬 Commented on [Sweep: Unrestricted File Write allows Supply Chain Poisoning](https://github.com/sweepai/sweep) in `sweepai/sweep` <sub>(2026-07-21)</sub>
+💬 Commented on [issue connecting to Qwen models on chat.qwen.ai](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-07-23)</sub>
 
-💬 Commented on [[Bug]: project budgets missing from atomic pre-call budget r](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-07-21)</sub>
+💬 Commented on [When will the first NeMo Speech release after the repo split](https://github.com/NVIDIA-NeMo/Speech) in `NVIDIA-NeMo/Speech` <sub>(2026-07-23)</sub>
 
-💬 Commented on [CUDA Out of Memory for 20B Model on 2 A100 40GB GPUs](https://github.com/EleutherAI/gpt-neox) in `EleutherAI/gpt-neox` <sub>(2026-07-21)</sub>
+💬 Commented on [GPT Crawler cli Drop-in config](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-07-23)</sub>
 
-💬 Commented on [dvc-data dependency python-diskcache has critical vulnerabil](https://github.com/treeverse/dvc) in `treeverse/dvc` <sub>(2026-07-21)</sub>
+💬 Commented on [dspy.Image/dspy.Audio output-field parsing reads arbitrary l](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-07-23)</sub>
 
-💬 Commented on [[Feature]: Support Vercel agent-skills](https://github.com/superagent-ai/superagent) in `superagent-ai/superagent` <sub>(2026-07-21)</sub>
+💬 Commented on [Running tasks cannot be opened as workflow in new tab](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-07-23)</sub>
 
-⭐ Starred `google/mantis` <sub>(2026-07-21)</sub>
+⭐ Starred `zenml-io/zenml` <sub>(2026-07-23)</sub>
 
-⭐ Starred `kyaukyuai/gpt-all-star` <sub>(2026-07-21)</sub>
+⭐ Starred `microsoft/promptflow` <sub>(2026-07-23)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -236,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol (MCP) for Multi-Agent and Distributed AI Systems
+
+🔬 Unified Fine-Tuning Across LLMs and Vision-Language Models (VLMs)
+
+🔬 SuperAgents for Long-Horizon Multi-Tasking
+
 🔬 <clear topic name>
 
 🔬 AI Safety and Alignment Engineering
 
 🔬 Real-Time AI Inference Optimization
-
-🔬 "Context Scaling in Robotic Policies with Dynamic Novel View Synthesis"
-
-🔬 Model Context Protocol and Tool Use
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
