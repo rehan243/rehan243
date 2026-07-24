@@ -165,6 +165,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-24-clear-topic-name.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-24-clear-topic-name.md)**
+<br/><sub>2026-07-24</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-23-unified-fine-tuning-across-llms-and-vision.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/unified-fine-tuning-across-llms-and-vision.jpg" width="100%" alt="Unified Fine Tuning Across Llms And Vision, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,6 +183,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-23</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-23-superagents-for-long-horizon-multi-tasking.md">
@@ -183,8 +195,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-23</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-21-clear-topic-name.md">
@@ -193,16 +203,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-21-clear-topic-name.md)**
 <br/><sub>2026-07-21</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-20-real-time-ai-inference-optimization.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/real-time-ai-inference-optimization.jpg" width="100%" alt="Real Time Ai Inference Optimization, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Real Time Ai Inference Optimization](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-20-real-time-ai-inference-optimization.md)**
-<br/><sub>2026-07-20</sub>
 
 </td>
 </tr>
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Is each subset of the SA-1B dataset randomly shuffled, or do](https://github.com/facebookresearch/segment-anything) in `facebookresearch/segment-anything` <sub>(2026-07-23)</sub>
+💬 Commented on [Collaboration: open bounty system for CrewAI agents, opport](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-07-24)</sub>
 
-💬 Commented on [issue connecting to Qwen models on chat.qwen.ai](https://github.com/QwenLM/Qwen) in `QwenLM/Qwen` <sub>(2026-07-23)</sub>
+⭐ Starred `Shubh2-0/backend-utility-tools` <sub>(2026-07-24)</sub>
 
-💬 Commented on [When will the first NeMo Speech release after the repo split](https://github.com/NVIDIA-NeMo/Speech) in `NVIDIA-NeMo/Speech` <sub>(2026-07-23)</sub>
+💬 Commented on [Minor: Still shows "To continue this session, run codex resu](https://github.com/openinterpreter/openinterpreter) in `openinterpreter/openinterpreter` <sub>(2026-07-24)</sub>
 
-💬 Commented on [GPT Crawler cli Drop-in config](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-07-23)</sub>
+💬 Commented on [Unlisted-model whole edit-format auto-selection silently dis](https://github.com/Aider-AI/aider) in `Aider-AI/aider` <sub>(2026-07-24)</sub>
 
-💬 Commented on [dspy.Image/dspy.Audio output-field parsing reads arbitrary l](https://github.com/stanfordnlp/dspy) in `stanfordnlp/dspy` <sub>(2026-07-23)</sub>
+💬 Commented on [arm架构启动bge-reranker-large,只创建1个实例不能访问。需要创建2个独立实例，第1个实例才能访问(第](https://github.com/xorbitsai/inference) in `xorbitsai/inference` <sub>(2026-07-24)</sub>
 
-💬 Commented on [Running tasks cannot be opened as workflow in new tab](https://github.com/Comfy-Org/ComfyUI) in `Comfy-Org/ComfyUI` <sub>(2026-07-23)</sub>
+💬 Commented on [Paired significance test for comparing two runs (model_compa](https://github.com/EleutherAI/lm-evaluation-harness) in `EleutherAI/lm-evaluation-harness` <sub>(2026-07-24)</sub>
 
-⭐ Starred `zenml-io/zenml` <sub>(2026-07-23)</sub>
+💬 Commented on [[Feature]: Support Vercel agent-skills](https://github.com/superagent-ai/superagent) in `superagent-ai/superagent` <sub>(2026-07-24)</sub>
 
-⭐ Starred `microsoft/promptflow` <sub>(2026-07-23)</sub>
+⭐ Starred `SantanderAI/autoguardrails` <sub>(2026-07-24)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 clear topic name
+
 🔬 Model Context Protocol (MCP) for Multi-Agent and Distributed AI Systems
 
 🔬 Unified Fine-Tuning Across LLMs and Vision-Language Models (VLMs)
@@ -249,8 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 <clear topic name>
 
 🔬 AI Safety and Alignment Engineering
-
-🔬 Real-Time AI Inference Optimization
 <!-- RESEARCH_END -->
 
 ---
