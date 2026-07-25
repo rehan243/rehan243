@@ -165,6 +165,28 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-multi-agent-ai-orchestration-patterns.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Multi Agent Ai Orchestration Patterns](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-multi-agent-ai-orchestration-patterns.md)**
+<br/><sub>2026-07-25</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-agentic-coding-assistants-architecture.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/agentic-coding-assistants-architecture.jpg" width="100%" alt="Agentic Coding Assistants Architecture, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Agentic Coding Assistants Architecture](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-agentic-coding-assistants-architecture.md)**
+<br/><sub>2026-07-25</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-24-clear-topic-name.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
 </a>
@@ -184,28 +206,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-23-superagents-for-long-horizon-multi-tasking.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/superagents-for-long-horizon-multi-tasking.jpg" width="100%" alt="Superagents For Long Horizon Multi Tasking, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Superagents For Long Horizon Multi Tasking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-23-superagents-for-long-horizon-multi-tasking.md)**
-<br/><sub>2026-07-23</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-21-clear-topic-name.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/clear-topic-name.jpg" width="100%" alt="Clear Topic Name, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-21-clear-topic-name.md)**
-<br/><sub>2026-07-21</sub>
-
-</td>
-</tr>
 </table>
 
 [📚 View all articles ->](https://github.com/rehan243/AI-Engineering-Notes)
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [Collaboration: open bounty system for CrewAI agents, opport](https://github.com/crewAIInc/crewAI) in `crewAIInc/crewAI` <sub>(2026-07-24)</sub>
+💬 Commented on [BUG: ValueError crash in _parse_prefixed_args when argument ](https://github.com/microsoft/promptflow) in `microsoft/promptflow` <sub>(2026-07-25)</sub>
 
-⭐ Starred `Shubh2-0/backend-utility-tools` <sub>(2026-07-24)</sub>
+💬 Commented on [AI Agent 中文技术交流群](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-07-25)</sub>
 
-💬 Commented on [Minor: Still shows "To continue this session, run codex resu](https://github.com/openinterpreter/openinterpreter) in `openinterpreter/openinterpreter` <sub>(2026-07-24)</sub>
+💬 Commented on [Request to update pinned issues #19519 and #18442 to help co](https://github.com/keras-team/keras) in `keras-team/keras` <sub>(2026-07-25)</sub>
 
-💬 Commented on [Unlisted-model whole edit-format auto-selection silently dis](https://github.com/Aider-AI/aider) in `Aider-AI/aider` <sub>(2026-07-24)</sub>
+💬 Commented on [[YOLO11-OBB] OBB angles seem to mismatch DLE135 definition](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-07-25)</sub>
 
-💬 Commented on [arm架构启动bge-reranker-large,只创建1个实例不能访问。需要创建2个独立实例，第1个实例才能访问(第](https://github.com/xorbitsai/inference) in `xorbitsai/inference` <sub>(2026-07-24)</sub>
+💬 Commented on [url to weights listed in clip.py is not available.](https://github.com/openai/CLIP) in `openai/CLIP` <sub>(2026-07-25)</sub>
 
-💬 Commented on [Paired significance test for comparing two runs (model_compa](https://github.com/EleutherAI/lm-evaluation-harness) in `EleutherAI/lm-evaluation-harness` <sub>(2026-07-24)</sub>
+💬 Commented on [`--load-mode` refactor (#20834) removed the only safe combo ](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-07-25)</sub>
 
-💬 Commented on [[Feature]: Support Vercel agent-skills](https://github.com/superagent-ai/superagent) in `superagent-ai/superagent` <sub>(2026-07-24)</sub>
+💬 Commented on [Add function calling and MCP support](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-07-25)</sub>
 
-⭐ Starred `SantanderAI/autoguardrails` <sub>(2026-07-24)</sub>
+⭐ Starred `responsibleai/ASSERT` <sub>(2026-07-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
+🔬 Multi-Agent AI Orchestration Patterns
+
+🔬 Agentic Coding Assistants Architecture
+
 🔬 clear topic name
 
 🔬 Model Context Protocol (MCP) for Multi-Agent and Distributed AI Systems
 
 🔬 Unified Fine-Tuning Across LLMs and Vision-Language Models (VLMs)
-
-🔬 SuperAgents for Long-Horizon Multi-Tasking
-
-🔬 <clear topic name>
-
-🔬 AI Safety and Alignment Engineering
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Vector Similarity Search with FAISS, Production Pattern (Python)](https://gist.github.com/rehan243/07c6bb8507270de13b0786a451ddb8e3)** <sub>(2026-07-25)</sub>
+
+📌 **[Agent Tool Registry with Dynamic Discovery, Production Pattern (Python)](https://gist.github.com/rehan243/98c0665a0b9c2059aa89e6d6549b9ec5)** <sub>(2026-07-25)</sub>
+
 📌 **[Data Drift Detector using KS-Test, Production Pattern (Python)](https://gist.github.com/rehan243/506bfda8d629b21baa85e2318bbfd64a)** <sub>(2026-07-21)</sub>
-
-📌 **[Vector Similarity Search with FAISS, Production Pattern (Python)](https://gist.github.com/rehan243/e0d33ceabd747032f233a9e1a66723a5)** <sub>(2026-07-20)</sub>
-
-📌 **[Structured Output Validator for JSON Schema, Production Pattern (Python)](https://gist.github.com/rehan243/9ef19be36a96d8f021f231587cf030d1)** <sub>(2026-07-19)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
