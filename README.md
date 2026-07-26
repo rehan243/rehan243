@@ -165,6 +165,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-26-graph-rag-and-knowledge-graphs-for-llms.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Graph Rag And Knowledge Graphs For Llms](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-26-graph-rag-and-knowledge-graphs-for-llms.md)**
+<br/><sub>2026-07-26</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-multi-agent-ai-orchestration-patterns.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,6 +183,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-25</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-agentic-coding-assistants-architecture.md">
@@ -183,8 +195,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-25</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-24-clear-topic-name.md">
@@ -193,16 +203,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Clear Topic Name](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-24-clear-topic-name.md)**
 <br/><sub>2026-07-24</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-23-unified-fine-tuning-across-llms-and-vision.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/unified-fine-tuning-across-llms-and-vision.jpg" width="100%" alt="Unified Fine Tuning Across Llms And Vision, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Unified Fine Tuning Across Llms And Vision](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-23-unified-fine-tuning-across-llms-and-vision.md)**
-<br/><sub>2026-07-23</sub>
 
 </td>
 </tr>
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [BUG: ValueError crash in _parse_prefixed_args when argument ](https://github.com/microsoft/promptflow) in `microsoft/promptflow` <sub>(2026-07-25)</sub>
+💬 Commented on [In this mode, it's not possible to set the maximum segment l](https://github.com/langgenius/dify) in `langgenius/dify` <sub>(2026-07-26)</sub>
 
-💬 Commented on [AI Agent 中文技术交流群](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-07-25)</sub>
+💬 Commented on [Vouch Request - gameroman](https://github.com/triggerdotdev/trigger.dev) in `triggerdotdev/trigger.dev` <sub>(2026-07-26)</sub>
 
-💬 Commented on [Request to update pinned issues #19519 and #18442 to help co](https://github.com/keras-team/keras) in `keras-team/keras` <sub>(2026-07-25)</sub>
+💬 Commented on [Proposal: Runtime Verification for Autonomous Agent Command ](https://github.com/Significant-Gravitas/AutoGPT) in `Significant-Gravitas/AutoGPT` <sub>(2026-07-26)</sub>
 
-💬 Commented on [[YOLO11-OBB] OBB angles seem to mismatch DLE135 definition](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-07-25)</sub>
+💬 Commented on [[BUG] MySQL migration 1bd49d398cd23 leaves DB half-migrated;](https://github.com/mlflow/mlflow) in `mlflow/mlflow` <sub>(2026-07-26)</sub>
 
-💬 Commented on [url to weights listed in clip.py is not available.](https://github.com/openai/CLIP) in `openai/CLIP` <sub>(2026-07-25)</sub>
+💬 Commented on [apache-tvm-ffi<=0.1.12 (after #984) is incompatible with pin](https://github.com/state-spaces/mamba) in `state-spaces/mamba` <sub>(2026-07-26)</sub>
 
-💬 Commented on [`--load-mode` refactor (#20834) removed the only safe combo ](https://github.com/ggml-org/llama.cpp) in `ggml-org/llama.cpp` <sub>(2026-07-25)</sub>
+💬 Commented on [Inference on TPUs instead of GPUs.](https://github.com/black-forest-labs/flux) in `black-forest-labs/flux` <sub>(2026-07-26)</sub>
 
-💬 Commented on [Add function calling and MCP support](https://github.com/dottxt-ai/outlines) in `dottxt-ai/outlines` <sub>(2026-07-25)</sub>
+💬 Commented on [Different Results from ReadMe](https://github.com/lmarena/arena-hard-auto) in `lmarena/arena-hard-auto` <sub>(2026-07-26)</sub>
 
-⭐ Starred `responsibleai/ASSERT` <sub>(2026-07-25)</sub>
+⭐ Starred `BuilderIO/gpt-crawler` <sub>(2026-07-26)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Multi-Agent AI Orchestration Patterns
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Agentic Coding Assistants Architecture
 
 🔬 clear topic name
-
-🔬 Model Context Protocol (MCP) for Multi-Agent and Distributed AI Systems
-
-🔬 Unified Fine-Tuning Across LLMs and Vision-Language Models (VLMs)
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Real-Time Feature Store Client, Production Pattern (Python)](https://gist.github.com/rehan243/a95fc781b6fd51d2c32babccfd42fa87)** <sub>(2026-07-26)</sub>
+
+📌 **[Token Counter for Multi-Model Cost Estimation, Production Pattern (Python)](https://gist.github.com/rehan243/3d3ed54425746657c71a984e7b6a3b3d)** <sub>(2026-07-26)</sub>
+
 📌 **[Vector Similarity Search with FAISS, Production Pattern (Python)](https://gist.github.com/rehan243/07c6bb8507270de13b0786a451ddb8e3)** <sub>(2026-07-25)</sub>
-
-📌 **[Agent Tool Registry with Dynamic Discovery, Production Pattern (Python)](https://gist.github.com/rehan243/98c0665a0b9c2059aa89e6d6549b9ec5)** <sub>(2026-07-25)</sub>
-
-📌 **[Data Drift Detector using KS-Test, Production Pattern (Python)](https://gist.github.com/rehan243/506bfda8d629b21baa85e2318bbfd64a)** <sub>(2026-07-21)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
