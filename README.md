@@ -165,6 +165,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-28-high-performance-local-llm-inference-agentic.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/high-performance-local-llm-inference-agentic.jpg" width="100%" alt="High Performance Local Llm Inference Agentic, AI engineering article by Rehan Malik"/>
+</a>
+
+**[High Performance Local Llm Inference Agentic](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-28-high-performance-local-llm-inference-agentic.md)**
+<br/><sub>2026-07-28</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-27-hybrid-rag-architectures-for-production-workloads.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/hybrid-rag-architectures-for-production-workloads.jpg" width="100%" alt="Hybrid Rag Architectures For Production Workloads, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,6 +183,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-27</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-26-graph-rag-and-knowledge-graphs-for-llms.md">
@@ -183,8 +195,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-26</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-multi-agent-ai-orchestration-patterns.md">
@@ -192,16 +202,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 </a>
 
 **[Multi Agent Ai Orchestration Patterns](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-multi-agent-ai-orchestration-patterns.md)**
-<br/><sub>2026-07-25</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-agentic-coding-assistants-architecture.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/agentic-coding-assistants-architecture.jpg" width="100%" alt="Agentic Coding Assistants Architecture, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Agentic Coding Assistants Architecture](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-agentic-coding-assistants-architecture.md)**
 <br/><sub>2026-07-25</sub>
 
 </td>
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [t0_eval benchmark config cannot load: group entries lack a '](https://github.com/EleutherAI/lm-evaluation-harness) in `EleutherAI/lm-evaluation-harness` <sub>(2026-07-27)</sub>
+💬 Commented on [万人血书 InternLM2-4B ❗❕❗❕❗](https://github.com/InternLM/InternLM) in `InternLM/InternLM` <sub>(2026-07-28)</sub>
 
-💬 Commented on [[Feature] 搜索渠道希望能原生支持Tavily和EXA](https://github.com/Peiiii/nextclaw) in `Peiiii/nextclaw` <sub>(2026-07-27)</sub>
+💬 Commented on [Question when finetuning wall-x-flow for task Fold-Shirt](https://github.com/X-Square-Robot/wall-x) in `X-Square-Robot/wall-x` <sub>(2026-07-28)</sub>
 
-💬 Commented on [AttributeError: 'WindowsPath' object has no attribute 'read'](https://github.com/anthropics/anthropic-sdk-python) in `anthropics/anthropic-sdk-python` <sub>(2026-07-27)</sub>
+💬 Commented on [bug: RFC 9728 Protected Resource Metadata discovery is skipp](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-07-28)</sub>
 
-💬 Commented on [Generated code can read SSH private keys outside the project](https://github.com/Aider-AI/aider) in `Aider-AI/aider` <sub>(2026-07-27)</sub>
+💬 Commented on [[Bug]: Gemini context caching with custom api_base uses inva](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-07-28)</sub>
 
-💬 Commented on [[ColBERT] idea: return top_n best scoring tokens](https://github.com/datastax/ragstack-ai) in `datastax/ragstack-ai` <sub>(2026-07-27)</sub>
+💬 Commented on [[Bug]: File and image cache keys collide because BufferedRea](https://github.com/zilliztech/GPTCache) in `zilliztech/GPTCache` <sub>(2026-07-28)</sub>
 
-⭐ Starred `per-simmons/damon-ade` <sub>(2026-07-27)</sub>
+💬 Commented on [AI Agent 中文技术交流群](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-07-28)</sub>
 
-⭐ Starred `Heoooooon/lazy-starter-kit` <sub>(2026-07-27)</sub>
+⭐ Starred `Egoist-Machines/LodeDB` <sub>(2026-07-28)</sub>
 
-⭐ Starred `BlinkDL/ChatRWKV` <sub>(2026-07-27)</sub>
+⭐ Starred `boxed-dev/cognidb` <sub>(2026-07-28)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 End-to-End Agentic AI Workflows with RAG and Tool Integration
+
+🔬 1-bit Large Language Model Inference for Cost-Sensitive Deployments
+
+🔬 High-Performance Local LLM Inference & Agentic Workflows
+
 🔬 Multi-Agent Systems for Long-Horizon Tasks
 
 🔬 Quantized LLM Inference at Scale
 
 🔬 Hybrid RAG Architectures for Production Workloads
-
-🔬 Model Context Protocol and Tool Use
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[RAG Relevance Scorer using Cross-Encoder, Production Pattern (Python)](https://gist.github.com/rehan243/4a29f45e1ee254fd49de051a43835bb1)** <sub>(2026-07-28)</sub>
+
+📌 **[Structured Output Validator for JSON Schema, Production Pattern (Python)](https://gist.github.com/rehan243/fc6cfbc13796b6f92641e32ada3873b7)** <sub>(2026-07-28)</sub>
+
 📌 **[Embedding Cache with LRU Eviction, Production Pattern (Python)](https://gist.github.com/rehan243/ee93380539b1a342346dcdd9695d4262)** <sub>(2026-07-27)</sub>
-
-📌 **[Agent Tool Registry with Dynamic Discovery, Production Pattern (Python)](https://gist.github.com/rehan243/8277663b99c59095ada4479767fca32b)** <sub>(2026-07-27)</sub>
-
-📌 **[Real-Time Feature Store Client, Production Pattern (Python)](https://gist.github.com/rehan243/a95fc781b6fd51d2c32babccfd42fa87)** <sub>(2026-07-26)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
