@@ -165,6 +165,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-29-production-rag-pipelines-with-re-ranking.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Production Rag Pipelines With Re Ranking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-29-production-rag-pipelines-with-re-ranking.md)**
+<br/><sub>2026-07-29</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-28-high-performance-local-llm-inference-agentic.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/high-performance-local-llm-inference-agentic.jpg" width="100%" alt="High Performance Local Llm Inference Agentic, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,6 +183,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-28</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-27-hybrid-rag-architectures-for-production-workloads.md">
@@ -183,8 +195,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-27</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-26-graph-rag-and-knowledge-graphs-for-llms.md">
@@ -193,16 +203,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Graph Rag And Knowledge Graphs For Llms](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-26-graph-rag-and-knowledge-graphs-for-llms.md)**
 <br/><sub>2026-07-26</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-multi-agent-ai-orchestration-patterns.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/multi-agent-ai-orchestration-patterns.jpg" width="100%" alt="Multi Agent Ai Orchestration Patterns, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Multi Agent Ai Orchestration Patterns](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-25-multi-agent-ai-orchestration-patterns.md)**
-<br/><sub>2026-07-25</sub>
 
 </td>
 </tr>
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [万人血书 InternLM2-4B ❗❕❗❕❗](https://github.com/InternLM/InternLM) in `InternLM/InternLM` <sub>(2026-07-28)</sub>
+💬 Commented on [PEFT bump pending](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-07-29)</sub>
 
-💬 Commented on [Question when finetuning wall-x-flow for task Fold-Shirt](https://github.com/X-Square-Robot/wall-x) in `X-Square-Robot/wall-x` <sub>(2026-07-28)</sub>
+💬 Commented on [feature: support for pylock.toml](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-07-29)</sub>
 
-💬 Commented on [bug: RFC 9728 Protected Resource Metadata discovery is skipp](https://github.com/open-webui/open-webui) in `open-webui/open-webui` <sub>(2026-07-28)</sub>
+💬 Commented on [🐛 Bug Report: disabled tests for GCP / VertexAI](https://github.com/traceloop/openllmetry) in `traceloop/openllmetry` <sub>(2026-07-29)</sub>
 
-💬 Commented on [[Bug]: Gemini context caching with custom api_base uses inva](https://github.com/BerriAI/litellm) in `BerriAI/litellm` <sub>(2026-07-28)</sub>
+💬 Commented on [RuntimeError in `test_step` with multi-GPU: Model input shap](https://github.com/keras-team/keras) in `keras-team/keras` <sub>(2026-07-29)</sub>
 
-💬 Commented on [[Bug]: File and image cache keys collide because BufferedRea](https://github.com/zilliztech/GPTCache) in `zilliztech/GPTCache` <sub>(2026-07-28)</sub>
+💬 Commented on [Missing OLMo checkpoints](https://github.com/allenai/OLMo) in `allenai/OLMo` <sub>(2026-07-29)</sub>
 
-💬 Commented on [AI Agent 中文技术交流群](https://github.com/BuilderIO/gpt-crawler) in `BuilderIO/gpt-crawler` <sub>(2026-07-28)</sub>
+⭐ Starred `VasiHemanth/tokentelemetry` <sub>(2026-07-29)</sub>
 
-⭐ Starred `Egoist-Machines/LodeDB` <sub>(2026-07-28)</sub>
+⭐ Starred `nexu-io/looper` <sub>(2026-07-29)</sub>
 
-⭐ Starred `boxed-dev/cognidb` <sub>(2026-07-28)</sub>
+⭐ Starred `kvcache-ai/ktransformers` <sub>(2026-07-29)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI Inference Optimization
+
+🔬 Production RAG Pipelines with Re-ranking
+
 🔬 End-to-End Agentic AI Workflows with RAG and Tool Integration
 
 🔬 1-bit Large Language Model Inference for Cost-Sensitive Deployments
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 High-Performance Local LLM Inference & Agentic Workflows
 
 🔬 Multi-Agent Systems for Long-Horizon Tasks
-
-🔬 Quantized LLM Inference at Scale
-
-🔬 Hybrid RAG Architectures for Production Workloads
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Data Drift Detector using KS-Test, Production Pattern (Python)](https://gist.github.com/rehan243/eb283d07d96753611881ad86fbe23cde)** <sub>(2026-07-29)</sub>
+
+📌 **[Streaming JSON Parser for Large Language Models, Production Pattern (Python)](https://gist.github.com/rehan243/d340acf52e19743d4b4461b21eac2af5)** <sub>(2026-07-29)</sub>
+
 📌 **[RAG Relevance Scorer using Cross-Encoder, Production Pattern (Python)](https://gist.github.com/rehan243/4a29f45e1ee254fd49de051a43835bb1)** <sub>(2026-07-28)</sub>
-
-📌 **[Structured Output Validator for JSON Schema, Production Pattern (Python)](https://gist.github.com/rehan243/fc6cfbc13796b6f92641e32ada3873b7)** <sub>(2026-07-28)</sub>
-
-📌 **[Embedding Cache with LRU Eviction, Production Pattern (Python)](https://gist.github.com/rehan243/ee93380539b1a342346dcdd9695d4262)** <sub>(2026-07-27)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
