@@ -165,6 +165,16 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-30-production-rag-pipelines-with-re-ranking.md">
+<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking, AI engineering article by Rehan Malik"/>
+</a>
+
+**[Production Rag Pipelines With Re Ranking](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-30-production-rag-pipelines-with-re-ranking.md)**
+<br/><sub>2026-07-30</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-29-production-rag-pipelines-with-re-ranking.md">
 <img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/production-rag-pipelines-with-re-ranking.jpg" width="100%" alt="Production Rag Pipelines With Re Ranking, AI engineering article by Rehan Malik"/>
 </a>
@@ -173,6 +183,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-29</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-28-high-performance-local-llm-inference-agentic.md">
@@ -183,8 +195,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 <br/><sub>2026-07-28</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-27-hybrid-rag-architectures-for-production-workloads.md">
@@ -193,16 +203,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 
 **[Hybrid Rag Architectures For Production Workloads](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-27-hybrid-rag-architectures-for-production-workloads.md)**
 <br/><sub>2026-07-27</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-26-graph-rag-and-knowledge-graphs-for-llms.md">
-<img src="https://raw.githubusercontent.com/rehan243/AI-Engineering-Notes/main/images/graph-rag-and-knowledge-graphs-for-llms.jpg" width="100%" alt="Graph Rag And Knowledge Graphs For Llms, AI engineering article by Rehan Malik"/>
-</a>
-
-**[Graph Rag And Knowledge Graphs For Llms](https://github.com/rehan243/AI-Engineering-Notes/blob/main/articles/2026-07-26-graph-rag-and-knowledge-graphs-for-llms.md)**
-<br/><sub>2026-07-26</sub>
 
 </td>
 </tr>
@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-💬 Commented on [PEFT bump pending](https://github.com/axolotl-ai-cloud/axolotl) in `axolotl-ai-cloud/axolotl` <sub>(2026-07-29)</sub>
+💬 Commented on [Reject unknown fields from API requests](https://github.com/predibase/lorax) in `predibase/lorax` <sub>(2026-07-30)</sub>
 
-💬 Commented on [feature: support for pylock.toml](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-07-29)</sub>
+💬 Commented on [Federation Partnership, Runtime Open Federation (open task ](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-07-30)</sub>
 
-💬 Commented on [🐛 Bug Report: disabled tests for GCP / VertexAI](https://github.com/traceloop/openllmetry) in `traceloop/openllmetry` <sub>(2026-07-29)</sub>
+💬 Commented on [feature: support for pylock.toml](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-07-30)</sub>
 
-💬 Commented on [RuntimeError in `test_step` with multi-GPU: Model input shap](https://github.com/keras-team/keras) in `keras-team/keras` <sub>(2026-07-29)</sub>
+💬 Commented on [Verify evals on Papers with Code](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-07-30)</sub>
 
-💬 Commented on [Missing OLMo checkpoints](https://github.com/allenai/OLMo) in `allenai/OLMo` <sub>(2026-07-29)</sub>
+💬 Commented on [Workbench-level tool-call approval gate, a working implemen](https://github.com/microsoft/autogen) in `microsoft/autogen` <sub>(2026-07-30)</sub>
 
-⭐ Starred `VasiHemanth/tokentelemetry` <sub>(2026-07-29)</sub>
+💬 Commented on [Generated code can read SSH private keys outside the project](https://github.com/Aider-AI/aider) in `Aider-AI/aider` <sub>(2026-07-30)</sub>
 
-⭐ Starred `nexu-io/looper` <sub>(2026-07-29)</sub>
+💬 Commented on [`dagger setup` does not handle daggerverse repos appropriate](https://github.com/dagger/dagger) in `dagger/dagger` <sub>(2026-07-30)</sub>
 
-⭐ Starred `kvcache-ai/ktransformers` <sub>(2026-07-29)</sub>
+💬 Commented on [Android](https://github.com/meta-llama/llama-models) in `meta-llama/llama-models` <sub>(2026-07-30)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 AI Safety and Alignment Engineering
+
+🔬 Production RAG Pipelines with Re-ranking
+
 🔬 Real-Time AI Inference Optimization
 
 🔬 Production RAG Pipelines with Re-ranking
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 End-to-End Agentic AI Workflows with RAG and Tool Integration
 
 🔬 1-bit Large Language Model Inference for Cost-Sensitive Deployments
-
-🔬 High-Performance Local LLM Inference & Agentic Workflows
-
-🔬 Multi-Agent Systems for Long-Horizon Tasks
 <!-- RESEARCH_END -->
 
 ---
@@ -258,11 +258,11 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 ## code snippets
 
 <!-- GISTS_START -->
+📌 **[Structured Output Validator for JSON Schema, Production Pattern (Python)](https://gist.github.com/rehan243/ecc044305e2a2a2bb9a45f2538e8f1ff)** <sub>(2026-07-30)</sub>
+
+📌 **[Streaming JSON Parser for Large Language Models, Production Pattern (Python)](https://gist.github.com/rehan243/b7ba946aee7fd2c762c8bfa2b0f2d468)** <sub>(2026-07-30)</sub>
+
 📌 **[Data Drift Detector using KS-Test, Production Pattern (Python)](https://gist.github.com/rehan243/eb283d07d96753611881ad86fbe23cde)** <sub>(2026-07-29)</sub>
-
-📌 **[Streaming JSON Parser for Large Language Models, Production Pattern (Python)](https://gist.github.com/rehan243/d340acf52e19743d4b4461b21eac2af5)** <sub>(2026-07-29)</sub>
-
-📌 **[RAG Relevance Scorer using Cross-Encoder, Production Pattern (Python)](https://gist.github.com/rehan243/4a29f45e1ee254fd49de051a43835bb1)** <sub>(2026-07-28)</sub>
 <!-- GISTS_END -->
 
 <!-- DYNAMIC_SECTIONS_START -->
