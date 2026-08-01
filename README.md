@@ -216,6 +216,14 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `zilliztech/GPTCache` <sub>(2026-08-01)</sub>
+
+⭐ Starred `QwenLM/Qwen` <sub>(2026-08-01)</sub>
+
+⭐ Starred `AtomicBot-ai/atomic-agent` <sub>(2026-08-01)</sub>
+
+⭐ Starred `vstorm-co/summarization-pydantic-ai` <sub>(2026-08-01)</sub>
+
 💬 Commented on [Reject unknown fields from API requests](https://github.com/predibase/lorax) in `predibase/lorax` <sub>(2026-07-30)</sub>
 
 💬 Commented on [Federation Partnership, Runtime Open Federation (open task ](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-07-30)</sub>
@@ -223,14 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 💬 Commented on [feature: support for pylock.toml](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-07-30)</sub>
 
 💬 Commented on [Verify evals on Papers with Code](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-07-30)</sub>
-
-💬 Commented on [Workbench-level tool-call approval gate, a working implemen](https://github.com/microsoft/autogen) in `microsoft/autogen` <sub>(2026-07-30)</sub>
-
-💬 Commented on [Generated code can read SSH private keys outside the project](https://github.com/Aider-AI/aider) in `Aider-AI/aider` <sub>(2026-07-30)</sub>
-
-💬 Commented on [`dagger setup` does not handle daggerverse repos appropriate](https://github.com/dagger/dagger) in `dagger/dagger` <sub>(2026-07-30)</sub>
-
-💬 Commented on [Android](https://github.com/meta-llama/llama-models) in `meta-llama/llama-models` <sub>(2026-07-30)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -242,15 +242,15 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 <!-- RESEARCH_START -->
 🔬 AI Safety and Alignment Engineering
 
+🔬 LLM Fine-Tuning at Scale with LoRA
+
+🔬 AI Safety and Alignment Engineering
+
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 Real-Time AI Inference Optimization
 
 🔬 Production RAG Pipelines with Re-ranking
-
-🔬 End-to-End Agentic AI Workflows with RAG and Tool Integration
-
-🔬 1-bit Large Language Model Inference for Cost-Sensitive Deployments
 <!-- RESEARCH_END -->
 
 ---
