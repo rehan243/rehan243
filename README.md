@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `baokhang83/fluencyloop` <sub>(2026-08-02)</sub>
+
+⭐ Starred `baokhang83/blastradius` <sub>(2026-08-02)</sub>
+
+⭐ Starred `scramjetorg/transform-hub` <sub>(2026-08-02)</sub>
+
+⭐ Starred `scalecube/scalecube-services` <sub>(2026-08-02)</sub>
+
+⭐ Starred `KoljaB/stream2sentence` <sub>(2026-08-02)</sub>
+
 ⭐ Starred `zilliztech/GPTCache` <sub>(2026-08-01)</sub>
 
 ⭐ Starred `QwenLM/Qwen` <sub>(2026-08-01)</sub>
 
 ⭐ Starred `AtomicBot-ai/atomic-agent` <sub>(2026-08-01)</sub>
-
-⭐ Starred `vstorm-co/summarization-pydantic-ai` <sub>(2026-08-01)</sub>
-
-💬 Commented on [Reject unknown fields from API requests](https://github.com/predibase/lorax) in `predibase/lorax` <sub>(2026-07-30)</sub>
-
-💬 Commented on [Federation Partnership, Runtime Open Federation (open task ](https://github.com/yoheinakajima/babyagi) in `yoheinakajima/babyagi` <sub>(2026-07-30)</sub>
-
-💬 Commented on [feature: support for pylock.toml](https://github.com/bentoml/BentoML) in `bentoml/BentoML` <sub>(2026-07-30)</sub>
-
-💬 Commented on [Verify evals on Papers with Code](https://github.com/ultralytics/ultralytics) in `ultralytics/ultralytics` <sub>(2026-07-30)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Agentic Coding Assistants Architecture
+
+🔬 Multi-Agent AI Orchestration Patterns
+
+🔬 Model Context Protocol and Tool Use
+
 🔬 AI Safety and Alignment Engineering
 
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 AI Safety and Alignment Engineering
-
-🔬 Production RAG Pipelines with Re-ranking
-
-🔬 Real-Time AI Inference Optimization
-
-🔬 Production RAG Pipelines with Re-ranking
 <!-- RESEARCH_END -->
 
 ---
