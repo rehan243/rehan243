@@ -216,6 +216,14 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `codecoradev/uteke` <sub>(2026-08-03)</sub>
+
+⭐ Starred `CodeAlive-AI/codealive-mcp` <sub>(2026-08-03)</sub>
+
+⭐ Starred `hitmux/hitmux-context-engine` <sub>(2026-08-03)</sub>
+
+⭐ Starred `scarletkc/vexor` <sub>(2026-08-03)</sub>
+
 ⭐ Starred `baokhang83/fluencyloop` <sub>(2026-08-02)</sub>
 
 ⭐ Starred `baokhang83/blastradius` <sub>(2026-08-02)</sub>
@@ -223,14 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `scramjetorg/transform-hub` <sub>(2026-08-02)</sub>
 
 ⭐ Starred `scalecube/scalecube-services` <sub>(2026-08-02)</sub>
-
-⭐ Starred `KoljaB/stream2sentence` <sub>(2026-08-02)</sub>
-
-⭐ Starred `zilliztech/GPTCache` <sub>(2026-08-01)</sub>
-
-⭐ Starred `QwenLM/Qwen` <sub>(2026-08-01)</sub>
-
-⭐ Starred `AtomicBot-ai/atomic-agent` <sub>(2026-08-01)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,15 +240,15 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI Inference Optimization
+
+🔬 LLM Fine-Tuning at Scale with LoRA
+
 🔬 Agentic Coding Assistants Architecture
 
 🔬 Multi-Agent AI Orchestration Patterns
 
 🔬 Model Context Protocol and Tool Use
-
-🔬 AI Safety and Alignment Engineering
-
-🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 AI Safety and Alignment Engineering
 <!-- RESEARCH_END -->
