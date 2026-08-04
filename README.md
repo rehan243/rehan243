@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-⭐ Starred `codecoradev/uteke` <sub>(2026-08-03)</sub>
+⭐ Starred `Siddhant-K-code/agent-trace` <sub>(2026-08-04)</sub>
 
-⭐ Starred `CodeAlive-AI/codealive-mcp` <sub>(2026-08-03)</sub>
+⭐ Starred `traccia-ai/traccia-py` <sub>(2026-08-04)</sub>
 
-⭐ Starred `hitmux/hitmux-context-engine` <sub>(2026-08-03)</sub>
+⭐ Starred `Pengrui-Han/LLM_Modularity` <sub>(2026-08-04)</sub>
 
-⭐ Starred `scarletkc/vexor` <sub>(2026-08-03)</sub>
+⭐ Starred `ATH-MaaS/Ovis` <sub>(2026-08-04)</sub>
 
-⭐ Starred `baokhang83/fluencyloop` <sub>(2026-08-02)</sub>
+⭐ Starred `oliviazzzu/minimal-embodiment` <sub>(2026-08-04)</sub>
 
-⭐ Starred `baokhang83/blastradius` <sub>(2026-08-02)</sub>
+⭐ Starred `databufflabs/databuff` <sub>(2026-08-04)</sub>
 
-⭐ Starred `scramjetorg/transform-hub` <sub>(2026-08-02)</sub>
+⭐ Starred `evilmartians/agent-prism` <sub>(2026-08-04)</sub>
 
-⭐ Starred `scalecube/scalecube-services` <sub>(2026-08-02)</sub>
+⭐ Starred `fangyuanmao/PID` <sub>(2026-08-04)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -242,15 +242,15 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 <!-- RESEARCH_START -->
 🔬 Real-Time AI Inference Optimization
 
+🔬 Model Context Protocol and Tool Use
+
+🔬 LLM Fine-Tuning at Scale with LoRA
+
+🔬 Real-Time AI Inference Optimization
+
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Agentic Coding Assistants Architecture
-
-🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Model Context Protocol and Tool Use
-
-🔬 AI Safety and Alignment Engineering
 <!-- RESEARCH_END -->
 
 ---
