@@ -240,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
+🔬 Agentic Coding Assistants Architecture
+
+🔬 Real-Time AI Inference Optimization
+
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Multi-Agent AI Orchestration Patterns
 
 🔬 AI Safety and Alignment Engineering
-
-🔬 Real-Time AI Inference Optimization
-
-🔬 Model Context Protocol and Tool Use
-
-🔬 LLM Fine-Tuning at Scale with LoRA
 <!-- RESEARCH_END -->
 
 ---
