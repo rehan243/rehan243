@@ -216,21 +216,19 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `ag2ai/ag2` <sub>(2026-08-08)</sub>
+
+⭐ Starred `deer-flow/llm-space` <sub>(2026-08-08)</sub>
+
+⭐ Starred `adewale/skill-eval-harness` <sub>(2026-08-08)</sub>
+
+⭐ Starred `agentscope-ai/PawBench` <sub>(2026-08-08)</sub>
+
 ⭐ Starred `kyegomez/swarms` <sub>(2026-08-05)</sub>
 
 ⭐ Starred `GiovanniPasq/chunky` <sub>(2026-08-05)</sub>
 
 ⭐ Starred `kizuna-ai-lab/sokuji` <sub>(2026-08-05)</sub>
-
-⭐ Starred `Siddhant-K-code/agent-trace` <sub>(2026-08-04)</sub>
-
-⭐ Starred `traccia-ai/traccia-py` <sub>(2026-08-04)</sub>
-
-⭐ Starred `Pengrui-Han/LLM_Modularity` <sub>(2026-08-04)</sub>
-
-⭐ Starred `ATH-MaaS/Ovis` <sub>(2026-08-04)</sub>
-
-⭐ Starred `oliviazzzu/minimal-embodiment` <sub>(2026-08-04)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +238,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 LLM Fine-Tuning at Scale with LoRA
+
+🔬 Real-Time AI Inference Optimization
+
 🔬 Model Context Protocol and Tool Use
 
 🔬 Agentic Coding Assistants Architecture
@@ -247,10 +249,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Real-Time AI Inference Optimization
 
 🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 AI Safety and Alignment Engineering
 <!-- RESEARCH_END -->
 
 ---
