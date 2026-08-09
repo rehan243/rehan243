@@ -216,19 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `liunian-Jay/Awesome-RAG` <sub>(2026-08-09)</sub>
+
+⭐ Starred `FaustoS88/Pydantic-AI-Pinescript-Expert` <sub>(2026-08-09)</sub>
+
+⭐ Starred `microsoft/graphrag` <sub>(2026-08-09)</sub>
+
+⭐ Starred `autogluon/autogluon-rag` <sub>(2026-08-09)</sub>
+
+⭐ Starred `infiniflow/ragflow` <sub>(2026-08-09)</sub>
+
+⭐ Starred `Ahren09/SARA` <sub>(2026-08-09)</sub>
+
+⭐ Starred `marcominerva/SqlDatabaseVectorSearch` <sub>(2026-08-09)</sub>
+
 ⭐ Starred `ag2ai/ag2` <sub>(2026-08-08)</sub>
-
-⭐ Starred `deer-flow/llm-space` <sub>(2026-08-08)</sub>
-
-⭐ Starred `adewale/skill-eval-harness` <sub>(2026-08-08)</sub>
-
-⭐ Starred `agentscope-ai/PawBench` <sub>(2026-08-08)</sub>
-
-⭐ Starred `kyegomez/swarms` <sub>(2026-08-05)</sub>
-
-⭐ Starred `GiovanniPasq/chunky` <sub>(2026-08-05)</sub>
-
-⭐ Starred `kizuna-ai-lab/sokuji` <sub>(2026-08-05)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -238,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
+🔬 Real-Time AI Inference Optimization
+
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Real-Time AI Inference Optimization
 
 🔬 Model Context Protocol and Tool Use
-
-🔬 Agentic Coding Assistants Architecture
-
-🔬 Real-Time AI Inference Optimization
-
-🔬 LLM Fine-Tuning at Scale with LoRA
 <!-- RESEARCH_END -->
 
 ---
