@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-⭐ Starred `modelcontextprotocol/servers` <sub>(2026-08-10)</sub>
+⭐ Starred `Azure/aks-mcp` <sub>(2026-08-11)</sub>
 
-⭐ Starred `MoMoM101/RAG-ReActAgent` <sub>(2026-08-10)</sub>
+⭐ Starred `zilliztech/mcp-server-milvus` <sub>(2026-08-11)</sub>
 
-⭐ Starred `zilliztech/vector-graph-rag` <sub>(2026-08-10)</sub>
+⭐ Starred `enguard-ai/awesome-ai-guardrails` <sub>(2026-08-11)</sub>
 
-⭐ Starred `Francis1998/scholar-rag-agent` <sub>(2026-08-10)</sub>
+⭐ Starred `TheArchitectit/agent-guardrails-template` <sub>(2026-08-11)</sub>
 
-⭐ Starred `liunian-Jay/Awesome-RAG` <sub>(2026-08-09)</sub>
+⭐ Starred `tufantunc/ssh-mcp` <sub>(2026-08-11)</sub>
 
-⭐ Starred `FaustoS88/Pydantic-AI-Pinescript-Expert` <sub>(2026-08-09)</sub>
+⭐ Starred `modelcontextprotocol/typescript-sdk` <sub>(2026-08-11)</sub>
 
-⭐ Starred `microsoft/graphrag` <sub>(2026-08-09)</sub>
+⭐ Starred `cappyeo/discord-mcp` <sub>(2026-08-11)</sub>
 
-⭐ Starred `autogluon/autogluon-rag` <sub>(2026-08-09)</sub>
+⭐ Starred `InditexTech/mcp-teams-server` <sub>(2026-08-11)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI Inference Optimization
+
+🔬 LLM Fine-Tuning at Scale with LoRA
+
+🔬 Multi-Agent AI Orchestration Patterns
+
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Agentic Coding Assistants Architecture
 
 🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Model Context Protocol and Tool Use
-
-🔬 Real-Time AI Inference Optimization
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
