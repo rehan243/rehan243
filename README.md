@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `Lyra-stellAI/BYO-LLM-WIKI` <sub>(2026-08-12)</sub>
+
+⭐ Starred `OSU-NLP-Group/HippoRAG` <sub>(2026-08-12)</sub>
+
+⭐ Starred `sanonone/kektordb` <sub>(2026-08-12)</sub>
+
+⭐ Starred `greyhaven-ai/autocontext` <sub>(2026-08-12)</sub>
+
+⭐ Starred `NirDiamant/Agent_Memory_Techniques` <sub>(2026-08-12)</sub>
+
+⭐ Starred `NVIDIA/context-aware-rag` <sub>(2026-08-12)</sub>
+
+⭐ Starred `ZeroPointRepo/awesome-hermes-skills` <sub>(2026-08-12)</sub>
+
 ⭐ Starred `Azure/aks-mcp` <sub>(2026-08-11)</sub>
-
-⭐ Starred `zilliztech/mcp-server-milvus` <sub>(2026-08-11)</sub>
-
-⭐ Starred `enguard-ai/awesome-ai-guardrails` <sub>(2026-08-11)</sub>
-
-⭐ Starred `TheArchitectit/agent-guardrails-template` <sub>(2026-08-11)</sub>
-
-⭐ Starred `tufantunc/ssh-mcp` <sub>(2026-08-11)</sub>
-
-⭐ Starred `modelcontextprotocol/typescript-sdk` <sub>(2026-08-11)</sub>
-
-⭐ Starred `cappyeo/discord-mcp` <sub>(2026-08-11)</sub>
-
-⭐ Starred `InditexTech/mcp-teams-server` <sub>(2026-08-11)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
+🔬 Real-Time AI Inference Optimization
+
+🔬 Agentic Coding Assistants Architecture
+
 🔬 Real-Time AI Inference Optimization
 
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
-
-🔬 Agentic Coding Assistants Architecture
-
-🔬 LLM Fine-Tuning at Scale with LoRA
 <!-- RESEARCH_END -->
 
 ---
