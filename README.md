@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `Azure99/BlossomLM` <sub>(2026-08-13)</sub>
+
+⭐ Starred `eullm/eullm` <sub>(2026-08-13)</sub>
+
+⭐ Starred `mudler/LocalAI` <sub>(2026-08-13)</sub>
+
+⭐ Starred `RelayPlane/proxy` <sub>(2026-08-13)</sub>
+
+⭐ Starred `open-compass/VLMEvalKit` <sub>(2026-08-13)</sub>
+
+⭐ Starred `containers/ramalama` <sub>(2026-08-13)</sub>
+
+⭐ Starred `strands-agents/harness-sdk` <sub>(2026-08-13)</sub>
+
 ⭐ Starred `Lyra-stellAI/BYO-LLM-WIKI` <sub>(2026-08-12)</sub>
-
-⭐ Starred `OSU-NLP-Group/HippoRAG` <sub>(2026-08-12)</sub>
-
-⭐ Starred `sanonone/kektordb` <sub>(2026-08-12)</sub>
-
-⭐ Starred `greyhaven-ai/autocontext` <sub>(2026-08-12)</sub>
-
-⭐ Starred `NirDiamant/Agent_Memory_Techniques` <sub>(2026-08-12)</sub>
-
-⭐ Starred `NVIDIA/context-aware-rag` <sub>(2026-08-12)</sub>
-
-⭐ Starred `ZeroPointRepo/awesome-hermes-skills` <sub>(2026-08-12)</sub>
-
-⭐ Starred `Azure/aks-mcp` <sub>(2026-08-11)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI Inference Optimization
+
+🔬 AI Safety and Alignment Engineering
+
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
 🔬 Model Context Protocol and Tool Use
 
 🔬 Real-Time AI Inference Optimization
 
 🔬 Agentic Coding Assistants Architecture
-
-🔬 Real-Time AI Inference Optimization
-
-🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
