@@ -216,6 +216,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `EleutherAI/gpt-neox` <sub>(2026-08-14)</sub>
+
+⭐ Starred `dagger/dagger` <sub>(2026-08-14)</sub>
+
 ⭐ Starred `Azure99/BlossomLM` <sub>(2026-08-13)</sub>
 
 ⭐ Starred `eullm/eullm` <sub>(2026-08-13)</sub>
@@ -227,10 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `open-compass/VLMEvalKit` <sub>(2026-08-13)</sub>
 
 ⭐ Starred `containers/ramalama` <sub>(2026-08-13)</sub>
-
-⭐ Starred `strands-agents/harness-sdk` <sub>(2026-08-13)</sub>
-
-⭐ Starred `Lyra-stellAI/BYO-LLM-WIKI` <sub>(2026-08-12)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Multi-Agent AI Orchestration Patterns
+
+🔬 Real-Time AI Inference Optimization
+
 🔬 Real-Time AI Inference Optimization
 
 🔬 AI Safety and Alignment Engineering
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Model Context Protocol and Tool Use
-
-🔬 Real-Time AI Inference Optimization
-
-🔬 Agentic Coding Assistants Architecture
 <!-- RESEARCH_END -->
 
 ---
