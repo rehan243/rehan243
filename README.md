@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `av/harbor` <sub>(2026-08-17)</sub>
+
+⭐ Starred `MemoriLabs/Memori` <sub>(2026-08-17)</sub>
+
+⭐ Starred `wuxuyun0606-collab/lmc-5` <sub>(2026-08-17)</sub>
+
+⭐ Starred `artokun/comfyui-mcp-panel` <sub>(2026-08-17)</sub>
+
+⭐ Starred `AgenticGoKit/AgenticGoKit` <sub>(2026-08-17)</sub>
+
+⭐ Starred `supernovae-st/nika` <sub>(2026-08-17)</sub>
+
 ⭐ Starred `EleutherAI/gpt-neox` <sub>(2026-08-14)</sub>
 
 ⭐ Starred `dagger/dagger` <sub>(2026-08-14)</sub>
-
-⭐ Starred `Azure99/BlossomLM` <sub>(2026-08-13)</sub>
-
-⭐ Starred `eullm/eullm` <sub>(2026-08-13)</sub>
-
-⭐ Starred `mudler/LocalAI` <sub>(2026-08-13)</sub>
-
-⭐ Starred `RelayPlane/proxy` <sub>(2026-08-13)</sub>
-
-⭐ Starred `open-compass/VLMEvalKit` <sub>(2026-08-13)</sub>
-
-⭐ Starred `containers/ramalama` <sub>(2026-08-13)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,17 +240,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
+🔬 Agentic Coding Assistants Architecture
+
+🔬 LLM Fine-Tuning at Scale with LoRA
+
 🔬 Multi-Agent AI Orchestration Patterns
 
 🔬 Real-Time AI Inference Optimization
 
 🔬 Real-Time AI Inference Optimization
-
-🔬 AI Safety and Alignment Engineering
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
-
-🔬 Model Context Protocol and Tool Use
 <!-- RESEARCH_END -->
 
 ---
