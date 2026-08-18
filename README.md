@@ -216,6 +216,12 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `openai/CLIP` <sub>(2026-08-18)</sub>
+
+⭐ Starred `langfuse/langfuse` <sub>(2026-08-18)</sub>
+
+⭐ Starred `hassancs91/claude-image-generation` <sub>(2026-08-18)</sub>
+
 ⭐ Starred `av/harbor` <sub>(2026-08-17)</sub>
 
 ⭐ Starred `MemoriLabs/Memori` <sub>(2026-08-17)</sub>
@@ -225,12 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `artokun/comfyui-mcp-panel` <sub>(2026-08-17)</sub>
 
 ⭐ Starred `AgenticGoKit/AgenticGoKit` <sub>(2026-08-17)</sub>
-
-⭐ Starred `supernovae-st/nika` <sub>(2026-08-17)</sub>
-
-⭐ Starred `EleutherAI/gpt-neox` <sub>(2026-08-14)</sub>
-
-⭐ Starred `dagger/dagger` <sub>(2026-08-14)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 AI Safety and Alignment Engineering
+
+🔬 LLM Fine-Tuning at Scale with LoRA
+
 🔬 Model Context Protocol and Tool Use
 
 🔬 Agentic Coding Assistants Architecture
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Real-Time AI Inference Optimization
-
-🔬 Real-Time AI Inference Optimization
 <!-- RESEARCH_END -->
 
 ---
