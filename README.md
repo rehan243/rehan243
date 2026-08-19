@@ -216,6 +216,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `intel/auto-round` <sub>(2026-08-19)</sub>
+
+⭐ Starred `llm-d/llm-d-workload-variant-autoscaler` <sub>(2026-08-19)</sub>
+
 ⭐ Starred `openai/CLIP` <sub>(2026-08-18)</sub>
 
 ⭐ Starred `langfuse/langfuse` <sub>(2026-08-18)</sub>
@@ -225,12 +229,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `av/harbor` <sub>(2026-08-17)</sub>
 
 ⭐ Starred `MemoriLabs/Memori` <sub>(2026-08-17)</sub>
-
-⭐ Starred `wuxuyun0606-collab/lmc-5` <sub>(2026-08-17)</sub>
-
-⭐ Starred `artokun/comfyui-mcp-panel` <sub>(2026-08-17)</sub>
-
-⭐ Starred `AgenticGoKit/AgenticGoKit` <sub>(2026-08-17)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +238,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Multi-Agent AI Orchestration Patterns
+
+🔬 Model Context Protocol and Tool Use
+
 🔬 AI Safety and Alignment Engineering
 
 🔬 LLM Fine-Tuning at Scale with LoRA
@@ -247,10 +249,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Model Context Protocol and Tool Use
 
 🔬 Agentic Coding Assistants Architecture
-
-🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
