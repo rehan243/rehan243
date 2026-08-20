@@ -216,19 +216,11 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `1038lab/ComfyUI-QwenVL` <sub>(2026-08-20)</sub>
+
 ⭐ Starred `intel/auto-round` <sub>(2026-08-19)</sub>
 
 ⭐ Starred `llm-d/llm-d-workload-variant-autoscaler` <sub>(2026-08-19)</sub>
-
-⭐ Starred `openai/CLIP` <sub>(2026-08-18)</sub>
-
-⭐ Starred `langfuse/langfuse` <sub>(2026-08-18)</sub>
-
-⭐ Starred `hassancs91/claude-image-generation` <sub>(2026-08-18)</sub>
-
-⭐ Starred `av/harbor` <sub>(2026-08-17)</sub>
-
-⭐ Starred `MemoriLabs/Memori` <sub>(2026-08-17)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -238,6 +230,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 AI Safety and Alignment Engineering
+
+🔬 Agentic Coding Assistants Architecture
+
 🔬 Multi-Agent AI Orchestration Patterns
 
 🔬 Model Context Protocol and Tool Use
@@ -245,10 +241,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 AI Safety and Alignment Engineering
 
 🔬 LLM Fine-Tuning at Scale with LoRA
-
-🔬 Model Context Protocol and Tool Use
-
-🔬 Agentic Coding Assistants Architecture
 <!-- RESEARCH_END -->
 
 ---
