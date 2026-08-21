@@ -216,6 +216,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `confident-ai/deepeval` <sub>(2026-08-21)</sub>
+
+⭐ Starred `Aider-AI/aider` <sub>(2026-08-21)</sub>
+
 ⭐ Starred `1038lab/ComfyUI-QwenVL` <sub>(2026-08-20)</sub>
 
 ⭐ Starred `intel/auto-round` <sub>(2026-08-19)</sub>
@@ -232,15 +236,15 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 <!-- RESEARCH_START -->
 🔬 AI Safety and Alignment Engineering
 
+🔬 Production RAG Pipelines with Re-ranking
+
 🔬 Agentic Coding Assistants Architecture
-
-🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Model Context Protocol and Tool Use
 
 🔬 AI Safety and Alignment Engineering
 
-🔬 LLM Fine-Tuning at Scale with LoRA
+🔬 Agentic Coding Assistants Architecture
+
+🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
