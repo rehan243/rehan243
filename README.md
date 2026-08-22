@@ -216,15 +216,15 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `sweepai/sweep` <sub>(2026-08-22)</sub>
+
+⭐ Starred `openai/openai-python` <sub>(2026-08-22)</sub>
+
 ⭐ Starred `confident-ai/deepeval` <sub>(2026-08-21)</sub>
 
 ⭐ Starred `Aider-AI/aider` <sub>(2026-08-21)</sub>
 
 ⭐ Starred `1038lab/ComfyUI-QwenVL` <sub>(2026-08-20)</sub>
-
-⭐ Starred `intel/auto-round` <sub>(2026-08-19)</sub>
-
-⭐ Starred `llm-d/llm-d-workload-variant-autoscaler` <sub>(2026-08-19)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -234,17 +234,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Multi-Agent AI Orchestration Patterns
+
+🔬 Model Context Protocol and Tool Use
+
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
 🔬 AI Safety and Alignment Engineering
 
 🔬 Production RAG Pipelines with Re-ranking
 
 🔬 Agentic Coding Assistants Architecture
-
-🔬 AI Safety and Alignment Engineering
-
-🔬 Agentic Coding Assistants Architecture
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
