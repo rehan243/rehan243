@@ -216,6 +216,12 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `vector-index-bench/vibe` <sub>(2026-08-24)</sub>
+
+⭐ Starred `habedi/hann` <sub>(2026-08-24)</sub>
+
+⭐ Starred `sadit/SimilaritySearch.jl` <sub>(2026-08-24)</sub>
+
 ⭐ Starred `browser-use/browser-use` <sub>(2026-08-23)</sub>
 
 ⭐ Starred `crewAIInc/crewAI-tools` <sub>(2026-08-23)</sub>
@@ -225,12 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `Arize-ai/phoenix` <sub>(2026-08-23)</sub>
 
 ⭐ Starred `state-spaces/mamba` <sub>(2026-08-23)</sub>
-
-⭐ Starred `sweepai/sweep` <sub>(2026-08-22)</sub>
-
-⭐ Starred `openai/openai-python` <sub>(2026-08-22)</sub>
-
-⭐ Starred `confident-ai/deepeval` <sub>(2026-08-21)</sub>
 <!-- ACTIVITY_END -->
 
 ---
