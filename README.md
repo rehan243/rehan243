@@ -216,6 +216,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `mosaicml/llm-foundry` <sub>(2026-08-26)</sub>
+
+⭐ Starred `zai-org/ChatGLM-6B` <sub>(2026-08-26)</sub>
+
 ⭐ Starred `vector-index-bench/vibe` <sub>(2026-08-24)</sub>
 
 ⭐ Starred `habedi/hann` <sub>(2026-08-24)</sub>
@@ -227,10 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `crewAIInc/crewAI-tools` <sub>(2026-08-23)</sub>
 
 ⭐ Starred `google-gemini/deprecated-generative-ai-python` <sub>(2026-08-23)</sub>
-
-⭐ Starred `Arize-ai/phoenix` <sub>(2026-08-23)</sub>
-
-⭐ Starred `state-spaces/mamba` <sub>(2026-08-23)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Model Context Protocol and Tool Use
+
+🔬 AI Safety and Alignment Engineering
+
 🔬 Agentic Coding Assistants Architecture
 
 🔬 Production RAG Pipelines with Re-ranking
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 Multi-Agent AI Orchestration Patterns
 
 🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Model Context Protocol and Tool Use
-
-🔬 Graph RAG and Knowledge Graphs for LLMs
 <!-- RESEARCH_END -->
 
 ---
