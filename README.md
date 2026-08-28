@@ -225,12 +225,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `habedi/hann` <sub>(2026-08-24)</sub>
 
 ⭐ Starred `sadit/SimilaritySearch.jl` <sub>(2026-08-24)</sub>
-
-⭐ Starred `browser-use/browser-use` <sub>(2026-08-23)</sub>
-
-⭐ Starred `crewAIInc/crewAI-tools` <sub>(2026-08-23)</sub>
-
-⭐ Starred `google-gemini/deprecated-generative-ai-python` <sub>(2026-08-23)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,17 +234,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Graph RAG and Knowledge Graphs for LLMs
+
+🔬 Model Context Protocol and Tool Use
+
+🔬 Real-Time AI Inference Optimization
+
 🔬 Model Context Protocol and Tool Use
 
 🔬 AI Safety and Alignment Engineering
 
 🔬 Agentic Coding Assistants Architecture
-
-🔬 Production RAG Pipelines with Re-ranking
-
-🔬 Multi-Agent AI Orchestration Patterns
-
-🔬 Multi-Agent AI Orchestration Patterns
 <!-- RESEARCH_END -->
 
 ---
