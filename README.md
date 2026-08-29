@@ -216,15 +216,19 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `lmnr-ai/lmnr` <sub>(2026-08-29)</sub>
+
+⭐ Starred `yzhao062/awesome-auditable-ai` <sub>(2026-08-29)</sub>
+
+⭐ Starred `evidentlyai/evidently` <sub>(2026-08-29)</sub>
+
+⭐ Starred `last9/last9-mcp-server` <sub>(2026-08-29)</sub>
+
+⭐ Starred `wink-run/tokenbank` <sub>(2026-08-29)</sub>
+
 ⭐ Starred `mosaicml/llm-foundry` <sub>(2026-08-26)</sub>
 
 ⭐ Starred `zai-org/ChatGLM-6B` <sub>(2026-08-26)</sub>
-
-⭐ Starred `vector-index-bench/vibe` <sub>(2026-08-24)</sub>
-
-⭐ Starred `habedi/hann` <sub>(2026-08-24)</sub>
-
-⭐ Starred `sadit/SimilaritySearch.jl` <sub>(2026-08-24)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -234,17 +238,17 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Agentic Coding Assistants Architecture
+
+🔬 Model Context Protocol and Tool Use
+
+🔬 LLM Fine-Tuning at Scale with LoRA
+
 🔬 Graph RAG and Knowledge Graphs for LLMs
 
 🔬 Model Context Protocol and Tool Use
 
 🔬 Real-Time AI Inference Optimization
-
-🔬 Model Context Protocol and Tool Use
-
-🔬 AI Safety and Alignment Engineering
-
-🔬 Agentic Coding Assistants Architecture
 <!-- RESEARCH_END -->
 
 ---
