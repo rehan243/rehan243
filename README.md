@@ -216,19 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `microsoft/benchmark-qed` <sub>(2026-08-30)</sub>
+
+⭐ Starred `cobusgreyling/loop-engineering` <sub>(2026-08-30)</sub>
+
+⭐ Starred `likeslines-maker/VectorRAG.Net` <sub>(2026-08-30)</sub>
+
+⭐ Starred `mongodb-developer/GenAI-Showcase` <sub>(2026-08-30)</sub>
+
+⭐ Starred `superlinear-ai/raglite` <sub>(2026-08-30)</sub>
+
+⭐ Starred `IdolLab/RAGTrack` <sub>(2026-08-30)</sub>
+
+⭐ Starred `pgEdge/pgedge-rag-server` <sub>(2026-08-30)</sub>
+
 ⭐ Starred `lmnr-ai/lmnr` <sub>(2026-08-29)</sub>
-
-⭐ Starred `yzhao062/awesome-auditable-ai` <sub>(2026-08-29)</sub>
-
-⭐ Starred `evidentlyai/evidently` <sub>(2026-08-29)</sub>
-
-⭐ Starred `last9/last9-mcp-server` <sub>(2026-08-29)</sub>
-
-⭐ Starred `wink-run/tokenbank` <sub>(2026-08-29)</sub>
-
-⭐ Starred `mosaicml/llm-foundry` <sub>(2026-08-26)</sub>
-
-⭐ Starred `zai-org/ChatGLM-6B` <sub>(2026-08-26)</sub>
 <!-- ACTIVITY_END -->
 
 ---
