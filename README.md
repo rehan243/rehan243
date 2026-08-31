@@ -216,6 +216,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `01-ai/Yi` <sub>(2026-08-31)</sub>
+
+⭐ Starred `InternLM/InternLM` <sub>(2026-08-31)</sub>
+
 ⭐ Starred `microsoft/benchmark-qed` <sub>(2026-08-30)</sub>
 
 ⭐ Starred `cobusgreyling/loop-engineering` <sub>(2026-08-30)</sub>
@@ -227,10 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `superlinear-ai/raglite` <sub>(2026-08-30)</sub>
 
 ⭐ Starred `IdolLab/RAGTrack` <sub>(2026-08-30)</sub>
-
-⭐ Starred `pgEdge/pgedge-rag-server` <sub>(2026-08-30)</sub>
-
-⭐ Starred `lmnr-ai/lmnr` <sub>(2026-08-29)</sub>
 <!-- ACTIVITY_END -->
 
 ---
