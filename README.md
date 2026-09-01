@@ -216,6 +216,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+📝 Opened issue [Roadmap: document the article publishing workflow](https://github.com/rehan243/AI-Engineering-Notes) in `rehan243/AI-Engineering-Notes` <sub>(2026-08-31)</sub>
+
 ⭐ Starred `01-ai/Yi` <sub>(2026-08-31)</sub>
 
 ⭐ Starred `InternLM/InternLM` <sub>(2026-08-31)</sub>
@@ -229,8 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `mongodb-developer/GenAI-Showcase` <sub>(2026-08-30)</sub>
 
 ⭐ Starred `superlinear-ai/raglite` <sub>(2026-08-30)</sub>
-
-⭐ Starred `IdolLab/RAGTrack` <sub>(2026-08-30)</sub>
 <!-- ACTIVITY_END -->
 
 ---
