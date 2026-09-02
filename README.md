@@ -216,6 +216,12 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `cohere-ai/cohere-python` <sub>(2026-09-02)</sub>
+
+⭐ Starred `rustic-ai/uni-db` <sub>(2026-09-02)</sub>
+
+⭐ Starred `ggozad/haiku.rag` <sub>(2026-09-02)</sub>
+
 📝 Opened issue [Roadmap: document the article publishing workflow](https://github.com/rehan243/AI-Engineering-Notes) in `rehan243/AI-Engineering-Notes` <sub>(2026-08-31)</sub>
 
 ⭐ Starred `01-ai/Yi` <sub>(2026-08-31)</sub>
@@ -225,12 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `microsoft/benchmark-qed` <sub>(2026-08-30)</sub>
 
 ⭐ Starred `cobusgreyling/loop-engineering` <sub>(2026-08-30)</sub>
-
-⭐ Starred `likeslines-maker/VectorRAG.Net` <sub>(2026-08-30)</sub>
-
-⭐ Starred `mongodb-developer/GenAI-Showcase` <sub>(2026-08-30)</sub>
-
-⭐ Starred `superlinear-ai/raglite` <sub>(2026-08-30)</sub>
 <!-- ACTIVITY_END -->
 
 ---
