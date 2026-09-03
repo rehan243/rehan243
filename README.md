@@ -216,6 +216,14 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `meta-llama/llama-models` <sub>(2026-09-03)</sub>
+
+⭐ Starred `camel-ai/camel` <sub>(2026-09-03)</sub>
+
+⭐ Starred `pathwaycom/pathway` <sub>(2026-09-03)</sub>
+
+⭐ Starred `marimo-team/marimo` <sub>(2026-09-03)</sub>
+
 ⭐ Starred `cohere-ai/cohere-python` <sub>(2026-09-02)</sub>
 
 ⭐ Starred `rustic-ai/uni-db` <sub>(2026-09-02)</sub>
@@ -223,14 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `ggozad/haiku.rag` <sub>(2026-09-02)</sub>
 
 📝 Opened issue [Roadmap: document the article publishing workflow](https://github.com/rehan243/AI-Engineering-Notes) in `rehan243/AI-Engineering-Notes` <sub>(2026-08-31)</sub>
-
-⭐ Starred `01-ai/Yi` <sub>(2026-08-31)</sub>
-
-⭐ Starred `InternLM/InternLM` <sub>(2026-08-31)</sub>
-
-⭐ Starred `microsoft/benchmark-qed` <sub>(2026-08-30)</sub>
-
-⭐ Starred `cobusgreyling/loop-engineering` <sub>(2026-08-30)</sub>
 <!-- ACTIVITY_END -->
 
 ---
