@@ -216,6 +216,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `comet-ml/opik` <sub>(2026-09-05)</sub>
+
+⭐ Starred `NVIDIA/GenerativeAIExamples` <sub>(2026-09-05)</sub>
+
 ⭐ Starred `meta-llama/llama-models` <sub>(2026-09-03)</sub>
 
 ⭐ Starred `camel-ai/camel` <sub>(2026-09-03)</sub>
@@ -227,10 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `cohere-ai/cohere-python` <sub>(2026-09-02)</sub>
 
 ⭐ Starred `rustic-ai/uni-db` <sub>(2026-09-02)</sub>
-
-⭐ Starred `ggozad/haiku.rag` <sub>(2026-09-02)</sub>
-
-📝 Opened issue [Roadmap: document the article publishing workflow](https://github.com/rehan243/AI-Engineering-Notes) in `rehan243/AI-Engineering-Notes` <sub>(2026-08-31)</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -240,6 +240,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 stuff i've been digging into recently. mostly papers, blog posts, and rabbit holes that kept me up too late.
 
 <!-- RESEARCH_START -->
+🔬 Real-Time AI Inference Optimization
+
+🔬 AI Safety and Alignment Engineering
+
 🔬 Agentic Coding Assistants Architecture
 
 🔬 Model Context Protocol and Tool Use
@@ -247,10 +251,6 @@ stuff i've been digging into recently. mostly papers, blog posts, and rabbit hol
 🔬 LLM Fine-Tuning at Scale with LoRA
 
 🔬 Graph RAG and Knowledge Graphs for LLMs
-
-🔬 Model Context Protocol and Tool Use
-
-🔬 Real-Time AI Inference Optimization
 <!-- RESEARCH_END -->
 
 ---
