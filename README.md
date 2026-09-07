@@ -216,6 +216,12 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `explosion/spaCy` <sub>(2026-09-07)</sub>
+
+⭐ Starred `ultralytics/ultralytics` <sub>(2026-09-07)</sub>
+
+⭐ Starred `ComposioHQ/composio` <sub>(2026-09-07)</sub>
+
 ⭐ Starred `replicate/cog` <sub>(2026-09-06)</sub>
 
 ⭐ Starred `anthropics/anthropic-sdk-python` <sub>(2026-09-06)</sub>
@@ -223,12 +229,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `comet-ml/opik` <sub>(2026-09-05)</sub>
 
 ⭐ Starred `NVIDIA/GenerativeAIExamples` <sub>(2026-09-05)</sub>
-
-⭐ Starred `meta-llama/llama-models` <sub>(2026-09-03)</sub>
-
-⭐ Starred `camel-ai/camel` <sub>(2026-09-03)</sub>
-
-⭐ Starred `pathwaycom/pathway` <sub>(2026-09-03)</sub>
 <!-- ACTIVITY_END -->
 
 ---
