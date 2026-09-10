@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
-⭐ Starred `infercrane/infercrane` <sub>(2026-09-09)</sub>
+⭐ Starred `HKUDS/nanobot` <sub>(2026-09-10)</sub>
 
-⭐ Starred `PolyU-VCLab/OpenOOD-VLM` <sub>(2026-09-09)</sub>
+⭐ Starred `frontman-ai/frontman` <sub>(2026-09-10)</sub>
 
-⭐ Starred `NVIDIA-AI-IOT/live-vlm-webui` <sub>(2026-09-09)</sub>
+⭐ Starred `AgentSafeLabs/safelabs-eval` <sub>(2026-09-10)</sub>
 
-⭐ Starred `NVIDIA-AI-Blueprints/video-search-and-summarization` <sub>(2026-09-09)</sub>
+⭐ Starred `heygen-com/hyperframes` <sub>(2026-09-10)</sub>
 
-⭐ Starred `explosion/spaCy` <sub>(2026-09-07)</sub>
+⭐ Starred `NVIDIA/SkillEvaluator` <sub>(2026-09-10)</sub>
 
-⭐ Starred `ultralytics/ultralytics` <sub>(2026-09-07)</sub>
+⭐ Starred `livekit/agents` <sub>(2026-09-10)</sub>
 
-⭐ Starred `ComposioHQ/composio` <sub>(2026-09-07)</sub>
+⭐ Starred `orziz/odai` <sub>(2026-09-10)</sub>
 
-⭐ Starred `replicate/cog` <sub>(2026-09-06)</sub>
+⭐ Starred `crmne/ruby_llm` <sub>(2026-09-10)</sub>
 <!-- ACTIVITY_END -->
 
 ---
