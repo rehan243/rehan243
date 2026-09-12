@@ -216,6 +216,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `KochC/opencode-llm-proxy` <sub>(2026-09-12)</sub>
+
 ⭐ Starred `ENTERPILOT/GoModel` <sub>(2026-09-11)</sub>
 
 ⭐ Starred `0xzr/freellmpool` <sub>(2026-09-11)</sub>
@@ -229,8 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `HKUDS/nanobot` <sub>(2026-09-10)</sub>
 
 ⭐ Starred `frontman-ai/frontman` <sub>(2026-09-10)</sub>
-
-⭐ Starred `AgentSafeLabs/safelabs-eval` <sub>(2026-09-10)</sub>
 <!-- ACTIVITY_END -->
 
 ---
