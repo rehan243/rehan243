@@ -216,6 +216,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `MakazhanAlpamys/Soup` <sub>(2026-09-14)</sub>
+
+⭐ Starred `Epistates/pmetal` <sub>(2026-09-14)</sub>
+
 ⭐ Starred `vitali87/code-graph-rag` <sub>(2026-09-13)</sub>
 
 ⭐ Starred `s2b-dev/smart-second-brain` <sub>(2026-09-13)</sub>
@@ -227,10 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `jaylfc/taosmd` <sub>(2026-09-13)</sub>
 
 ⭐ Starred `nambok/mentedb` <sub>(2026-09-13)</sub>
-
-⭐ Starred `Arterning/DeepParseX` <sub>(2026-09-13)</sub>
-
-⭐ Starred `vbcherepanov/total-agent-memory` <sub>(2026-09-13)</sub>
 <!-- ACTIVITY_END -->
 
 ---
