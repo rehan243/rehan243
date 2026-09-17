@@ -216,6 +216,14 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `pinecone-io/canopy` <sub>(2026-09-17)</sub>
+
+⭐ Starred `wandb/wandb` <sub>(2026-09-17)</sub>
+
+⭐ Starred `stanfordnlp/dspy` <sub>(2026-09-17)</sub>
+
+⭐ Starred `lamost423/dsh-maze` <sub>(2026-09-17)</sub>
+
 ⭐ Starred `orneryd/NornicDB` <sub>(2026-09-16)</sub>
 
 ⭐ Starred `YoKONCy/TriviumDB` <sub>(2026-09-16)</sub>
@@ -223,14 +231,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `rryam/VecturaKit` <sub>(2026-09-16)</sub>
 
 ⭐ Starred `Sibyl-Labs/Sibyl-Memory` <sub>(2026-09-16)</sub>
-
-⭐ Starred `philippgille/chromem-go` <sub>(2026-09-16)</sub>
-
-⭐ Starred `parqdb-io/parqdb` <sub>(2026-09-16)</sub>
-
-⭐ Starred `ArcadeData/arcadedb` <sub>(2026-09-16)</sub>
-
-⭐ Starred `sqliteai/sqlite-vector` <sub>(2026-09-16)</sub>
 <!-- ACTIVITY_END -->
 
 ---
