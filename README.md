@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `noonghunna/club-3090` <sub>(2026-09-19)</sub>
+
+⭐ Starred `mezmo/aura` <sub>(2026-09-19)</sub>
+
+⭐ Starred `NirDiamant/agents-towards-production` <sub>(2026-09-19)</sub>
+
+⭐ Starred `HCF-STUDIOS/openhermit` <sub>(2026-09-19)</sub>
+
+⭐ Starred `deepseek-ai/DeepSeek-V3` <sub>(2026-09-19)</sub>
+
+⭐ Starred `RobbyDwk/TideLoom` <sub>(2026-09-19)</sub>
+
 ⭐ Starred `pydantic/pydantic-ai` <sub>(2026-09-18)</sub>
 
 ⭐ Starred `mindsdb/mindshub` <sub>(2026-09-18)</sub>
-
-⭐ Starred `jingyi0000/VLM_survey` <sub>(2026-09-18)</sub>
-
-⭐ Starred `assalas/pcb-designer-ai-agent` <sub>(2026-09-18)</sub>
-
-⭐ Starred `pinecone-io/canopy` <sub>(2026-09-17)</sub>
-
-⭐ Starred `wandb/wandb` <sub>(2026-09-17)</sub>
-
-⭐ Starred `stanfordnlp/dspy` <sub>(2026-09-17)</sub>
-
-⭐ Starred `lamost423/dsh-maze` <sub>(2026-09-17)</sub>
 <!-- ACTIVITY_END -->
 
 ---
