@@ -216,21 +216,21 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `upupmake/general-rag-system` <sub>(2026-09-23)</sub>
+
+⭐ Starred `Danielskry/Awesome-RAG` <sub>(2026-09-23)</sub>
+
+⭐ Starred `Renumics/renumics-rag` <sub>(2026-09-23)</sub>
+
+⭐ Starred `MDalamin5/End-to-End-Agentic-Ai-Automation-Lab` <sub>(2026-09-23)</sub>
+
+⭐ Starred `Azure-Samples/azure-openai-rag-workshop` <sub>(2026-09-23)</sub>
+
+⭐ Starred `linora-u/AgentLoom` <sub>(2026-09-23)</sub>
+
+⭐ Starred `cloudposse/atmos` <sub>(2026-09-23)</sub>
+
 ⭐ Starred `lucidrains/pi-zero-pytorch` <sub>(2026-09-21)</sub>
-
-⭐ Starred `cactus-compute/needle` <sub>(2026-09-21)</sub>
-
-⭐ Starred `sii-research/tau-0-vla` <sub>(2026-09-21)</sub>
-
-⭐ Starred `NVlabs/alpamayo2` <sub>(2026-09-21)</sub>
-
-⭐ Starred `noonghunna/club-3090` <sub>(2026-09-19)</sub>
-
-⭐ Starred `mezmo/aura` <sub>(2026-09-19)</sub>
-
-⭐ Starred `NirDiamant/agents-towards-production` <sub>(2026-09-19)</sub>
-
-⭐ Starred `HCF-STUDIOS/openhermit` <sub>(2026-09-19)</sub>
 <!-- ACTIVITY_END -->
 
 ---
