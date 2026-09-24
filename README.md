@@ -229,8 +229,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `linora-u/AgentLoom` <sub>(2026-09-23)</sub>
 
 ⭐ Starred `cloudposse/atmos` <sub>(2026-09-23)</sub>
-
-⭐ Starred `lucidrains/pi-zero-pytorch` <sub>(2026-09-21)</sub>
 <!-- ACTIVITY_END -->
 
 ---
