@@ -216,6 +216,10 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `traceloop/openllmetry` <sub>(2026-09-26)</sub>
+
+⭐ Starred `openinterpreter/openinterpreter` <sub>(2026-09-26)</sub>
+
 ⭐ Starred `jax-ml/jax` <sub>(2026-09-25)</sub>
 
 ⭐ Starred `argilla-io/argilla` <sub>(2026-09-25)</sub>
@@ -223,14 +227,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `songmzhang/KDFlow` <sub>(2026-09-25)</sub>
 
 ⭐ Starred `peremartra/Rearchitecting-LLMs` <sub>(2026-09-25)</sub>
-
-⭐ Starred `upupmake/general-rag-system` <sub>(2026-09-23)</sub>
-
-⭐ Starred `Danielskry/Awesome-RAG` <sub>(2026-09-23)</sub>
-
-⭐ Starred `Renumics/renumics-rag` <sub>(2026-09-23)</sub>
-
-⭐ Starred `MDalamin5/End-to-End-Agentic-Ai-Automation-Lab` <sub>(2026-09-23)</sub>
 <!-- ACTIVITY_END -->
 
 ---
