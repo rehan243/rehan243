@@ -216,17 +216,13 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `evalaiqa/Eval-ai-library` <sub>(2026-09-29)</sub>
+
+⭐ Starred `stefandevo/glm-acp-agent` <sub>(2026-09-29)</sub>
+
 ⭐ Starred `traceloop/openllmetry` <sub>(2026-09-26)</sub>
 
 ⭐ Starred `openinterpreter/openinterpreter` <sub>(2026-09-26)</sub>
-
-⭐ Starred `jax-ml/jax` <sub>(2026-09-25)</sub>
-
-⭐ Starred `argilla-io/argilla` <sub>(2026-09-25)</sub>
-
-⭐ Starred `songmzhang/KDFlow` <sub>(2026-09-25)</sub>
-
-⭐ Starred `peremartra/Rearchitecting-LLMs` <sub>(2026-09-25)</sub>
 <!-- ACTIVITY_END -->
 
 ---
