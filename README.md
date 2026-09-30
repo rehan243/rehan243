@@ -216,6 +216,12 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `mlc-ai/mlc-llm` <sub>(2026-09-30)</sub>
+
+⭐ Starred `BaYue-SYJ/shuixian-prompts` <sub>(2026-09-30)</sub>
+
+⭐ Starred `FurkanGozukara/Stable-Diffusion` <sub>(2026-09-30)</sub>
+
 ⭐ Starred `evalaiqa/Eval-ai-library` <sub>(2026-09-29)</sub>
 
 ⭐ Starred `stefandevo/glm-acp-agent` <sub>(2026-09-29)</sub>
