@@ -216,6 +216,8 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ## recent activity
 
 <!-- ACTIVITY_START -->
+⭐ Starred `GenAI-Security-Project/GenAI-Red-Team-Lab` <sub>(2026-10-01)</sub>
+
 ⭐ Starred `mlc-ai/mlc-llm` <sub>(2026-09-30)</sub>
 
 ⭐ Starred `BaYue-SYJ/shuixian-prompts` <sub>(2026-09-30)</sub>
@@ -225,10 +227,6 @@ i write about what i'm building and learning. nothing polished, more like notes 
 ⭐ Starred `evalaiqa/Eval-ai-library` <sub>(2026-09-29)</sub>
 
 ⭐ Starred `stefandevo/glm-acp-agent` <sub>(2026-09-29)</sub>
-
-⭐ Starred `traceloop/openllmetry` <sub>(2026-09-26)</sub>
-
-⭐ Starred `openinterpreter/openinterpreter` <sub>(2026-09-26)</sub>
 <!-- ACTIVITY_END -->
 
 ---
